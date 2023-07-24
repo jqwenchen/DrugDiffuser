@@ -1,11 +1,16 @@
 ## Environment Setup
-
 Install diffusers
 
 ```
 git clone https://github.com/huggingface/diffusers
 cd diffusers
 pip install .
+```
+
+## Data Preparation
+Get molecule SMILES representation, then convert to images for data preprocessing 
+``` 
+python smiles2img_pretrain.py --dataroot ./datasets/pretraining/ --dataset data
 ```
 
 ## Run
@@ -30,7 +35,7 @@ python --pretrained_model_name_or_path="CompVis/stable-diffusion-v1-4"
 --dataset_name="LiverTox"
 ```
 
-### MolImage Generation
+### Mol-Image Generation
 ```commandline
 python inference.py
 ```
