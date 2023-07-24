@@ -1,0 +1,800 @@
+drug name,drug class
+Abacavir,drug class is Antiviral Agents.generate smile image.
+Abemaciclib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Abiraterone,drug class is Antineoplastic Agents and Antiandrogens.generate smile image.
+Abrocitinib,drug class is Protein Kinase Inhibitors.generate smile image.
+Acalabrutinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Acamprosate,drug class is Substance Abuse Treatment Agents.generate smile image.
+Acarbose,drug class is Antidiabetic Agents.generate smile image.
+Acebutolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Acetaminophen,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Acetylcysteine,drug class is Antidotes  Toxicological Emergency.generate smile image.
+Acitretin,drug class is Dermatologic Agents; and Vitamins.generate smile image.
+Aclidinium,drug class is Anticholinergic Agents.generate smile image.
+Acrivastine,drug class is Antihistamines.generate smile image.
+Acyclovir,drug class is Antiviral Agents.generate smile image.
+Adefovir,drug class is Antiviral Agents.generate smile image.
+Afatinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Albendazole,drug class is Anthelmintic Agents.generate smile image.
+Albiglutide,drug class is Antidiabetic Agents.generate smile image.
+Alectinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Alfuzosin,drug class is Benign Prostatic Hypertrophy Agents.generate smile image.
+Aliskiren,drug class is Antihypertensive Agents.generate smile image.
+Allopurinol,drug class is Antigout Agents.generate smile image.
+Alogliptin,drug class is Antidiabetic Agents and Incretin-Based Drugs.generate smile image.
+Alpelisib,drug class is Antineoplastic Agents and Tyrosine Kinase Inhibitors.generate smile image.
+Alprazolam,drug class is Benzodiazepines.generate smile image.
+Altretamine,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Amantadine,drug class is Antiviral Agents and Antiparkinson Agents.generate smile image.
+Ambrisentan,drug class is Pulmonary Arterial Hypertension Agents.generate smile image.
+Amifampridine,drug class is Myasthenia Agents.generate smile image.
+Amikacin,drug class is Aminoglycosides.generate smile image.
+Amiloride,drug class is Diuretics.generate smile image.
+Amiodarone,drug class is Antiarrhythmic Agents.generate smile image.
+Amitriptyline,drug class is Antidepressant Agents.generate smile image.
+Amlodipine,drug class is Cardiovascular Agents  and Calcium Channel Blockers.generate smile image.
+Amodiaquine,drug class is Antimalarial Agents.generate smile image.
+Amoxapine,drug class is Antidepressant Agents.generate smile image.
+Amoxicillin,drug class is Antiinfective Agents and Aminopenicillins.generate smile image.
+Ampicillin,drug class is Antiinfective Agents and Aminopenicillins.generate smile image.
+Anagrelide,drug class is Antithrombotic Agents.generate smile image.
+Anastrozole,drug class is Antineoplastic Agents and Aromatase Inhibitors.generate smile image.
+Apalutamide,drug class is Antineoplastic Agents and Antiandrogens.generate smile image.
+Apixaban,drug class is Antithrombotic Agents and Anticoagulants.generate smile image.
+Apomorphine,drug class is Antiparkinson Agents.generate smile image.
+Apremilast,drug class is Dermatologic Agents  and Psoriasis Agents.generate smile image.
+Aprepitant,drug class is Gastrointestinal Agents and Antiemetic Agents.generate smile image.
+Aripiprazole,drug class is Antipsychotic Agents and Brexpiprazole.generate smile image.
+Arsenic,drug class is Trace Elements and Metals.generate smile image.
+Asenapine,drug class is Antipsychotic Agents.generate smile image.
+Ashwagandha,drug class is Herbal and Dietary Supplements.generate smile image.
+Asparaginase,drug class is Antineoplastic Agents.generate smile image.
+Aspirin,drug class is Antithrombotic Agents and Antiplatelet Agents and Salicylates.generate smile image.
+Atazanavir,drug class is Antiviral Agents.generate smile image.
+Atenolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Atomoxetine,drug class is Central Nervous System Stimulants and ADHD Agents.generate smile image.
+Atorvastatin,drug class is Antilipemic Agents.generate smile image.
+Atovaquone,drug class is Antimalarial Agents and Proguanil.generate smile image.
+Avanafil,drug class is PDE5 Inhibitors.generate smile image.
+Axitinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Azacitidine,drug class is Antineoplastic Agents.generate smile image.
+Azathioprine,drug class is Antineoplastic Agents and Antirheumatic Agents and Transplant Drugs and Purine Analogues.generate smile image.
+Azilsartan,drug class is Antihypertensive Agents and Angiotensin II Receptor Antagonists.generate smile image.
+Azithromycin,drug class is Antiinfective Agents and Macrolide Antibiotics.generate smile image.
+Aztreonam,drug class is Antiinfective Agents.generate smile image.
+Baclofen,drug class is Muscle Relaxants.generate smile image.
+Baloxavir,drug class is Antiviral Agents.generate smile image.
+Baricitinib,drug class is Antirheumatic Agents and Protein Kinase Inhibitors and COVID-19 Drugs.generate smile image.
+Bedaquiline,drug class is Antituberculosis Agents.generate smile image.
+Belinostat,drug class is Antineoplastic Agents.generate smile image.
+Benazepril,drug class is Antihypertensive Agents and Angiotensin-Converting Enzyme Inhibitors.generate smile image.
+Bendamustine,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Benzbromarone,drug class is Antigout Agents.generate smile image.
+Benznidazole,drug class is Antiinfective Agents.generate smile image.
+Benztropine,drug class is Antiparkinson Agents and Anticholinergic Agents.generate smile image.
+Berberine,drug class is Herbal and Dietary Supplements.generate smile image.
+Betaine,drug class is Genetic Disorder Agents.generate smile image.
+Betaxolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Betrixaban,drug class is Antithrombotic Agents and Anticoagulants.generate smile image.
+Bexarotene,drug class is Antineoplastic Agents and Retinoids.generate smile image.
+Bicalutamide,drug class is Antineoplastic Agents and Antiandrogens.generate smile image.
+Bictegravir,drug class is Antiviral Agents.generate smile image.
+Biperiden,drug class is Antiparkinson Agents.generate smile image.
+Bisacodyl,drug class is Gastrointestinal Agents.generate smile image.
+Bisoprolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Bleomycin,drug class is Antineoplastic Agents.generate smile image.
+Boceprevir,drug class is Antiviral Agents and Hepatitis C Agents and HCV Protease Inhibitors.generate smile image.
+Bortezomib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Bosentan,drug class is Pulmonary Arterial Hypertension Agents.generate smile image.
+Bosutinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Bremelanotide,drug class is CNS Stimulants; Female Hypoactive Sexual Desire Disorder Agents.generate smile image.
+Brexanolone,drug class is Antidepressant Agents.generate smile image.
+Brexpiprazole,drug class is Antipsychotic Agents.generate smile image.
+Brigatinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Brincidofovir,drug class is Antiviral Agents.generate smile image.
+Brivaracetam,drug class is Anticonvulsants.generate smile image.
+Bromocriptine,drug class is Antiparkinson Agents.generate smile image.
+Budesonide,drug class is Hormones  and Corticosteroids.generate smile image.
+Buprenorphine,drug class is Substance Abuse Treatment Agents and Opioids.generate smile image.
+Bupropion,drug class is Antidepressant Agents.generate smile image.
+Buspirone,drug class is Sedatives and Hypnotics.generate smile image.
+Busulfan,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Butorphanol,drug class is Opioids.generate smile image.
+Cabazitaxel,drug class is Antineoplastic Agents and Taxanes.generate smile image.
+Cabozantinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Caffeine,drug class is CNS Stimulants and Xanthine Derivatives.generate smile image.
+Candesartan,drug class is Antihypertensive Agents and Angiotensin II Receptor Antagonists.generate smile image.
+Cangrelor,drug class is Antithrombotic Agents and Antiplatelet Agents.generate smile image.
+Cannabidiol,drug class is Anticonvulsants and Marijuana.generate smile image.
+Capecitabine,drug class is Antineoplastic Agents.generate smile image.
+Capreomycin,drug class is Antituberculosis Agents.generate smile image.
+Captopril,drug class is Antihypertensive Agents and Angiotensin-Converting Enzyme Inhibitors.generate smile image.
+Carbamazepine,drug class is Anticonvulsants.generate smile image.
+Carbinoxamine,drug class is Antihistamines.generate smile image.
+Carboplatin,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Carfilzomib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Cariprazine,drug class is Antipsychotic Agents.generate smile image.
+Carisoprodol,drug class is Muscle Relaxants.generate smile image.
+Carmustine,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Carvedilol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Ceftriaxone,drug class is Antiinfective Agents  and Cephalosporins.generate smile image.
+Celecoxib,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Cenobamate,drug class is Anticonvulsants.generate smile image.
+Ceritinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Cevimeline,drug class is Sjögren Syndrome Agents  Cholinergic Agents.generate smile image.
+Chamomile,drug class is Herbal and Dietary Supplements.generate smile image.
+Chenodiol,drug class is Gastrointestinal Agents and Bile Acids.generate smile image.
+ChloralHydrate,drug class is Sedatives and Hypnotics.generate smile image.
+Chlorambucil,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Chloramphenicol,drug class is Antiinfective Agents.generate smile image.
+Chlordiazepoxide,drug class is Benzodiazepines.generate smile image.
+Chloroquine,drug class is Antimalarial Agents and Hydroxychloroquine.generate smile image.
+Chlorpromazine,drug class is Gastrointestinal Agents; and Antipsychotic Agents.generate smile image.
+Chlorzoxazone,drug class is Muscle Relaxants.generate smile image.
+Cholestyramine,drug class is Antilipemic Agents and Bile Acid Resins/Sequestrants.generate smile image.
+CholicAcid,drug class is Gastrointestinal Agents and Bile Acids.generate smile image.
+Cidofovir,drug class is Antiviral Agents.generate smile image.
+Cilostazol,drug class is Cardiovascular Drugs  Intermittent Claudication Agents.generate smile image.
+Cimetidine,drug class is Antiulcer Agents.generate smile image.
+Ciprofloxacin,drug class is Antiinfective Agents.generate smile image.
+Cisplatin,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Cladribine,drug class is Antineoplastic Agents.generate smile image.
+Clarithromycin,drug class is Antiinfective Agents and Macrolide Antibiotics.generate smile image.
+Clemastine,drug class is Antihistamines.generate smile image.
+Clindamycin,drug class is Antiinfective Agents.generate smile image.
+Clobazam,drug class is Anticonvulsants and Benzodiazepines.generate smile image.
+Clofarabine,drug class is Antineoplastic Agents.generate smile image.
+Clofazimine,drug class is Antiinfective Agents.generate smile image.
+Clofibrate,drug class is Antilipemic Agents and Fibrates.generate smile image.
+Clomiphene,drug class is Infertility Agents.generate smile image.
+Clomipramine,drug class is Antidepressant Agents.generate smile image.
+Clonazepam,drug class is Anticonvulsants and Benzodiazepines.generate smile image.
+Clonidine,drug class is Antihypertensive Agents and ADHD Agents.generate smile image.
+Clopidogrel,drug class is Antithrombotic Agents and Antiplatelet Agents.generate smile image.
+Clorazepate,drug class is Anticonvulsants and Benzodiazepines.generate smile image.
+Clotrimazole,drug class is Antifungal Agents.generate smile image.
+Clozapine,drug class is Antipsychotic Agents.generate smile image.
+Cobimetinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Cocaine,drug class is CNS Stimulants.generate smile image.
+Codeine,drug class is Opioids.generate smile image.
+Colchicine,drug class is Antigout Agents.generate smile image.
+Colesevelam,drug class is Antilipemic Agents and Bile Acid Resins/Sequestrants.generate smile image.
+Colestipol,drug class is Antilipemic Agents and Bile Acid Resins/Sequestrants.generate smile image.
+Comfrey,drug class is Herbal and Dietary Supplements.generate smile image.
+Copanlisib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Copper,drug class is Trace Elements and Metals.generate smile image.
+Crizotinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Crofelemer,drug class is Gastrointestinal Agents and Herbal and Dietary Supplements.generate smile image.
+Cyclobenzaprine,drug class is Muscle Relaxants.generate smile image.
+Cyclophosphamide,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Cycloserine,drug class is Antituberculosis Agents.generate smile image.
+Cyclosporine,drug class is Transplant Agents and Antirheumatic Agents.generate smile image.
+Cyproheptadine,drug class is Antihistamines.generate smile image.
+Cyproterone,drug class is Antineoplastic Agents and Antiandrogens.generate smile image.
+Cysteamine,drug class is Genetic Disorder Agents.generate smile image.
+Cytarabine,drug class is Antineoplastic Agents.generate smile image.
+Dabigatran,drug class is Antithrombotic Agents and Anticoagulants.generate smile image.
+Dabrafenib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors and Trametinib.generate smile image.
+Dacarbazine,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Daclatasvir,drug class is Antiviral Agents and Hepatitis C Agents.generate smile image.
+Dacomitinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Dactinomycin,drug class is Antineoplastic Agents.generate smile image.
+Dalfampridine,drug class is Multiple Sclerosis Agents.generate smile image.
+Dantrolene,drug class is Muscle Relaxants.generate smile image.
+Dapsone,drug class is Antiinfective Agents and Sulfonamides.generate smile image.
+Daptomycin,drug class is Antiinfective Agents.generate smile image.
+Darifenacin,drug class is Anticholinergic Agents.generate smile image.
+Darolutamide,drug class is Antineoplastic Agents and Antiandrogens.generate smile image.
+Darunavir,drug class is Antiviral Agents.generate smile image.
+Dasatinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Daunorubicin,drug class is Antineoplastic Agents.generate smile image.
+Decitabine,drug class is Antineoplastic Agents.generate smile image.
+Deferasirox,drug class is Hematological Agents; and Chelating Agents.generate smile image.
+Deferiprone,drug class is Hematological Agents; and Chelating Agents.generate smile image.
+Deferoxamine,drug class is Hematological Agents; and Chelating Agents.generate smile image.
+Defibrotide,drug class is Antithrombotic Agents.generate smile image.
+Degarelix,drug class is Antineoplastic Agents and GnRH Analogues.generate smile image.
+Delafloxacin,drug class is Antiinfective Agents.generate smile image.
+Delavirdine,drug class is Antiviral Agents.generate smile image.
+Demeclocycline,drug class is Antiinfective Agents and Tetracyclines.generate smile image.
+Desflurane,drug class is Halogenated Anesthetics.generate smile image.
+Desipramine,drug class is Antidepressant Agents.generate smile image.
+Desirudin,drug class is Antithrombotic Agents and Anticoagulants.generate smile image.
+Diclofenac,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Dicloxacillin,drug class is Penicillin (Penicillinase-Resistant).generate smile image.
+Dicyclomine,drug class is Anticholinergic Agents.generate smile image.
+Didanosine,drug class is Antiviral Agents.generate smile image.
+Diethylpropion,drug class is Weight Loss Agents.generate smile image.
+Diflunisal,drug class is Salicylates and Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Diltiazem,drug class is Cardiovascular Agents  and Antihypertensive Agents and Calcium Channel Blockers.generate smile image.
+Dimenhydrinate,drug class is Antihistamines.generate smile image.
+Dimercaprol,drug class is Chelating Agents and Wilson Disease Agents.generate smile image.
+DimethylFumarate,drug class is Multiple Sclerosis Agents.generate smile image.
+Diphenhydramine,drug class is Antihistamines.generate smile image.
+Diphenoxylate,drug class is Gastrointestinal Agents and Opioids.generate smile image.
+Dipyridamole,drug class is Antithrombotic Agents and Antiplatelet Agents.generate smile image.
+Disopyramide,drug class is Antiarrhythmic Agents.generate smile image.
+Disulfiram,drug class is Substance Abuse Treatment Agents.generate smile image.
+Docetaxel,drug class is Antineoplastic Agents and Taxanes.generate smile image.
+Docusate,drug class is Gastrointestinal Agents  Cathartics and Laxatives.generate smile image.
+Dofetilide,drug class is Antiarrhythmic Agents.generate smile image.
+Dolutegravir,drug class is Antiviral Agents.generate smile image.
+Donepezil,drug class is Alzheimer Disease Agents.generate smile image.
+Doravirine,drug class is Antiviral Agents.generate smile image.
+Doripenem,drug class is Antiinfective Agents and Carbapenems.generate smile image.
+Doxazosin,drug class is Antihypertensive Agents and Benign Prostatic Hypertrophy Agents.generate smile image.
+Doxepin,drug class is Antidepressant Agents.generate smile image.
+Doxycycline,drug class is Antiinfective Agents and Tetracyclines.generate smile image.
+Doxylamine,drug class is Antihistamines.generate smile image.
+Dronabinol,drug class is Gastrointestinal Agents and Antiemetics.generate smile image.
+Dronedarone,drug class is Antiarrhythmic Agents.generate smile image.
+Droxidopa,drug class is Antiparkinson Agents.generate smile image.
+Duloxetine,drug class is Antidepressant Agents.generate smile image.
+Dutasteride,drug class is Benign Prostatic Hypertrophy Agents and 5-Alpha Reductase Inhibitors.generate smile image.
+Duvelisib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Edaravone,drug class is Alzheimer Disease Agents.generate smile image.
+Edoxaban,drug class is Antithrombotic Agents and Anticoagulants.generate smile image.
+Efavirenz,drug class is Antiviral Agents.generate smile image.
+Elagolix,drug class is Obstetrical and Gynecological Agents  Gonadotropin Releasing Hormone Antagonists.generate smile image.
+Eliglustat,drug class is Gaucher Disease Agents.generate smile image.
+Eluxadoline,drug class is Gastrointestinal Agents.generate smile image.
+Emtricitabine,drug class is Antiviral Agents.generate smile image.
+Enalapril,drug class is Antihypertensive Agents and Angiotensin-Converting Enzyme Inhibitors.generate smile image.
+Enasidenib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Enflurane,drug class is Halogenated Anesthetics.generate smile image.
+Enfuvirtide,drug class is Antiviral Agents.generate smile image.
+Entacapone,drug class is Parkinson Disease Agents.generate smile image.
+Entecavir,drug class is Antiviral Agents.generate smile image.
+Entrectinib,drug class is Antineoplastic Agents and Tyrosine Kinase Inhibitors.generate smile image.
+Enzalutamide,drug class is Antineoplastic Agents and Antiandrogens.generate smile image.
+Eplerenone,drug class is Diuretics.generate smile image.
+Eprosartan,drug class is Antihypertensive Agents and Angiotensin II Receptor Antagonists.generate smile image.
+Eravacycline,drug class is Antiinfective Agents and Tetracyclines.generate smile image.
+Erdafitinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Eribulin,drug class is Antineoplastic Agents.generate smile image.
+Erlotinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Ertapenem,drug class is Antiinfective Agents and Carbapenems.generate smile image.
+Erythromycin,drug class is Antiinfective Agents and Macrolide Antibiotics.generate smile image.
+Esketamine,drug class is Antidepressant Agents.generate smile image.
+Eslicarbazepine,drug class is Anticonvulsants.generate smile image.
+Esmolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Estazolam,drug class is Sedatives and Hypnotics and Benzodiazepines.generate smile image.
+Eszopiclone,drug class is Sedatives and Hypnotics.generate smile image.
+Ethambutol,drug class is Antituberculosis Agents.generate smile image.
+Ethionamide,drug class is Antituberculosis Agents.generate smile image.
+Ethosuximide,drug class is Anticonvulsants.generate smile image.
+Etodolac,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Etravirine,drug class is Antiviral Agents.generate smile image.
+Eugenol,drug class is Herbal and Dietary Supplements.generate smile image.
+Everolimus,drug class is Antineoplastic Agents and Transplant Agents.generate smile image.
+Exemestane,drug class is Antineoplastic Agents and Aromatase Inhibitors.generate smile image.
+Exenatide,drug class is Antidiabetic Agents.generate smile image.
+Ezetimibe,drug class is Antilipemic Agents.generate smile image.
+Ezogabine,drug class is Anticonvulsants.generate smile image.
+Famciclovir,drug class is Antiviral Agents.generate smile image.
+Famotidine,drug class is Antiulcer Agents.generate smile image.
+Febuxostat,drug class is Antigout Agents.generate smile image.
+Fedratinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Felbamate,drug class is Anticonvulsants.generate smile image.
+Felodipine,drug class is Cardiovascular Agents  and Calcium Channel Blockers.generate smile image.
+Fenofibrate,drug class is Antilipemic Agents and Fibrates.generate smile image.
+Fenoprofen,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Fesoterodine,drug class is Anticholinergic Agents.generate smile image.
+Fexofenadine,drug class is Antihistamines.generate smile image.
+Fibrates,drug class is Antilipemic Agents.generate smile image.
+Fidaxomicin,drug class is Antiinfective Agents and Macrolide Antibiotics.generate smile image.
+Finasteride,drug class is Benign Prostatic Hypertrophy Agents and 5-Alpha Reductase Inhibitors.generate smile image.
+Fingolimod,drug class is Multiple Sclerosis Agents.generate smile image.
+Flavocoxid,drug class is Herbal and Dietary Supplements and Antirheumatic Agents.generate smile image.
+Flavoxate,drug class is Anticholinergic Agents.generate smile image.
+Flecainide,drug class is Antiarrhythmic Agents.generate smile image.
+Flibanserin,drug class is Antidepressant Agents.generate smile image.
+Floxuridine,drug class is Antineoplastic Agents.generate smile image.
+Fluconazole,drug class is Antifungal Agents.generate smile image.
+Flucytosine,drug class is Antifungal Agents.generate smile image.
+Fludarabine,drug class is Antineoplastic Agents.generate smile image.
+Fluorouracil,drug class is Antineoplastic Agents.generate smile image.
+Fluoxetine,drug class is Antidepressant Agents.generate smile image.
+Fluphenazine,drug class is Antipsychotic Agents.generate smile image.
+Flurazepam,drug class is Sedatives and Hypnotics and Benzodiazepines.generate smile image.
+Flurbiprofen,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Flutamide,drug class is Antineoplastic Agents and Antiandrogens.generate smile image.
+Fluvastatin,drug class is Antilipemic Agents.generate smile image.
+Fluvoxamine,drug class is Antidepressant Agents and COVID-19 Drugs.generate smile image.
+Fondaparinux,drug class is Antithrombotic Agents and Anticoagulants.generate smile image.
+Foscarnet,drug class is Antiviral Agents.generate smile image.
+Fosfomycin,drug class is Antiinfective Agents.generate smile image.
+Fosinopril,drug class is Antihypertensive Agents and Angiotensin-Converting Enzyme Inhibitors.generate smile image.
+Fosphenytoin,drug class is Anticonvulsants and Phenytoin.generate smile image.
+Fostamatinib,drug class is Hematologic Growth Factors  and Protein Kinase Inhibitors.generate smile image.
+Fulvestrant,drug class is Antineoplastic Agents.generate smile image.
+Futibatinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Gabapentin,drug class is Anticonvulsants.generate smile image.
+GabapentinEnacarbil,drug class is Anticonvulsants.generate smile image.
+Galantamine,drug class is Alzheimer Disease Agents.generate smile image.
+Gefitinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Gemcitabine,drug class is Antineoplastic Agents.generate smile image.
+Gemfibrozil,drug class is Antilipemic Agents and Fibrates.generate smile image.
+Gemifloxacin,drug class is Antiinfective Agents.generate smile image.
+Gentamicin,drug class is Aminoglycosides.generate smile image.
+Gilteritinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Givosiran,drug class is Genetic Disorder Agents.generate smile image.
+Glasdegib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Glucosamine,drug class is Herbal and Dietary Supplements.generate smile image.
+Glycopyrrolate,drug class is Gastrointestinal Agents and Anticholinergic Agents.generate smile image.
+Goserelin,drug class is Antineoplastic Agents and GnRH Analogues.generate smile image.
+Griseofulvin,drug class is Antifungal Agents.generate smile image.
+Guanfacine,drug class is Antihypertensive Agents and ADHD Agents.generate smile image.
+Haloperidol,drug class is Antipsychotic Agents.generate smile image.
+Halothane,drug class is Halogenated Anesthetics.generate smile image.
+Heparin,drug class is Antithrombotic Agents and Anticoagulants.generate smile image.
+Histrelin,drug class is Antineoplastic Agents and GnRH Analogues.generate smile image.
+Hydralazine,drug class is Antihypertensive Agents.generate smile image.
+Hydrocodone,drug class is Opioids.generate smile image.
+Hydroxychloroquine,drug class is Antirheumatic Agents.generate smile image.
+Hydroxyurea,drug class is Antineoplastic Agents and Hematologic and Sickle Cell Disease Agents.generate smile image.
+Hydroxyzine,drug class is Antihistamines.generate smile image.
+Hyoscyamine,drug class is Gastrointestinal Agents and Anticholinergic Agents.generate smile image.
+Ibrutinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Ibuprofen,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Idelalisib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Ifosfamide,drug class is Antineoplastic Agents and Alkylating Agents and Cyclophosphamide.generate smile image.
+Iloperidone,drug class is Antipsychotic Agents.generate smile image.
+Imatinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Imipramine,drug class is Antidepressant Agents.generate smile image.
+Inclisiran,drug class is Genetic Disorder Agents  and Antilipemic Agents.generate smile image.
+Indinavir,drug class is Antiviral Agents.generate smile image.
+Indomethacin,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Infigratinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Insulin,drug class is Hormonal Agents; and Antidiabetic Agents.generate smile image.
+Ipratropium,drug class is Anticholinergic Agents.generate smile image.
+Irbesartan,drug class is Antihypertensive Agents and Angiotensin II Receptor Antagonists.generate smile image.
+Iron,drug class is Trace Elements and Metals.generate smile image.
+Isavuconazonium,drug class is Antifungal Agents.generate smile image.
+Isocarboxazid,drug class is Antidepressant Agents.generate smile image.
+Isoflurane,drug class is Halogenated Anesthetics.generate smile image.
+Isoniazid,drug class is Antituberculosis Agents.generate smile image.
+Isotretinoin,drug class is Dermatologic Agents; and Vitamins.generate smile image.
+Isradipine,drug class is Cardiovascular Agents  and Calcium Channel Blockers.generate smile image.
+Istradefylline,drug class is Parkinson Disease Agents.generate smile image.
+Itraconazole,drug class is Antifungal Agents.generate smile image.
+Ivabradine,drug class is Antiarrhythmic Agents.generate smile image.
+Ivermectin,drug class is Anthelmintic Agents.generate smile image.
+Ivosidenib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Ixabepilone,drug class is Antineoplastic Agents.generate smile image.
+Ixazomib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Ketamine,drug class is Anesthetics  General.generate smile image.
+Ketoconazole,drug class is Antifungal Agents.generate smile image.
+Ketoprofen,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Ketorolac,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+L-Glutamine,drug class is Genetic Disorder Agents  and Hematologic and Sickle Cell Disease Agents.generate smile image.
+Labetalol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Lacosamide,drug class is Anticonvulsants.generate smile image.
+Lamivudine,drug class is Antiviral Agents.generate smile image.
+Lamotrigine,drug class is Anticonvulsants.generate smile image.
+Lanreotide,drug class is Hormonal Agents; and Antineoplastic Agents and Gastrointestinal Agents.generate smile image.
+Lansoprazole,drug class is Antiulcer Agents.generate smile image.
+Lapatinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Larotrectinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Lasmiditan,drug class is Migraine Headache Agents.generate smile image.
+Lefamulin,drug class is Antiinfective Agents.generate smile image.
+Leflunomide,drug class is Antirheumatic Agents.generate smile image.
+Lemborexant,drug class is Sedatives and Hypnotics.generate smile image.
+Lenalidomide,drug class is Antineoplastic Agents.generate smile image.
+Lenvatinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Lesinurad,drug class is Antigout Agents.generate smile image.
+Letermovir,drug class is Antiviral Agents.generate smile image.
+Letrozole,drug class is Antineoplastic Agents and Aromatase Inhibitors.generate smile image.
+Leuprolide,drug class is Antineoplastic Agents and GnRH Analogues.generate smile image.
+Levetiracetam,drug class is Anticonvulsants.generate smile image.
+Levofloxacin,drug class is Antiinfective Agents.generate smile image.
+Levorphanol,drug class is Opioids.generate smile image.
+Linaclotide,drug class is Gastrointestinal Agents.generate smile image.
+Linagliptin,drug class is Antidiabetic Agents and Incretin-Based Drugs.generate smile image.
+Linezolid,drug class is Antiinfective Agents.generate smile image.
+Liraglutide,drug class is Antidiabetic Agents.generate smile image.
+Lisinopril,drug class is Antihypertensive Agents and Angiotensin-Converting Enzyme Inhibitors.generate smile image.
+Lithium,drug class is Antipsychotic Agents and Trace Elements and Metals.generate smile image.
+Lixisenatide,drug class is Antidiabetic Agents.generate smile image.
+Lomustine,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Lonafarnib,drug class is Genetic Disease Agents  and Protein Kinase Inhibitors.generate smile image.
+Loperamide,drug class is Gastrointestinal Agents and Opioids.generate smile image.
+Lopinavir,drug class is Antiviral Agents.generate smile image.
+Lorazepam,drug class is Sedatives and Hypnotics and Benzodiazepines.generate smile image.
+Lorcaserin,drug class is Weight Loss Agents.generate smile image.
+Lorlatinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Losartan,drug class is Antihypertensive Agents and Angiotensin II Receptor Antagonists.generate smile image.
+Lovastatin,drug class is Antilipemic Agents.generate smile image.
+Loxapine,drug class is Antipsychotic Agents.generate smile image.
+Lubiprostone,drug class is Gastrointestinal Agents.generate smile image.
+Lumateperone,drug class is Antipsychotic Agents.generate smile image.
+Lurasidone,drug class is Antipsychotic Agents.generate smile image.
+Lurbinectedin,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Macitentan,drug class is Pulmonary Arterial Hypertension Agents.generate smile image.
+Maralixibat,drug class is Ileal Bile Acid Transporter (IBAT) Inhibitors.generate smile image.
+Maraviroc,drug class is Antiviral Agents.generate smile image.
+Maribavir,drug class is Antiviral Agents.generate smile image.
+Mebendazole,drug class is Anthelmintic Agents.generate smile image.
+Mechlorethamine,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Meclizine,drug class is Antihistamines.generate smile image.
+Mefloquine,drug class is Antimalarial Agents.generate smile image.
+Melatonin,drug class is Herbal and Dietary Supplements and Sedatives and Hypnotics.generate smile image.
+Meloxicam,drug class is Nonsteroidal Antiinflammatory Drugs and Piroxicam.generate smile image.
+Melphalan,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Memantine,drug class is Alzheimer Disease Agents.generate smile image.
+Mepacrine,drug class is Antimalarial Agents.generate smile image.
+Mepenzolate,drug class is Anticholinergic Agents.generate smile image.
+Meperidine,drug class is Opioids.generate smile image.
+Meprobamate,drug class is Sedatives and Hypnotics.generate smile image.
+Mercaptopurine,drug class is Antineoplastic Agents.generate smile image.
+Meropenem,drug class is Antiinfective Agents and Carbapenems.generate smile image.
+Mesalamine,drug class is Gastrointestinal Agents and Sulfasalazine.generate smile image.
+Metaxalone,drug class is Muscle Relaxants.generate smile image.
+Metformin,drug class is Antidiabetic Agents.generate smile image.
+Methadone,drug class is Opioids.generate smile image.
+Methenamine,drug class is Antiinfective Agents.generate smile image.
+Methimazole,drug class is Antithyroid Agents.generate smile image.
+Methocarbamol,drug class is Muscle Relaxants.generate smile image.
+Methotrexate,drug class is Antineoplastic Agents and Antirheumatic Agents and Gastrointestinal Agents.generate smile image.
+Methsuximide,drug class is Anticonvulsants.generate smile image.
+Methyldopa,drug class is Antihypertensive Agents.generate smile image.
+Methylphenidate,drug class is CNS Stimulants.generate smile image.
+Metoclopramide,drug class is Gastrointestinal Agents and Antiemetics.generate smile image.
+Metoprolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Metronidazole,drug class is Antiinfective Agents.generate smile image.
+Mexiletine,drug class is Antiarrhythmic Agents.generate smile image.
+Midazolam,drug class is Sedatives and Hypnotics and Benzodiazepines.generate smile image.
+Midostaurin,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Mifepristone,drug class is Obstetrical and Gynecological Agents  Pregnancy Termination Agents.generate smile image.
+Migalastat,drug class is Genetic Disorder Agents.generate smile image.
+Miglitol,drug class is Antidiabetic Agents.generate smile image.
+Miglustat,drug class is Gaucher Disease Agents.generate smile image.
+Miltefosine,drug class is Antiinfective Agents.generate smile image.
+Minocycline,drug class is Antiinfective Agents and Tetracyclines.generate smile image.
+Minoxidil,drug class is Antihypertensive Agents.generate smile image.
+Mirabegron,drug class is Urologic Agents  Overactive Bladder Syndrome Agents.generate smile image.
+Mirtazapine,drug class is Antidepressant Agents.generate smile image.
+Mitomycin,drug class is Antineoplastic Agents.generate smile image.
+Mitotane,drug class is Antineoplastic Agents.generate smile image.
+Moexipril,drug class is Antihypertensive Agents and Angiotensin-Converting Enzyme Inhibitors.generate smile image.
+Molindone,drug class is Antipsychotic Agents.generate smile image.
+Molnupiravir,drug class is Antiviral Agents.generate smile image.
+Montelukast,drug class is Antiasthmatic Agents.generate smile image.
+Morphine,drug class is Opioids.generate smile image.
+Moxifloxacin,drug class is Antiinfective Agents.generate smile image.
+Mycophenolate,drug class is Transplant Agents and Antirheumatic Agents.generate smile image.
+Nabilone,drug class is Gastrointestinal Agents and Antiemetic Agents.generate smile image.
+Nabumetone,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Nadolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Nafcillin,drug class is Penicillin (Penicillinase-Resistant).generate smile image.
+Naldemedine,drug class is Gastrointestinal Agents and Opioid Antagonists and Substance Abuse Treatment Agents.generate smile image.
+Nalmefene,drug class is Opioid Antagonists; see also and Substance Abuse Treatment Agents.generate smile image.
+Naloxegol,drug class is Gastrointestinal Agents and Opioid Antagonists and Substance Abuse Treatment Agents.generate smile image.
+Naloxone,drug class is Opioid Antagonists; see also and Substance Abuse Treatment Agents.generate smile image.
+Naltrexone,drug class is Substance Abuse Treatment Agents.generate smile image.
+Naproxen,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Nateglinide,drug class is Antidiabetic Agents.generate smile image.
+Nebivolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Nefazodone,drug class is Antidepressant Agents.generate smile image.
+Nelarabine,drug class is Antineoplastic Agents.generate smile image.
+Nelfinavir,drug class is Antiviral Agents.generate smile image.
+Neomycin,drug class is Aminoglycosides.generate smile image.
+Neratinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Nevirapine,drug class is Antiviral Agents.generate smile image.
+Niacin,drug class is Antilipemic Agents and Vitamins.generate smile image.
+Nicardipine,drug class is Cardiovascular Agents  and Calcium Channel Blockers.generate smile image.
+Nicotine,drug class is Substance Abuse Treatment Agents.generate smile image.
+Nifedipine,drug class is Cardiovascular Agents  and Calcium Channel Blockers.generate smile image.
+Nilotinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Nilutamide,drug class is Antineoplastic Agents and Antiandrogens.generate smile image.
+Nimesulide,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Nimodipine,drug class is Cardiovascular Agents  and Calcium Channel Blockers.generate smile image.
+Nintedanib,drug class is Pulmonary Fibrosis Agents.generate smile image.
+Niraparib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Nisoldipine,drug class is Cardiovascular Agents  and Calcium Channel Blockers.generate smile image.
+Nitazoxanide,drug class is Anthelmintic Agents.generate smile image.
+Nitisinone,drug class is Genetic Disorder Agents (Liver Diseases)  Enzyme Inhibitors.generate smile image.
+Nitrofurantoin,drug class is Antiinfective Agents.generate smile image.
+Nizatidine,drug class is Antiulcer Agents.generate smile image.
+Norfloxacin,drug class is Antiinfective Agents.generate smile image.
+Nortriptyline,drug class is Antidepressant Agents.generate smile image.
+Nystatin,drug class is Antifungal Agents.generate smile image.
+Octreotide,drug class is Hormonal Agents; and Antineoplastic Agents and Gastrointestinal Agents.generate smile image.
+Odevixibat,drug class is Ileal Bile Acid Transporter (IBAT) Inhibitors.generate smile image.
+Ofloxacin,drug class is Antiinfective Agents.generate smile image.
+Olanzapine,drug class is Antipsychotic Agents.generate smile image.
+Olaparib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Olmesartan,drug class is Antihypertensive Agents and Angiotensin II Receptor Antagonists.generate smile image.
+Omacetaxine,drug class is Antineoplastic Agents.generate smile image.
+Omadacycline,drug class is Antiinfective Agents and Tetracyclines.generate smile image.
+Omeprazole,drug class is Antiulcer Agents.generate smile image.
+Opicapone,drug class is Parkinson Disease Agents.generate smile image.
+Orlistat,drug class is Weight Loss Agents.generate smile image.
+Orphenadrine,drug class is Muscle Relaxants.generate smile image.
+Oseltamivir,drug class is Antiviral Agents.generate smile image.
+Osimertinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Oxacillin,drug class is Penicillin (Penicillinase-Resistant).generate smile image.
+Oxaliplatin,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Oxaprozin,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Oxazepam,drug class is Benzodiazepines.generate smile image.
+Oxcarbazepine,drug class is Anticonvulsants and Carbamazepine.generate smile image.
+Oxybate,drug class is CNS Stimulants.generate smile image.
+Oxybutynin,drug class is Anticholinergic Agents.generate smile image.
+Oxycodone,drug class is Opioids.generate smile image.
+Ozanimod,drug class is Multiple Sclerosis Agents.generate smile image.
+Paclitaxel,drug class is Antineoplastic Agents and Taxanes.generate smile image.
+Palbociclib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Paliperidone,drug class is Antipsychotic Agents.generate smile image.
+Panobinostat,drug class is Antineoplastic Agents.generate smile image.
+Pantoprazole,drug class is Antiulcer Agents.generate smile image.
+Paroxetine,drug class is Antidepressant Agents.generate smile image.
+Pasireotide,drug class is Hormonal Agents; and Antineoplastic Agents and Gastrointestinal Agents.generate smile image.
+Paxlovid,drug class is Antiviral Agents.generate smile image.
+Pazopanib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Pemetrexed,drug class is Antineoplastic Agents.generate smile image.
+Pemigatinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Penbutolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Penicillamine,drug class is Antirheumatic Agents and Chelating Agents and Wilson Disease Agents.generate smile image.
+Pentamidine,drug class is Antifungal Agents.generate smile image.
+Pentazocine,drug class is Opioids.generate smile image.
+Pentostatin,drug class is Antineoplastic Agents.generate smile image.
+Pentoxifylline,drug class is Cardiovascular Drugs  Intermittent Claudication Agents; and Xanthine Derivatives.generate smile image.
+Peramivir,drug class is Antiviral Agents.generate smile image.
+Perampanel,drug class is Anticonvulsants.generate smile image.
+Pergolide,drug class is Antiparkinson Agents.generate smile image.
+Perindopril,drug class is Antihypertensive Agents and Angiotensin-Converting Enzyme Inhibitors.generate smile image.
+Perphenazine,drug class is Antipsychotic Agents.generate smile image.
+Pexidartinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Phencyclidine,drug class is Agents of Abuse; Anesthetics  General (withdrawn from market).generate smile image.
+Phenelzine,drug class is Antidepressant Agents.generate smile image.
+Phenobarbital,drug class is Anticonvulsants and Sedatives and Hypnotics.generate smile image.
+Phentermine,drug class is Weight Loss Agents and Phentermine-Topiramate.generate smile image.
+Phenylbutyrate,drug class is Genetic Disorder Agents  Urea Cycle Disorder Agents (Hyperammonemia).generate smile image.
+Phenyltoloxamine,drug class is Antihistamines.generate smile image.
+Phenytoin,drug class is Anticonvulsants.generate smile image.
+Pilocarpine,drug class is Sjögren Syndrome Agents  Cholinergic Agents.generate smile image.
+Pimavanserin,drug class is Antipsychotic Agents.generate smile image.
+Pimozide,drug class is Antipsychotic Agents.generate smile image.
+Pindolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Pioglitazone,drug class is Antidiabetic Agents.generate smile image.
+Piperacillin,drug class is Antiinfective Agents  and Penicillins (Fourth Generation).generate smile image.
+Pirfenidone,drug class is Pulmonary Fibrosis Agents.generate smile image.
+Piroxicam,drug class is Nonsteroidal Antiinflammatory Drugs and Meloxicam.generate smile image.
+Pitavastatin,drug class is Antilipemic Agents.generate smile image.
+Pitolisant,drug class is CNS Stimulants.generate smile image.
+Plazomicin,drug class is Aminoglycosides.generate smile image.
+Plecanatide,drug class is Gastrointestinal Agents.generate smile image.
+Plerixafor,drug class is Hematologic Agents  and Transplant Agents.generate smile image.
+Plicamycin,drug class is Antineoplastic Agents.generate smile image.
+Pomalidomide,drug class is Antineoplastic Agents.generate smile image.
+Ponatinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Ponesimod,drug class is Multiple Sclerosis Agents.generate smile image.
+Posaconazole,drug class is Antifungal Agents.generate smile image.
+Pralatrexate,drug class is Antineoplastic Agents.generate smile image.
+Pramipexole,drug class is Antiparkinson Agents.generate smile image.
+Pramlintide,drug class is Antidiabetic Agents.generate smile image.
+Prasugrel,drug class is Antithrombotic Agents and Antiplatelet Agents.generate smile image.
+Pravastatin,drug class is Antilipemic Agents.generate smile image.
+Praziquantel,drug class is Anthelmintic Agents.generate smile image.
+Prazosin,drug class is Antihypertensive Agents.generate smile image.
+Pregabalin,drug class is Anticonvulsants.generate smile image.
+Primaquine,drug class is Antimalarial Agents.generate smile image.
+Primidone,drug class is Anticonvulsants.generate smile image.
+Probenecid,drug class is Antigout Agents.generate smile image.
+Procainamide,drug class is Antiarrhythmic Agents.generate smile image.
+Procarbazine,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Prochlorperazine,drug class is Gastrointestinal Agents; and Antipsychotic Agents.generate smile image.
+Proguanil,drug class is Antimalarial Agents.generate smile image.
+Promethazine,drug class is Antihistamines.generate smile image.
+Propafenone,drug class is Antiarrhythmic Agents.generate smile image.
+Propantheline,drug class is Anticholinergic Agents.generate smile image.
+Propofol,drug class is Anesthetic Agents.generate smile image.
+Propranolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Propylthiouracil,drug class is Antithyroid Agents.generate smile image.
+Protriptyline,drug class is Antidepressant Agents.generate smile image.
+Prucalopride,drug class is Gastrointestinal Agents.generate smile image.
+Psoralen,drug class is Dermatologic Agents  and Psoriasis Agents.generate smile image.
+Pyrantel,drug class is Anthelmintic Agents.generate smile image.
+Pyrazinamide,drug class is Antituberculosis Agents.generate smile image.
+Quazepam,drug class is Sedatives and Hypnotics and Benzodiazepines.generate smile image.
+Quercetin,drug class is Herbal and Dietary Supplements.generate smile image.
+Quetiapine,drug class is Antipsychotic Agents.generate smile image.
+Quinapril,drug class is Antihypertensive Agents and Angiotensin-Converting Enzyme Inhibitors.generate smile image.
+Quinidine,drug class is Antiarrhythmic Agents.generate smile image.
+Quinine,drug class is Antimalarial Agents.generate smile image.
+Rabeprazole,drug class is Antiulcer Agents.generate smile image.
+Raltegravir,drug class is Antiviral Agents.generate smile image.
+Ramelteon,drug class is Sedatives and Hypnotics.generate smile image.
+Ramipril,drug class is Antihypertensive Agents and Angiotensin-Converting Enzyme Inhibitors.generate smile image.
+Ranitidine,drug class is Antiulcer Agents.generate smile image.
+Ranolazine,drug class is Antiangina Agents.generate smile image.
+Rasagiline,drug class is Antiparkinson Agents.generate smile image.
+Regorafenib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Relugolix,drug class is Antineoplastic Agents and GnRH Analogues.generate smile image.
+Remdesivir,drug class is Antiviral Agents and Nucleoside Analogues.generate smile image.
+Repaglinide,drug class is Antidiabetic Agents.generate smile image.
+Reserpine,drug class is Antihypertensive Agents.generate smile image.
+Resveratrol,drug class is Herbal and Dietary Supplements.generate smile image.
+Revefenacin,drug class is Anticholinergic Agents.generate smile image.
+Ribavirin,drug class is Antiviral Agents and Nucleoside Analogues and Hepatitis C Agents.generate smile image.
+Ribociclib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Rifabutin,drug class is Antituberculosis Agents.generate smile image.
+Rifampin,drug class is Antituberculosis Agents.generate smile image.
+Rifamycin,drug class is Antiinfective Agents and Gastrointestinal Agents.generate smile image.
+Rifapentine,drug class is Antituberculosis Agents.generate smile image.
+Rifaximin,drug class is Antiinfective Agents; and Gastrointestinal Agents.generate smile image.
+Rilpivirine,drug class is Antiviral Agents.generate smile image.
+Riluzole,drug class is Alzheimer Disease Agents.generate smile image.
+Rimantadine,drug class is Antiviral Agents.generate smile image.
+Rimegepant,drug class is Migraine Headache Agents.generate smile image.
+Riociguat,drug class is Pulmonary Arterial Hypertension Agents.generate smile image.
+Risperidone,drug class is Antipsychotic Agents.generate smile image.
+Ritonavir,drug class is Antiviral Agents.generate smile image.
+Rivaroxaban,drug class is Antithrombotic Agents and Anticoagulants.generate smile image.
+Rivastigmine,drug class is Alzheimer Disease Agents.generate smile image.
+Rofecoxib,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Roflumilast,drug class is Pulmonary Disease Agents  Chronic Obstructive Pulmonary Disease Agents.generate smile image.
+Rolapitant,drug class is Gastrointestinal Agents and Antiemetic Agents.generate smile image.
+Romidepsin,drug class is Antineoplastic Agents.generate smile image.
+Ropinirole,drug class is Antiparkinson Agents.generate smile image.
+Rosiglitazone,drug class is Antidiabetic Agents.generate smile image.
+Rosuvastatin,drug class is Antilipemic Agents.generate smile image.
+Rotigotine,drug class is Antiparkinson Agents.generate smile image.
+Rucaparib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Rufinamide,drug class is Anticonvulsants.generate smile image.
+Ruxolitinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors and COVID-19 Drugs.generate smile image.
+SMZ-TMP,drug class is Antiinfective Agents and Sulfonamides.generate smile image.
+Safinamide,drug class is Antiparkinson Agents.generate smile image.
+Salsalate,drug class is Salicylates.generate smile image.
+Saquinavir,drug class is Antiviral Agents.generate smile image.
+Sarecycline,drug class is Antiinfective Agents and Tetracyclines.generate smile image.
+Saxagliptin,drug class is Antidiabetic Agents and Incretin-Based Drugs.generate smile image.
+Secnidazole,drug class is Antiinfective Agents.generate smile image.
+Selegiline,drug class is Antiparkinson Agents.generate smile image.
+Selexipag,drug class is Pulmonary Arterial Hypertension Agents.generate smile image.
+Selinexor,drug class is Antineoplastic Agents.generate smile image.
+Selumetinib,drug class is Genetic Disorder Agents  and Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Semaglutide,drug class is Antidiabetic Agents.generate smile image.
+Senna,drug class is Herbal and Dietary Supplements.generate smile image.
+Sertraline,drug class is Antidepressant Agents.generate smile image.
+Sevoflurane,drug class is Halogenated Anesthetics.generate smile image.
+Sibutramine,drug class is Weight Loss Agents.generate smile image.
+Sildenafil,drug class is PDE5 Inhibitors.generate smile image.
+Silodosin,drug class is Benign Prostatic Hypertrophy Agents.generate smile image.
+Simeprevir,drug class is Antiviral Agents and Hepatitis C Agents and HCV Protease Inhibitors.generate smile image.
+Simvastatin,drug class is Antilipemic Agents.generate smile image.
+Siponimod,drug class is Multiple Sclerosis Agents.generate smile image.
+Sirolimus,drug class is Transplant Agents and Antirheumatic Agents.generate smile image.
+Sitagliptin,drug class is Antidiabetic Agents and Incretin-Based Drugs.generate smile image.
+Sofosbuvir,drug class is Antiviral Agents and Hepatitis C Agents.generate smile image.
+Solifenacin,drug class is Anticholinergic Agents.generate smile image.
+Solriamfetol,drug class is CNS Stimulants.generate smile image.
+Sonidegib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Sorafenib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Sotalol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Spironolactone,drug class is Diuretics.generate smile image.
+Statins,drug class is Antilipemic Agents.generate smile image.
+Stavudine,drug class is Antiviral Agents.generate smile image.
+Stiripentol,drug class is Anticonvulsants.generate smile image.
+Streptomycin,drug class is Antituberculosis Agents and Aminoglycosides.generate smile image.
+Streptozocin,drug class is Antineoplastic Agents.generate smile image.
+Succimer,drug class is Chelating Agents.generate smile image.
+Sulfadiazine,drug class is Antiinfective Agents and Sulfonamides.generate smile image.
+Sulfasalazine,drug class is Antiinfective Agents and Sulfonamides.generate smile image.
+Sulindac,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Sunitinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Suvorexant,drug class is Sedatives and Hypnotics.generate smile image.
+Tacrine,drug class is Alzheimer Disease Agents.generate smile image.
+Tacrolimus,drug class is Transplant Agents and Antirheumatic Agents.generate smile image.
+Tadalafil,drug class is PDE5 Inhibitors.generate smile image.
+Tafenoquine,drug class is Antimalarial Agents.generate smile image.
+Talazoparib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Tamoxifen,drug class is Antineoplastic Agents.generate smile image.
+Tamsulosin,drug class is Benign Prostatic Hypertrophy Agents.generate smile image.
+Tasimelteon,drug class is Sedatives and Hypnotics.generate smile image.
+Tecovirimat,drug class is Antiviral Agents.generate smile image.
+Tedizolid,drug class is Antiinfective Agents.generate smile image.
+Telaprevir,drug class is Antiviral Agents and Hepatitis C Agents and HCV Protease Inhibitors.generate smile image.
+Telbivudine,drug class is Antiviral Agents.generate smile image.
+Telithromycin,drug class is Antiinfective Agents and Macrolide Antibiotics.generate smile image.
+Telmisartan,drug class is Antihypertensive Agents and Angiotensin II Receptor Antagonists.generate smile image.
+Telotristat,drug class is Antineoplastic Agents and Gastrointestinal Agents.generate smile image.
+Temazepam,drug class is Sedatives and Hypnotics and Benzodiazepines.generate smile image.
+Temozolomide,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Temsirolimus,drug class is Antineoplastic Agents and Transplant Drugs.generate smile image.
+Tenapanor,drug class is Gastrointestinal Agents.generate smile image.
+Tenofovir,drug class is Antiviral Agents.generate smile image.
+Terazosin,drug class is Antihypertensive Agents and Benign Prostatic Hypertrophy Agents.generate smile image.
+Terbinafine,drug class is Antifungal Agents.generate smile image.
+Teriflunomide,drug class is Multiple Sclerosis Agents.generate smile image.
+Teriparatide,drug class is Osteoporosis Agents  Hormonal Agents.generate smile image.
+Tesamorelin,drug class is Hormonal Agents.generate smile image.
+Tetrabenazine,drug class is Genetic Disorder Agents  Huntington Disease Agents (for Chorea).generate smile image.
+Thalidomide,drug class is Antineoplastic Agents.generate smile image.
+Theophylline,drug class is Antiasthmatic Agents and Xanthine Derivatives.generate smile image.
+Thiabendazole,drug class is Anthelmintic Agents.generate smile image.
+Thioguanine,drug class is Antineoplastic Agents.generate smile image.
+Thioridazine,drug class is Antipsychotic Agents.generate smile image.
+Thiotepa,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Tiagabine,drug class is Anticonvulsants.generate smile image.
+Ticagrelor,drug class is Antithrombotic Agents and Antiplatelet Agents.generate smile image.
+Ticarcillin,drug class is Antiinfective Agents  and Penicillins (Fourth Generation).generate smile image.
+Ticlopidine,drug class is Antithrombotic Agents and Antiplatelet Agents.generate smile image.
+Tigecycline,drug class is Antiinfective Agents and Tetracyclines.generate smile image.
+Timolol,drug class is Beta-Adrenergic Receptor Antagonists.generate smile image.
+Tinidazole,drug class is Antiinfective Agents.generate smile image.
+Tiotropium,drug class is Anticholinergic Agents.generate smile image.
+Tipranavir,drug class is Antiviral Agents.generate smile image.
+Tirzepatide,drug class is Antidiabetic Agents.generate smile image.
+Tizanidine,drug class is Muscle Relaxants.generate smile image.
+Tobramycin,drug class is Aminoglycosides.generate smile image.
+Tofacitinib,drug class is Antirheumatic Agents and Protein Kinase Inhibitors and COVID-19 Drugs.generate smile image.
+Tolcapone,drug class is Parkinson Disease Agents.generate smile image.
+Tolmetin,drug class is Nonsteroidal Antiinflammatory Drugs.generate smile image.
+Tolterodine,drug class is Anticholinergic Agents.generate smile image.
+Tolvaptan,drug class is Diuretics.generate smile image.
+Topiramate,drug class is Anticonvulsants.generate smile image.
+Toremifene,drug class is Antineoplastic Agents and Antiestrogens and Selective Estrogen Receptor Modulators.generate smile image.
+Trabectedin,drug class is Antineoplastic Agents and Alkylating Agents.generate smile image.
+Tramadol,drug class is Opioids.generate smile image.
+Trametinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors and Dabrafenib.generate smile image.
+Trandolapril,drug class is Antihypertensive Agents and Angiotensin-Converting Enzyme Inhibitors.generate smile image.
+Tranylcypromine,drug class is Antidepressant Agents.generate smile image.
+Trazodone,drug class is Antidepressant Agents.generate smile image.
+Triamterene,drug class is Diuretics.generate smile image.
+Triazolam,drug class is Sedatives and Hypnotics and Benzodiazepines.generate smile image.
+Tribulus,drug class is Herbal and Dietary Supplements.generate smile image.
+Triclabendazole,drug class is Anthelmintic Agents.generate smile image.
+Trientine,drug class is Chelating Agents and Wilson Disease Agents.generate smile image.
+Trifluoperazine,drug class is Antipsychotic Agents.generate smile image.
+Trifluridine,drug class is Antineoplastic Agents.generate smile image.
+Trihexyphenidyl,drug class is Antiparkinson Agents.generate smile image.
+Trimethobenzamide,drug class is Gastrointestinal Agents and Antiemetics.generate smile image.
+Trimetrexate,drug class is Antineoplastic Agents.generate smile image.
+Trimipramine,drug class is Antidepressant Agents.generate smile image.
+Triprolidine,drug class is Antihistamines.generate smile image.
+Triptorelin,drug class is Antineoplastic Agents and GnRH Analogues.generate smile image.
+Trisalicylate,drug class is Salicylates.generate smile image.
+Troglitazone,drug class is Antidiabetic Agents.generate smile image.
+Trospium,drug class is Anticholinergic Agents.generate smile image.
+Ubrogepant,drug class is Migraine Headache Agents.generate smile image.
+Upadacitinib,drug class is Antirheumatic Agents and Protein Kinase Inhibitors.generate smile image.
+Ursodiol,drug class is Gastrointestinal Agents and Bile Acids.generate smile image.
+UsnicAcid,drug class is Herbal and Dietary Supplements.generate smile image.
+Valacyclovir,drug class is Antiviral Agents.generate smile image.
+Valproate,drug class is Anticonvulsants.generate smile image.
+Valsartan,drug class is Antihypertensive Agents and Angiotensin II Receptor Antagonists.generate smile image.
+Vancomycin,drug class is Antiinfective Agents.generate smile image.
+Vandetanib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Vardenafil,drug class is PDE5 Inhibitors.generate smile image.
+Varenicline,drug class is Substance Abuse Treatment Agents.generate smile image.
+Vemurafenib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Venetoclax,drug class is Antineoplastic Agents.generate smile image.
+Venlafaxine,drug class is Antidepressant Agents.generate smile image.
+Verapamil,drug class is Cardiovascular Agents  and Calcium Channel Blockers.generate smile image.
+Vigabatrin,drug class is Anticonvulsants.generate smile image.
+Vilazodone,drug class is Antidepressant Agents.generate smile image.
+Viloxazine,drug class is Central Nervous System Stimulants and ADHD Agents.generate smile image.
+Viltolarsen,drug class is Genetic Disorder Agents.generate smile image.
+Vismodegib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+VitaminA,drug class is Vitamins.generate smile image.
+VitaminE,drug class is Vitamins.generate smile image.
+Voclosporin,drug class is Immunosuppressive Agents.generate smile image.
+Vorapaxar,drug class is Antithrombotic Agents and Antiplatelet Agents.generate smile image.
+Voriconazole,drug class is Antifungal Agents.generate smile image.
+Vorinostat,drug class is Antineoplastic Agents.generate smile image.
+Vortioxetine,drug class is Antidepressant Agents.generate smile image.
+Voxelotor,drug class is Genetic Disorder Agents  and Hematologic and Sickle Cell Disease Agents.generate smile image.
+Warfarin,drug class is Antithrombotic Agents and Anticoagulants.generate smile image.
+Yohimbine,drug class is Herbal and Dietary Supplements.generate smile image.
+Zafirlukast,drug class is Antiasthmatic Agents.generate smile image.
+Zaleplon,drug class is Sedatives and Hypnotics.generate smile image.
+Zanamivir,drug class is Antiviral Agents.generate smile image.
+Zanubrutinib,drug class is Antineoplastic Agents and Protein Kinase Inhibitors.generate smile image.
+Zepatier,drug class is Antiviral Agents and Hepatitis C Agents.generate smile image.
+Zidovudine,drug class is Antiviral Agents.generate smile image.
+Zileuton,drug class is Antiasthmatic Agents.generate smile image.
+Zinc,drug class is Trace Elements and Metals and Chelating Agents and Wilson Disease Agents.generate smile image.
+Ziprasidone,drug class is Antipsychotic Agents.generate smile image.
+Zolpidem,drug class is Sedatives and Hypnotics.generate smile image.
+Zonisamide,drug class is Anticonvulsants.generate smile image.
