@@ -1,6 +1,4 @@
-## Environment Variable: train_text_to_image_lora.py
-
-http_proxy=http://127.0.0.1:7890;https_proxy=http://127.0.0.1:7890
+## Environment Setup
 
 Install diffusers
 
@@ -8,9 +6,10 @@ Install diffusers
 git clone https://github.com/huggingface/diffusers
 cd diffusers
 pip install .
-
-https://huggingface.co/CompVis/stable-diffusion-v1-4
 ```
+
+## Run
+### Fine-tuning
 
 ```commandline
 python --pretrained_model_name_or_path="CompVis/stable-diffusion-v1-4"
@@ -19,7 +18,7 @@ python --pretrained_model_name_or_path="CompVis/stable-diffusion-v1-4"
 --resolution=512
 --random_flip
 --train_batch_size=2
---num_train_epochs=10
+--num_train_epochs=100
 --checkpointing_steps=200
 --learning_rate=1e-04
 --lr_scheduler="constant"
@@ -31,18 +30,13 @@ python --pretrained_model_name_or_path="CompVis/stable-diffusion-v1-4"
 --dataset_name="LiverTox"
 ```
 
-## Environment Variable : inference.py
-
-http_proxy=http://127.0.0.1:7890;https_proxy=http://127.0.0.1:7890
-
+### MolImage Generation
 ```commandline
 python inference.py
 ```
 
 
-## Environment Variable : process_data.py
-PYTHONUNBUFFERED=1
-
+### Evaluation
 ````commandline
-python process_data.py
+python evaluate.py
 ````
