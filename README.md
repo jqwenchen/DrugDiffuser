@@ -1,14 +1,16 @@
 ## Environment Variable: train_text_to_image_lora.py
 
 http_proxy=http://127.0.0.1:7890;https_proxy=http://127.0.0.1:7890
-安装diffusers
 
+Install diffusers
+
+```
 git clone https://github.com/huggingface/diffusers
 cd diffusers
 pip install .
 
 https://huggingface.co/CompVis/stable-diffusion-v1-4
-
+```
 
 ```commandline
 python --pretrained_model_name_or_path="CompVis/stable-diffusion-v1-4"
