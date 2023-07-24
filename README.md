@@ -17,7 +17,8 @@ python smiles2img_pretrain.py --dataroot ./datasets/pretraining/ --dataset data
 ### Fine-tuning
 
 ```commandline
-python --pretrained_model_name_or_path="CompVis/stable-diffusion-v1-4"
+python train_text_to_image_lora.py
+--pretrained_model_name_or_path="CompVis/stable-diffusion-v1-4"
 --train_data_dir="./datasets"
 --caption_column="drug class"
 --resolution=512
