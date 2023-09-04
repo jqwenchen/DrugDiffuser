@@ -1,0 +1,1067 @@
+filepath,cddd,smiles
+../drug-diffuser-0717/datasets/LactMed/Methscopolamine Bromide.jpg,,C[N+]1=C2C(O)CC1C1CC2C(CC(=O)C(CO)c2ccccc2)O1
+../drug-diffuser-0717/datasets/LactMed/Teriflunomide.jpg,,CC(O)=C(C#N)C(=O)Nc1ccc(C(F)(F)F)cc1
+../drug-diffuser-0717/datasets/LactMed/Azathioprine.jpg,,Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[nH]cnc12
+../drug-diffuser-0717/datasets/LactMed/Moxidectin.jpg,,CON=C1CC2(C)C(CC(OC3C=C(C)C(C)=CC3)CC3OC(=O)C(C)=CC=CC(C)CCC(C)C(O)CC13)OC(C)C(C)C2O
+../drug-diffuser-0717/datasets/LactMed/deucravacitinib.jpg,,CNC(=O)c1nnc(NC(=O)C2CC2)cc1Nc1cccc(-c2ncn(C)n2)c1OC
+../drug-diffuser-0717/datasets/LactMed/Phenytoin.jpg,,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1
+../drug-diffuser-0717/datasets/LactMed/methylnaltrexone.jpg,,CC1CCC2(O)C3Cc4ccc(O)c5c4C2(CCN3CC2CC2)C(O5)C1=O
+../drug-diffuser-0717/datasets/LactMed/Ethambutol.jpg,,CCC(CO)NCCNC(CC)CO
+../drug-diffuser-0717/datasets/LactMed/Olaparib.jpg,,O=C(c1cc(Cc2n[nH]c(=O)c3ccccc23)ccc1F)N1CCN(C(=O)C2CC2)CC1
+../drug-diffuser-0717/datasets/LactMed/Riluzole.jpg,,Nc1nc2ccc(OC(F)(F)F)cc2s1
+../drug-diffuser-0717/datasets/LactMed/Eravacycline.jpg,,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)c(NC(=O)CN5CCCC5)cc(F)c4CC3CC12
+../drug-diffuser-0717/datasets/LactMed/Mesoridazine.jpg,,CN1CCCCC1CCN1c2ccccc2[SH](C)c2ccc(S(C)=O)cc21
+../drug-diffuser-0717/datasets/LactMed/eplerenone.jpg,,COC(=O)C1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)CC12O
+../drug-diffuser-0717/datasets/LactMed/Pancuronium.jpg,,CC(=O)OC1CCC2(C)C(OC(C)=O)CC3C4CCC([N+]5(C)CCCCC5)C4CC([N+]4(C)CCCCC4)C3(C)C2C1
+../drug-diffuser-0717/datasets/LactMed/Duloxetine.jpg,,CNCCC(Oc1cccc2ccccc12)c1cccs1
+../drug-diffuser-0717/datasets/LactMed/Vigabatrin.jpg,,C=CC(N)CCC(=O)O
+../drug-diffuser-0717/datasets/LactMed/ibrexafungerp.jpg,,CC(C)C1(O)CCC2C3(C)C=CC4=C(COC4)C3CC3(c4ncnn4C(C)(C)C)CCC(c4ccccc4C(=O)O)C3(C)C21C
+../drug-diffuser-0717/datasets/LactMed/Pibrentasvir.jpg,,COC(=O)NC(C(=O)OC)c1ccc(-c2nc(C3CCc4ccccc43)nc(N3CCCC3c3c[nH]c(NC(C)C4CC4)c3)c2F)c(OC)c1
+../drug-diffuser-0717/datasets/LactMed/Heparin.jpg,,CC(=O)C1OC(OC2C(O)C(O)C(OS(=O)(=O)O)C(O)C2OS(=O)(=O)O)OC1C1OC(C(=O)O)C(O)C(O)C1(O)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Diatrizoate.jpg,,CC(=O)Nc1c(I)c(I)c(NC(C)=O)c(C(=O)O)c1I
+../drug-diffuser-0717/datasets/LactMed/Arsenic Trioxide.jpg,,CC1(C)C[S+]2CC(O1)C(O[P+]1([O-])OCC3(CO1)OC3=O)C2
+../drug-diffuser-0717/datasets/LactMed/Testosterone.jpg,,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12
+../drug-diffuser-0717/datasets/LactMed/Terbutaline.jpg,,CC(C)(C)NCC(O)c1cc(O)cc(O)c1
+../drug-diffuser-0717/datasets/LactMed/Chlorpheniramine.jpg,,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1
+../drug-diffuser-0717/datasets/LactMed/Gatifloxacin.jpg,,COc1c(N2CCNC(C)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12
+../drug-diffuser-0717/datasets/LactMed/Paritaprevir.jpg,,Cc1cnc(C(=O)NC2CCCCC=CC(=O)C3CC3(NC(=O)C3CC3)Oc3nc(ccc3C)S(=O)(=O)c3ccccc3CN2)cn1
+../drug-diffuser-0717/datasets/LactMed/radium-223.jpg,,CC1CC2CCCC2C(=O)O1
+../drug-diffuser-0717/datasets/LactMed/Sulfur Hexafluoride.jpg,,FC(F)(F)S(F)(F)F
+../drug-diffuser-0717/datasets/LactMed/Ribavirin.jpg,,NC(=O)c1ncn(C2OC(CO)C(O)C2O)n1
+../drug-diffuser-0717/datasets/LactMed/Tamoxifen.jpg,,CCC(=C(c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/mesna.jpg,,O=[N+]([O-])SCCS(=O)(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Terazosin.jpg,,COc1cc2nc(N3CCN(C(=O)C4CCCO4)CC3)nc(N)c2cc1OC
+../drug-diffuser-0717/datasets/LactMed/Vismodegib.jpg,,CS(=O)(=O)c1ccc(C(=O)Nc2cc(Cl)c(-c3ccccn3)c(Cl)c2)cc1
+../drug-diffuser-0717/datasets/LactMed/Unoprostone.jpg,,CCCCCCCC(=O)CCC1C(O)CC(O)C1CC=CCCCC(=O)O
+../drug-diffuser-0717/datasets/LactMed/pitolisant.jpg,,Clc1ccc(CCCOCCCN2CCCCC2)cc1
+../drug-diffuser-0717/datasets/LactMed/Topotecan.jpg,,CCC1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c(CN(C)C)c(O)ccc3nc2-1
+../drug-diffuser-0717/datasets/LactMed/Clonazepam.jpg,,O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1
+../drug-diffuser-0717/datasets/LactMed/Warfarin.jpg,,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O
+../drug-diffuser-0717/datasets/LactMed/Methyclothiazide.jpg,,CN1C(CCl)Nc2cc(Cl)c(S(N)(=O)=O)cc2S1(=O)=O
+../drug-diffuser-0717/datasets/LactMed/amdinocillin.jpg,,CC1(C)SC2C(N=CN3CCCCCC3)C(=O)N2C1C(=O)O
+../drug-diffuser-0717/datasets/LactMed/leucovorin.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Carteolol.jpg,,CC(C)(C)NCC(O)COc1cccc2c1CCC(=O)N2
+../drug-diffuser-0717/datasets/LactMed/eliglustat.jpg,,CCCCCCCC(=O)NC(CN1CCCC1)C(O)c1ccc2c(c1)OCCO2
+../drug-diffuser-0717/datasets/LactMed/Maprotiline.jpg,,CNCCCC12CCC(c3ccccc31)c1ccccc12
+../drug-diffuser-0717/datasets/LactMed/Calcipotriene.jpg,,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)C=CC(O)C2(C)CC2)CC(O)CC1O
+../drug-diffuser-0717/datasets/LactMed/Nitrendipine.jpg,,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc([N+](=O)[O-])c1
+../drug-diffuser-0717/datasets/LactMed/Paliperidone.jpg,,Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2O
+../drug-diffuser-0717/datasets/LactMed/Lamivudine.jpg,,Nc1ccn(C2CSC(CO)O2)c(=O)n1
+../drug-diffuser-0717/datasets/LactMed/Lorazepam.jpg,,O=C1N=C(c2ccccc2Cl)c2cc(Cl)ccc2NC1O
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Pyrophosphate.jpg,,CP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-]
+../drug-diffuser-0717/datasets/LactMed/Tedizolid.jpg,,Cn1nnc(-c2ccc(-c3ccc(N4CC(CO)OC4=O)cc3F)cn2)n1
+../drug-diffuser-0717/datasets/LactMed/Chamomile.jpg,,O=c1cc(-c2ccc(O)cc2)oc2c(O)cc(O)cc12
+../drug-diffuser-0717/datasets/LactMed/Stavudine.jpg,,Cc1cn(C2C=CC(CO)O2)c(=O)[nH]c1=O
+../drug-diffuser-0717/datasets/LactMed/Levodopa.jpg,,NC(Cc1ccc(O)c(O)c1)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Apraclonidine.jpg,,Nc1cc(Cl)c(NC2=NCCN2)c(Cl)c1
+../drug-diffuser-0717/datasets/LactMed/Enfuvirtide.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Sarecycline.jpg,,CON(C)C1=C(O)C2Cc3c(CN(C)C)ccc(O)c3C(=O)C3=C(O)C(C(N)=O)C(=O)CC3C2(O)CC1
+../drug-diffuser-0717/datasets/LactMed/Iron Dextran.jpg,,O=S(=O)(O)C(O)F
+../drug-diffuser-0717/datasets/LactMed/Ertapenem.jpg,,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)Nc4cccc(C(=O)O)c4)C3)C(C)C12
+../drug-diffuser-0717/datasets/LactMed/Iothalamate Sodium I 125.jpg,,CNC(=O)c1c([O-])c(C(N)=O)c(I)c(C(=O)NC)c1[O-]
+../drug-diffuser-0717/datasets/LactMed/Tacrolimus.jpg,,C=CCC1CC(C)C(OC(=O)C2CCC(C)NC2=O)C(OC)CC(C)C=C(C)C(=O)N2CC(C)CCCCC(OC)C(O)C(C1)C2=O
+../drug-diffuser-0717/datasets/LactMed/Lopinavir.jpg,,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCC1=O
+../drug-diffuser-0717/datasets/LactMed/Torsemide.jpg,,Cc1cccc(Nc2ccncc2S(=O)(=O)NC(=O)NC(C)C)c1
+../drug-diffuser-0717/datasets/LactMed/Ritonavir.jpg,,CC(C)c1nc(CNC(=O)C(CC(O)C(Cc2ccccc2)NC(=O)C(Cc2ccccc2)NC(=O)N(C)C)c2cncs2)cs1
+../drug-diffuser-0717/datasets/LactMed/Pyrazinamide.jpg,,NC(=O)c1cnccn1
+../drug-diffuser-0717/datasets/LactMed/Aztreonam.jpg,,CC1C(NC(=O)C(=NOC(C)(C)C(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O
+../drug-diffuser-0717/datasets/LactMed/dasiglucagon.jpg,,COC1C(O)CC2(C(=O)O)C3CCC(C)C3(O)CC3OC3(C(C)C=C3C(=O)OC4C(O)C(O)CCC34C)C2(C)C(O)C1CO
+../drug-diffuser-0717/datasets/LactMed/orphenadrine.jpg,,Cc1ccccc1C(OCCN(C)C)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Topiramate.jpg,,CC1(C)OC2COC3(COS(N)(=O)=O)OC(C)(C)OC3C2O1
+../drug-diffuser-0717/datasets/LactMed/Enoxaparin.jpg,,CC(=O)C1OC(OC2C(O)C(O)C(OS(=O)(=O)O)C(O)C2OS(=O)(=O)O)OC1C1OC(C(=O)O)C(O)C(O)C1(O)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Ranitidine.jpg,,CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1
+../drug-diffuser-0717/datasets/LactMed/Methoxsalen.jpg,,COc1c2ccoc2cc2ccc(=O)oc12
+../drug-diffuser-0717/datasets/LactMed/Glimepiride.jpg,,CCC1=C(C)CN(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCC(C)CC3)cc2)C1=O
+../drug-diffuser-0717/datasets/LactMed/Cinnarizine.jpg,,C(=Cc1ccccc1)CN1CCN(C(c2ccccc2)c2ccccc2)CC1
+../drug-diffuser-0717/datasets/LactMed/Albendazole.jpg,,CCCSc1ccc2nc(NC(=O)OC)[nH]c2c1
+../drug-diffuser-0717/datasets/LactMed/Bosentan.jpg,,COc1ccccc1Oc1c(NS(=O)(=O)c2ccccn2)nc(NCCO)nc1-c1ccc(C(C)(C)C)cc1
+../drug-diffuser-0717/datasets/LactMed/Miconazole.jpg,,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1
+../drug-diffuser-0717/datasets/LactMed/Echothiophate.jpg,,CCOP(=O)(OCC)SCC[N+](C)(C)C
+../drug-diffuser-0717/datasets/LactMed/Bisacodyl.jpg,,CC(=O)Oc1ccc(C(c2ccc(OC(C)=O)cc2)c2ccccn2)cc1
+../drug-diffuser-0717/datasets/LactMed/Clomipramine.jpg,,CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21
+../drug-diffuser-0717/datasets/LactMed/Mycophenolate.jpg,,COc1c(C)c(CC=C(C)CCC(=O)O)c2c(c1O)CCC(=O)OC2
+../drug-diffuser-0717/datasets/LactMed/Iobenguane I 123.jpg,,NC(N)=NCc1cccc(I)c1
+../drug-diffuser-0717/datasets/LactMed/Armodafinil.jpg,,NC(=O)CS(=O)C(c1ccccc1)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/vardenafil.jpg,,CCCc1nc(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(CC)CC4)ccc3OCC)nn12
+../drug-diffuser-0717/datasets/LactMed/Tiagabine.jpg,,Cc1ccsc1C(=CCCN1CCCC(C(=O)O)C1)c1sccc1C
+../drug-diffuser-0717/datasets/LactMed/Iothalamate.jpg,,CC(=O)Nc1c(I)c(C(=O)[O-])c(NC(C)=O)c(C(=O)[O-])c1I
+../drug-diffuser-0717/datasets/LactMed/cefiderocol.jpg,,CC(C)(ON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(C[N+]3(C)CCCC3C(=O)O)CSC12)c1ccc(O)c(N)c1)C1=NCCN1
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Ethylenedicysteine.jpg,,O=C([O-])C(CS)NCCNC(C(=O)[O-])C(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Cefuroxime.jpg,,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC12)c1ccco1
+../drug-diffuser-0717/datasets/LactMed/Dasabuvir.jpg,,COc1c(-c2ccc(NS(C)(=O)=O)cc2)cc(-n2ccc3cc(=O)[nH]cc3c2=O)cc1C(C)(C)C
+../drug-diffuser-0717/datasets/LactMed/Mexiletine.jpg,,Cc1cccc(C)c1OCC(C)N
+../drug-diffuser-0717/datasets/LactMed/Valsartan.jpg,,CCCCC(=O)N(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)C(C(=O)O)C(C)C
+../drug-diffuser-0717/datasets/LactMed/Lindane.jpg,,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl
+../drug-diffuser-0717/datasets/LactMed/Metformin.jpg,,CN(C)C(=N)N=C(N)N
+../drug-diffuser-0717/datasets/LactMed/Rilpivirine.jpg,,Cc1cc(C=CC#N)cc(C)c1Nc1nccc(Nc2ccc(C#N)cc2)n1
+../drug-diffuser-0717/datasets/LactMed/Telmisartan.jpg,,CCCc1nc2c(-c3nc4ccccc4n3C)cccc2n1Cc1ccc(-c2ccccc2C(=O)O)cc1
+../drug-diffuser-0717/datasets/LactMed/Carvedilol.jpg,,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12
+../drug-diffuser-0717/datasets/LactMed/Sodium Pertechnetate Tc 99m.jpg,,O=[N+]([O-])S(=O)(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/etizolam.jpg,,CCc1cc2c(s1)-n1c(C)nnc1CN=C2c1ccccc1Cl
+../drug-diffuser-0717/datasets/LactMed/Encorafenib.jpg,,COC(=O)NC(C)CNc1nccc(-c2cn(C(C)C)nc2-c2cc(Cl)cc(NS(C)(=O)=O)c2F)n1
+../drug-diffuser-0717/datasets/LactMed/Pasireotide.jpg,,NCCCC1NC(=O)C(Cc2ccccc2)NC(=O)C(Cc2ccccc2)NC(=O)c2ccc(cc2)C=C(c2ccccc2)NC(=O)C1NCCO
+../drug-diffuser-0717/datasets/LactMed/Netarsudil.jpg,,Cc1ccc(C(=O)OCc2ccc(C(CN)C(=O)Nc3ccc4cnccc4c3)cc2)c(C)c1
+../drug-diffuser-0717/datasets/LactMed/Caffeine.jpg,,Cn1c(=O)c2c(ncn2C)n(C)c1=O
+../drug-diffuser-0717/datasets/LactMed/Nizatidine.jpg,,CNC(=C[N+](=O)[O-])NCCSCc1csc(CN(C)C)n1
+../drug-diffuser-0717/datasets/LactMed/Tigecycline.jpg,,CN(C)Cc1cc(NC(=O)C(C)(C)C)c2c(c1O)C(O)=C1C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3CC1C2
+../drug-diffuser-0717/datasets/LactMed/Axitinib.jpg,,CNC(=O)c1ccccc1Sc1ccc2c(C=Cc3ccccn3)n[nH]c2c1
+../drug-diffuser-0717/datasets/LactMed/Ponatinib.jpg,,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12
+../drug-diffuser-0717/datasets/LactMed/Apixaban.jpg,,COc1ccc(-n2nc(C(N)=O)c3c2CCN(c2ccc(N4CCCCC4=O)cc2)C3=O)cc1
+../drug-diffuser-0717/datasets/LactMed/Imatinib.jpg,,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1
+../drug-diffuser-0717/datasets/LactMed/Cladribine.jpg,,Nc1nc(Cl)nc2c1ncn2C1OC(N)CC1O
+../drug-diffuser-0717/datasets/LactMed/Calcitriol.jpg,,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)CCCC(C)(C)O)CC(O)CC1O
+../drug-diffuser-0717/datasets/LactMed/Metyrapone.jpg,,CC(C)(C(=O)c1cccnc1)c1cccnc1
+../drug-diffuser-0717/datasets/LactMed/Allopurinol.jpg,,O=c1[nH]cnc2[nH]ccc12
+../drug-diffuser-0717/datasets/LactMed/Pitavastatin.jpg,,O=C(O)CC(O)CC(O)C=Cc1c(C2CC2)nc2ccccc2c1-c1ccc(F)cc1
+../drug-diffuser-0717/datasets/LactMed/Methylprednisolone.jpg,,CC1CC2C(CCC3(O)C2CC(=O)C3(C)C)C2(C)C=CC(=O)C=C2C1(O)CO
+../drug-diffuser-0717/datasets/LactMed/Olsalazine.jpg,,O=C(O)c1cc(N=Nc2ccc(O)c(C(=O)O)c2)ccc1O
+../drug-diffuser-0717/datasets/LactMed/favipiravir.jpg,,NC(=O)c1nc(F)c[nH]c1=O
+../drug-diffuser-0717/datasets/LactMed/Entecavir.jpg,,C=C1C(O)C(CO)OC1n1cnc2c(=O)[nH]c(N)nc21
+../drug-diffuser-0717/datasets/LactMed/Flutemetamol F 18.jpg,,CNc1ccc(-c2nc3ccc(O)cc3s2)cc1F
+../drug-diffuser-0717/datasets/LactMed/Demeclocycline.jpg,,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)c3c(c(O)c4c(Cl)ccc(O)c4c3O)CC12
+../drug-diffuser-0717/datasets/LactMed/pomalidomide.jpg,,Nc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O
+../drug-diffuser-0717/datasets/LactMed/ripretinib.jpg,,CCn1c(=O)c(-c2cc(NC(=O)Nc3ccccc3)c(F)cc2Br)cc2cnc(NC)cc21
+../drug-diffuser-0717/datasets/LactMed/Metolazone.jpg,,Cc1ccccc1N1C(=O)c2cc(Cl)c(S(N)(=O)=O)cc2NC1C
+../drug-diffuser-0717/datasets/LactMed/Tipranavir.jpg,,CCCC(CCc1cccc(O)c1)(C1=C(O)CC(CC)C(NS(=O)(=O)c2ccc(C(F)(F)F)cc2)C1)c1ccccn1
+../drug-diffuser-0717/datasets/LactMed/Desloratadine.jpg,,Clc1ccc2c(c1)CCc1cccnc1C2=C1CCNCC1
+../drug-diffuser-0717/datasets/LactMed/Acesulfame.jpg,,CC1=CC(=O)NS(=O)(=O)O1
+../drug-diffuser-0717/datasets/LactMed/Bendamustine.jpg,,Cn1c(CCCC(=O)O)nc2cc(N(CCCl)CCCl)ccc21
+../drug-diffuser-0717/datasets/LactMed/Daclatasvir.jpg,,CNC(C(=O)N1CCCC1c1ncc(-c2ccc(-c3cnc(C4CCCN4C(=O)C(NC(=O)OC)C(C)C)c(C)c3)cc2)[nH]1)C(C)C
+../drug-diffuser-0717/datasets/LactMed/Fondaparinux.jpg,,COC1C(O)CC(OS(=O)(=O)O)C(C2OC3C(OS(=O)(=O)O)C(O)C(C(=O)O)C3O2)=C2C(=[N+]([O-])O)C(=O)NC(N)C2C1O
+../drug-diffuser-0717/datasets/LactMed/Nimodipine.jpg,,COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1
+../drug-diffuser-0717/datasets/LactMed/Felodipine.jpg,,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl
+../drug-diffuser-0717/datasets/LactMed/Intrauterine Levonorgestrel.jpg,,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21CC
+../drug-diffuser-0717/datasets/LactMed/Liraglutide.jpg,,CC=C1CC(O)CCC2C(OC(=O)c3cc4c(o3)CCCC4)NC3C=C(C)C(c4cc(OC)c5c(c4)C(=O)O5)CC3(O)C1C(C)C(O)C2CO
+../drug-diffuser-0717/datasets/LactMed/Ioflupane I 123.jpg,,CCC(=O)C1C2CCC(C2)N1Cc1ccc(OC)cc1CCF
+../drug-diffuser-0717/datasets/LactMed/Olodaterol.jpg,,COc1ccc(CC(C)(C)NCC(O)c2cc(O)cc3c2OCC(=O)N3)cc1
+../drug-diffuser-0717/datasets/LactMed/oxaliplatin.jpg,,CCCC([NH3+])C1CCCCC1NC(=O)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Mepivacaine.jpg,,Cc1cccc(C)c1NC(=O)C1CCCCN1C
+../drug-diffuser-0717/datasets/LactMed/Canagliflozin.jpg,,Cc1ccc(-c2ccc(Cc3ccc(F)cc3)s2)c(C2OC(CO)C(O)C(O)C2O)c1
+../drug-diffuser-0717/datasets/LactMed/Praziquantel.jpg,,O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3C2C1
+../drug-diffuser-0717/datasets/LactMed/Amisulpride.jpg,,CCN1CCCC1CNC(=O)c1cc(S(=O)(=O)CC)c(N)cc1OC
+../drug-diffuser-0717/datasets/LactMed/Insulin.jpg,,CC1Cc2cc(ccc2O)CC2OC2(C(=O)C2CCCN2)C(C)Cc2cc(ccc2O)-c2cc3c(O)n2C(C)C=CC(CC3O)OC1=O
+../drug-diffuser-0717/datasets/LactMed/Moclobemide.jpg,,O=C(NCCN1CCOCC1)c1ccc(Cl)cc1
+../drug-diffuser-0717/datasets/LactMed/Aripiprazole.jpg,,O=C1CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4F)CC3)cc2N1
+../drug-diffuser-0717/datasets/LactMed/ponesimod.jpg,,CCCN=C1SC(=Cc2ccc(OCC(O)CO)c(Cl)c2)C(=O)N1c1ccccc1C
+../drug-diffuser-0717/datasets/LactMed/Lurasidone.jpg,,O=C1C2C3CCC(C3)C2C(=O)N1CC1CCCCC1CN1CCN(c2nsc3ccccc23)CC1
+../drug-diffuser-0717/datasets/LactMed/Probenecid.jpg,,CCCN(CCC)S(=O)(=O)c1ccc(C(=O)O)cc1
+../drug-diffuser-0717/datasets/LactMed/Trientine.jpg,,NCCNCCNCCN
+../drug-diffuser-0717/datasets/LactMed/Zanamivir.jpg,,CC(=O)NC1C(N=C(N)N)C=C(C(=O)O)OC1C(O)C(O)CO
+../drug-diffuser-0717/datasets/LactMed/tucatinib.jpg,,Cc1cc(Nc2ncnc3ccc(NC4=CC(C)(C)OC4)cc23)ccc1Oc1ccn2ncnc2c1
+../drug-diffuser-0717/datasets/LactMed/Nystatin.jpg,,CC1CC2=CC(O)CC(CC(C)CC(O)CC=CC(C)C(O)CCC=CC#CC(OC3OC(CNC(=O)O)C(O)C(O)C3O)C1)C2O
+../drug-diffuser-0717/datasets/LactMed/Florbetaben F 18.jpg,,CNc1ccc(C=Cc2ccc(OCCOCCOCCO)cc2)cc1
+../drug-diffuser-0717/datasets/LactMed/Pyrimethamine.jpg,,CCc1nc(N)cc(-c2ccc(Cl)cc2)c1N
+../drug-diffuser-0717/datasets/LactMed/lusutrombopag.jpg,,CCCCCCC(C)Oc1cccc(-c2csc(NC(=O)c3cc(Cl)c(C=C(C)C(=O)O)c(Cl)c3)n2)c1OC
+../drug-diffuser-0717/datasets/LactMed/Levonorgestrel Implant.jpg,,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21CC
+../drug-diffuser-0717/datasets/LactMed/Tazarotene.jpg,,CCOC(=O)c1ccc(C#Cc2ccc3c(c2)C(C)(C)CCS3)nc1
+../drug-diffuser-0717/datasets/LactMed/Tolterodine.jpg,,Cc1ccc(O)c(C(CCN(c2ccccc2)C(C)C)C(C)C)c1
+../drug-diffuser-0717/datasets/LactMed/Indinavir.jpg,,CC(C)(C)NC(=O)C1CN(Cc2cccnc2)CCN1CC(O)CC(Cc1ccccc1)C(=O)NC1c2ccccc2CC1O
+../drug-diffuser-0717/datasets/LactMed/periciazine.jpg,,N#Cc1ccc2c(c1)N(CCCN1CCC(O)CC1)c1ccccc1S2
+../drug-diffuser-0717/datasets/LactMed/Lithium.jpg,,CC1CCC=CC1CBr
+../drug-diffuser-0717/datasets/LactMed/Tapentadol.jpg,,CCC(c1cccc(O)c1)C(C)CN(C)C
+../drug-diffuser-0717/datasets/LactMed/Quetiapine.jpg,,OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Perindopril.jpg,,CCCC(NC(C)C(=O)N1C(C(=O)O)CC2CCCCC21)C(=O)OCC
+../drug-diffuser-0717/datasets/LactMed/Diflunisal.jpg,,O=C(O)c1cc(-c2ccc(F)cc2F)ccc1O
+../drug-diffuser-0717/datasets/LactMed/Adefovir.jpg,,Nc1ncnc2c1ncn2CCOCP(=O)(O)O
+../drug-diffuser-0717/datasets/LactMed/Beclomethasone.jpg,,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO
+../drug-diffuser-0717/datasets/LactMed/dapivirine.jpg,,Cc1cc(C)c(Nc2nccc(Nc3ccc(C#N)cc3)n2)c(C)c1
+../drug-diffuser-0717/datasets/LactMed/imiquimod.jpg,,CC(C)Cn1cnc2c(N)nc3ccccc3c21
+../drug-diffuser-0717/datasets/LactMed/Atazanavir.jpg,,COC(=O)NC(C(=O)NC(Cc1ccc(-c2ccccc2)cc1)C(O)CN(NC(=O)OCc1ccccn1)C(C)(C)C)C(C)(C)C
+../drug-diffuser-0717/datasets/LactMed/Glucosamine.jpg,,NC1C(O)OC(CO)C(O)C1O
+../drug-diffuser-0717/datasets/LactMed/Nifurtimox.jpg,,CC1CS(=O)(=O)CCN1N=Cc1ccc([N+](=O)[O-])o1
+../drug-diffuser-0717/datasets/LactMed/Tezacaftor and Ivacaftor.jpg,,CC(C)(C)c1ccc2c(=O)n(Cc3cc(C(C)(C)C)c(C(O)c4ccccc4F)cc3-c3cc4cc(C5(O)CC5)ccc4[nH]3)c(=O)[nH]c2c1
+../drug-diffuser-0717/datasets/LactMed/Progesterone.jpg,,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C
+../drug-diffuser-0717/datasets/LactMed/Ibandronate.jpg,,CCCCCN(C)CCC(O)(P(=O)(O)O)P(=O)(O)O
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Medronate.jpg,,O=P(O)(O)CP(=O)(O)O
+../drug-diffuser-0717/datasets/LactMed/Sertraline.jpg,,CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Sevoflurane.jpg,,FCOC(C(F)(F)F)C(F)(F)F
+../drug-diffuser-0717/datasets/LactMed/Asenapine.jpg,,CN1CC2c3ccccc3Oc3ccc(Cl)cc3C2C1
+../drug-diffuser-0717/datasets/LactMed/Diflorasone.jpg,,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO
+../drug-diffuser-0717/datasets/LactMed/Ceftibuten.jpg,,NC=C(C(=O)NC1C(=O)N2C(C(=O)O)=CCC(NC(=O)O)C12)c1csc(N)n1
+../drug-diffuser-0717/datasets/LactMed/lasmiditan.jpg,,CN1CCC(C(=O)c2cccc(NC(=O)c3c(F)cc(F)cc3F)n2)CC1
+../drug-diffuser-0717/datasets/LactMed/abrocitinib.jpg,,CCCS(=O)(=O)NC1CC(N(C)c2ncnc3[nH]ccc23)C1
+../drug-diffuser-0717/datasets/LactMed/Duvelisib.jpg,,CC(Nc1ncnc2nc[nH]c12)c1cc2cccc(Cl)c2c(=O)n1-c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Rasagiline.jpg,,C#CCNC1CCc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Ibrutinib.jpg,,C=CC(=O)N1CCCC(n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1
+../drug-diffuser-0717/datasets/LactMed/Salsalate.jpg,,O=C(Oc1ccccc1C(=O)O)c1ccccc1O
+../drug-diffuser-0717/datasets/LactMed/pegaspargase.jpg,,C=C(CN(C)C)C(=O)c1ccc(C)cc1C
+../drug-diffuser-0717/datasets/LactMed/vecuronium.jpg,,CC(=O)OC1CC2C3CCC4CC([N+]5(C)CCCCC5)C(OC(C)=O)CC4(C)C3CCC2(C)C1N1CCCCC1
+../drug-diffuser-0717/datasets/LactMed/Citalopram.jpg,,CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21
+../drug-diffuser-0717/datasets/LactMed/Magnesium Oxide.jpg,,O=C1[CH]O1
+../drug-diffuser-0717/datasets/LactMed/remimazolam.jpg,,COC(=O)CCC1N=C(c2ccccn2)c2cc(Br)ccc2-n2c(C)cnc21
+../drug-diffuser-0717/datasets/LactMed/Lanolin.jpg,,CCCCCCCCCCCCCCCCNC(=O)CCCCCNCCCCCCOCCCCCO
+../drug-diffuser-0717/datasets/LactMed/Urea C 14.jpg,,NCC(N)=O
+../drug-diffuser-0717/datasets/LactMed/Nicardipine.jpg,,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN(C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1
+../drug-diffuser-0717/datasets/LactMed/Rabeprazole.jpg,,COCCCOc1ccnc(CS(=O)c2nc3ccccc3[nH]2)c1C
+../drug-diffuser-0717/datasets/LactMed/Oseltamivir.jpg,,CCOC(=O)C1=CC(OC(CC)CC)C(NC(C)=O)C(N)C1
+../drug-diffuser-0717/datasets/LactMed/Dalbavancin.jpg,,CNC1C(=O)Nc2cc(ccc2O)C1NC(=O)c1cc2ccc3c(c2[nH]c1=O)-c1c(cc(C2CCC2)nc1O)C(C)C(O)c1cc(ccc1C)O3
+../drug-diffuser-0717/datasets/LactMed/pexidartinib.jpg,,Fc1cnc2c(Cc3ccc(NCc4ccc(C(F)(F)F)nc4)nc3)c[nH]c2c1
+../drug-diffuser-0717/datasets/LactMed/teriparatide.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Rucaparib.jpg,,CNCc1ccc(-c2[nH]c3cc(F)cc4c3c2CCNC4=O)cc1
+../drug-diffuser-0717/datasets/LactMed/futibatinib.jpg,,C=CC(=O)N1CCC(n2nc(C#Cc3cc(OC)cc(OC)c3)c3c(N)ncnc32)C1
+../drug-diffuser-0717/datasets/LactMed/Spinosad.jpg,,COC1CCC2(C)C3=CC(C4C(C)=CC(O)N4C)C(O)C4C(OC5CCC6C(OC)C(=O)C=CC6(C)C(C)OC5=O)OC(C)CC4C3=CC(=O)C2C1C
+../drug-diffuser-0717/datasets/LactMed/Norethynodrel.jpg,,C#CC1(O)CCC2C3CCC4=C(CCC(=O)C4)C3CCC21C
+../drug-diffuser-0717/datasets/LactMed/Prednisone.jpg,,CC12C=CC(=O)C=C1CCC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO
+../drug-diffuser-0717/datasets/LactMed/Dexbrompheniramine.jpg,,CN(C)CCC(c1ccc(Br)cc1)c1ccccn1
+../drug-diffuser-0717/datasets/LactMed/larotrectinib.jpg,,O=C(Nc1cnn2ccc(N3CCCC3c3ccc(F)cc3F)nc12)N1CCC(O)C1
+../drug-diffuser-0717/datasets/LactMed/Dexamethasone.jpg,,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO
+../drug-diffuser-0717/datasets/LactMed/Fluvoxamine.jpg,,COCCCCC(=NOCCN)c1ccc(C(F)(F)F)cc1
+../drug-diffuser-0717/datasets/LactMed/Anise.jpg,,CC=Cc1ccc(OC2OC(c3c(O)cc(O)c4c(=O)cc(-c5ccc(O)cc5)oc34)C(O)C2OC2OC(O)C(O)C(O)C2O)cc1
+../drug-diffuser-0717/datasets/LactMed/dimethylsulfone.jpg,,CS(=O)(=O)C=O
+../drug-diffuser-0717/datasets/LactMed/Halobetasol.jpg,,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(O)C(=O)CO
+../drug-diffuser-0717/datasets/LactMed/Nadolol.jpg,,CC(C)(C)NCC(O)COc1cccc2c1CC(O)C(O)C2
+../drug-diffuser-0717/datasets/LactMed/Zolmitriptan.jpg,,CN(C)CCc1c[nH]c2ccc(CC3COC(=O)N3)cc12
+../drug-diffuser-0717/datasets/LactMed/Fexofenadine.jpg,,CC(C)(C(=O)O)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1
+../drug-diffuser-0717/datasets/LactMed/Boceprevir.jpg,,CC(C)(C)NC(=O)NC(C(=O)N1CC2C(C1C(=O)NC(CC1CCC1)C(=O)C(N)=O)C2(C)C)C(C)(C)C
+../drug-diffuser-0717/datasets/LactMed/Cannabis.jpg,,CC1=CCC(C)=CCC(C)(C)CCC=C1
+../drug-diffuser-0717/datasets/LactMed/Levobupivacaine.jpg,,CCCCN1CCCCC1C(=O)Nc1c(C)cccc1C
+../drug-diffuser-0717/datasets/LactMed/Carbamazepine.jpg,,NC(=O)N1c2ccccc2C=Cc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Vitamin B.jpg,,NC(=O)c1cccnc1
+../drug-diffuser-0717/datasets/LactMed/infigratinib.jpg,,CCN1CCN(c2ccc(Nc3cc(N(C)C(=O)Nc4c(Cl)c(OC)cc(OC)c4Cl)ncn3)cc2)CC1
+../drug-diffuser-0717/datasets/LactMed/Desoximetasone.jpg,,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1C(=O)CO
+../drug-diffuser-0717/datasets/LactMed/Xenon Xe 133.jpg,,CC(C)(C)C1CCO1
+../drug-diffuser-0717/datasets/LactMed/Phenelzine.jpg,,NNCCc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Selinexor.jpg,,O=C(C=Cn1cnc(-c2cc(C(F)(F)F)cc(C(F)(F)F)c2)n1)NNc1cnccn1
+../drug-diffuser-0717/datasets/LactMed/Melatonin.jpg,,COc1ccc2[nH]cc(CCNC(C)=O)c2c1
+../drug-diffuser-0717/datasets/LactMed/Linezolid.jpg,,CC(=O)NCC1CN(c2ccc(N3CCOCC3)c(F)c2)C(=O)O1
+../drug-diffuser-0717/datasets/LactMed/Fospropofol.jpg,,CC(C)c1cccc(C(C)C)c1OCOP(=O)(O)O
+../drug-diffuser-0717/datasets/LactMed/Magnesium Aspartate.jpg,,NC(CC(=O)[O-])C(CC(=O)O)C(CC(=O)[O-])C(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Loxapine.jpg,,CN1CCN(C2=Nc3ccccc3Oc3ccc(Cl)cc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Triazolam.jpg,,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2
+../drug-diffuser-0717/datasets/LactMed/Estazolam.jpg,,Clc1ccc2c(c1)C(c1ccccc1)=NCc1nncn1-2
+../drug-diffuser-0717/datasets/LactMed/Perampanel.jpg,,N#Cc1ccccc1-c1cc(-c2ccccn2)cn(-c2ccccc2)c1=O
+../drug-diffuser-0717/datasets/LactMed/Valproic Acid.jpg,,CCCC(CCC)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Dronabinol.jpg,,CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21
+../drug-diffuser-0717/datasets/LactMed/Bedaquiline.jpg,,COc1nc2ccccc2cc1C(c1ccccc1)C(O)(CCN(C)C)c1cccc2cc(Br)ccc12
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Exametazime.jpg,,CC(=NO)C(C)(C)NCC(C)CNC(C)(C)C(C)=NO
+../drug-diffuser-0717/datasets/LactMed/Atropine.jpg,,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2
+../drug-diffuser-0717/datasets/LactMed/Everolimus.jpg,,COC1CC(C)CC=CC(=O)C(C)CC2CCC(O2)C(C)NC(=O)C(CC2CCCCC2)NC(=O)C(C)=CC(C)C(OC)C(O)CC1=O
+../drug-diffuser-0717/datasets/LactMed/Clorazepate.jpg,,O=C(O)C1N=C(c2ccccc2)c2cc(Cl)ccc2NC1=O
+../drug-diffuser-0717/datasets/LactMed/Cisplatin.jpg,,NC(Cl)(Cl)CCCl
+../drug-diffuser-0717/datasets/LactMed/anagrelide.jpg,,O=C1CN2Cc3c(ccc(Cl)c3Cl)N=C2N1
+../drug-diffuser-0717/datasets/LactMed/pramoxine.jpg,,CCCCOc1ccc(OCCCN2CCOCC2)cc1
+../drug-diffuser-0717/datasets/LactMed/viloxazine.jpg,,CCOc1ccccc1OCC1CNCCO1
+../drug-diffuser-0717/datasets/LactMed/alpelisib.jpg,,Cc1nc(NC(=O)N2CCCC2C(N)=O)sc1-c1ccnc(C(C)(C)C(F)(F)F)c1
+../drug-diffuser-0717/datasets/LactMed/Bismuth Subsalicylate.jpg,,O=C1OOc2ccccc2C1O
+../drug-diffuser-0717/datasets/LactMed/rezafungin.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Budesonide.jpg,,CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1
+../drug-diffuser-0717/datasets/LactMed/Mifepristone.jpg,,CC#CC1(O)CCC2C3CCC4=CC(=O)CCC4=C3C(c3ccc(N(C)C)cc3)CC21C
+../drug-diffuser-0717/datasets/LactMed/Aspirin.jpg,,CC(=O)Oc1ccccc1C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Trifluoperazine.jpg,,CN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Amphetamine.jpg,,CC(N)Cc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Flaxseed.jpg,,COc1cc(CC(CO)C(Cc2cc(O)cc(O)c2)C(CO)C2OC(CO)C(O)C(O)C2O)ccc1O
+../drug-diffuser-0717/datasets/LactMed/Dicloxacillin.jpg,,Cc1onc(-c2c(Cl)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Amcinonide.jpg,,CC(=O)OCC1(O)C2CC(=O)OC2CC2C3CCC4=CC(=O)C=CC4(C)C34OC4CCCCC21C
+../drug-diffuser-0717/datasets/LactMed/tecovirimat.jpg,,O=C(NN1C(=O)C2C3C=CC(C4CC34)C2C1=O)c1ccc(C(F)(F)F)cc1
+../drug-diffuser-0717/datasets/LactMed/Nalidixic Acid.jpg,,CCn1cc(C(=O)O)c(=O)c2ccc(C)nc21
+../drug-diffuser-0717/datasets/LactMed/Azelastine.jpg,,CN1CCCC(n2nc(Cc3ccc(Cl)cc3)c3ccccc3c2=O)CC1
+../drug-diffuser-0717/datasets/LactMed/Alogliptin.jpg,,Cn1c(=O)cc(N2CCCC(N)C2)n(Cc2ccccc2C#N)c1=O
+../drug-diffuser-0717/datasets/LactMed/Clonidine.jpg,,Clc1cccc(Cl)c1NC1=NCCN1
+../drug-diffuser-0717/datasets/LactMed/Penicillin G.jpg,,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Artemether and Lumefantrine.jpg,,CCCCN(CC)C1CC(O)(c2ccc3c(c2)CCC(C)O3)C2C(=Cc3cc(C)cc4c3CCC4)C1(O)CC2c1ccc(F)cc1
+../drug-diffuser-0717/datasets/LactMed/Prednisolone.jpg,,CC12C=CC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO
+../drug-diffuser-0717/datasets/LactMed/Milnacipran.jpg,,CCN(CC)C(=O)C1(c2ccccc2)CC1CN
+../drug-diffuser-0717/datasets/LactMed/Pemetrexed.jpg,,Nc1nc2[nH]cc(CCc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)c2c(=O)[nH]1
+../drug-diffuser-0717/datasets/LactMed/Samarium Sm 153 Lexidronam Pentasodium.jpg,,[N-]=[N+]=C(CN(CCN(CP(=O)(O)O)CP(=O)(O)O)CN(CP(=O)([O-])O)CP(=O)(O)Cl)[N+](=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/capmatinib.jpg,,CNC(=O)c1ccc(-c2cnc3ncc(Cc4ccc5ncccc5c4)n3n2)cc1F
+../drug-diffuser-0717/datasets/LactMed/Amoxapine.jpg,,Clc1ccc2c(c1)C(N1CCNCC1)=Nc1ccccc1O2
+../drug-diffuser-0717/datasets/LactMed/Sucralose.jpg,,OCC1OC(OC2(CCl)OC(CO)C(O)C2O)C(O)C(O)C1O
+../drug-diffuser-0717/datasets/LactMed/Elbasvir.jpg,,COC(=O)[N-]C(c1ncc(-c2ccc3c(c2)c2ccccc2c2nc(C4CCCN4C(=O)C(NC(=O)OC)C(C)C)ncc32)[nH]1)C1CCC1
+../drug-diffuser-0717/datasets/LactMed/Ferric Derisomaltose.jpg,,OCC(O)C(O)C(O)OCC1OC(C(O)COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O
+../drug-diffuser-0717/datasets/LactMed/Cetirizine.jpg,,O=C(O)COCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1
+../drug-diffuser-0717/datasets/LactMed/Caraway.jpg,,OCC1OC(OC2CC3OC2C2(CC4C5C(OC5C(O)C5(CO)OC45)C4OC(O)(CO)C(CO)CC4O2)C2OC32)C(O)C(O)C1O
+../drug-diffuser-0717/datasets/LactMed/Vilanterol.jpg,,OCc1cc(C(O)CNCCCCCCOCCOCc2c(F)cccc2Cl)ccc1O
+../drug-diffuser-0717/datasets/LactMed/Minocycline.jpg,,CN(C)c1ccc(O)c2c1CC1C(=C2O)C(=O)C2(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C2C1O
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Pentetate.jpg,,O=C([O-])CN(CCN(CCN(CC(=O)O)CC(=O)O)CC(=O)Cl)CC(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Metoprolol.jpg,,COCCNCC(O)COc1ccc(CC(C)C)cc1
+../drug-diffuser-0717/datasets/LactMed/Latanoprost.jpg,,CC(C)OC(=O)CCCC=CCC1C(O)CC(O)C1CCC(O)CCc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Piperacillin and Tazobactam.jpg,,CCN1CCN(C(=O)NC(C(=O)Nc2ccccc2)C2(C)C(=O)N3C(C(=O)O)=C(Cn4cncn4)C(=O)C(N)C3S2(=O)=O)C1=O
+../drug-diffuser-0717/datasets/LactMed/Rifampin.jpg,,COC1=C(C)C2C(=O)c3c(cc(O)c(C)c3O)CC(N=C3C=C(C)C(=O)c4c(cc(O)c(c4O)O3)CC1)C(C)C(NC(C)=O)C2C
+../drug-diffuser-0717/datasets/LactMed/Ethionamide.jpg,,CCc1cc(C(N)=S)ccn1
+../drug-diffuser-0717/datasets/LactMed/Ioxaglate.jpg,,CNC(=O)CNC(=O)c1c(F)c(C(=O)NC)c(Cl)c(F)c1NC(=O)Nc1c(O)c(C(=O)N(C)C)c(C)c(C(=O)O)c1F
+../drug-diffuser-0717/datasets/LactMed/Carbachol.jpg,,C[N+](C)(C)CCOC(N)=O
+../drug-diffuser-0717/datasets/LactMed/Brexanolone.jpg,,CC(=O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C
+../drug-diffuser-0717/datasets/LactMed/Lisuride.jpg,,CCN(CC)C(=O)NC1CC=C2c3cccc4[nH]cc(c34)CC2N(C)C1
+../drug-diffuser-0717/datasets/LactMed/Azelaic Acid.jpg,,O=C(O)CCCCCCCC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Diphenoxylate.jpg,,CCOC(=O)C1(c2ccccc2)CCN(CCC(C#N)(c2ccccc2)c2ccccc2)CC1
+../drug-diffuser-0717/datasets/LactMed/Clobetasol.jpg,,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CCl
+../drug-diffuser-0717/datasets/LactMed/tasimelteon.jpg,,CCC(=O)NCC1CC1c1cccc2c1OCO2
+../drug-diffuser-0717/datasets/LactMed/Levothyroxine.jpg,,NC(Cc1cc(F)c(Oc2cc(Cl)c(O)c(I)c2)c(F)c1)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Bleomycin.jpg,,CC1CNC(=O)c2cc(C(=O)NC(CC(N)=O)C(=O)NC3N=C(NC(=O)C4CC=Cc5[nH]c(N)nc54)C(C(O)CCN)C(O)C3C)[nH]c21
+../drug-diffuser-0717/datasets/LactMed/Nilotinib.jpg,,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1
+../drug-diffuser-0717/datasets/LactMed/oteseconazole.jpg,,OC(Cc1ccc(-c2ccc(F)nc2)cc1)(Cn1cc(-c2ccc(F)cc2)nn1)C(F)(F)F
+../drug-diffuser-0717/datasets/LactMed/Zidovudine.jpg,,Cc1cn(C2CC(N=[N+]=[N-])C(CO)O2)c(=O)[nH]c1=O
+../drug-diffuser-0717/datasets/LactMed/Mirtazapine.jpg,,CN1CCN2c3ccccc3Cc3ccccc3C2C1
+../drug-diffuser-0717/datasets/LactMed/Ciprofloxacin.jpg,,O=C(O)c1cn(C2CC2)c2cc(F)c(N3CCNCC3)cc2c1=O
+../drug-diffuser-0717/datasets/LactMed/Dibucaine.jpg,,CCCCOc1cc(C(=O)NCCN(CC)CC)nc2ccccc12
+../drug-diffuser-0717/datasets/LactMed/Capreomycin.jpg,,CC1CC(NC(=O)C2CCCN2)C(=O)NCC(NC(=O)C(N)CC(N)=O)NC(=O)c2c[nH]c(n2)C(=O)NC(CCCN)=NC(=O)CNC1N
+../drug-diffuser-0717/datasets/LactMed/leniolisib.jpg,,CCC(=O)N1CCC(Nc2ncnc3c2CN(c2ccc(OC)c(C(F)(F)F)c2)CC3)C1
+../drug-diffuser-0717/datasets/LactMed/Cephalexin.jpg,,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1
+../drug-diffuser-0717/datasets/LactMed/Paromomycin.jpg,,NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(O)C3N)C2OC2OC(CO)C(O)C(O)C2O)C(O)C1O
+../drug-diffuser-0717/datasets/LactMed/zavegepant.jpg,,Cc1cc(CC(NC(=O)N2CCC(c3cc4ccccc4[nH]c3=O)CC2)C(=O)N2CCC(N3CCN(C)CC3)CC2)cc2cn[nH]c12
+../drug-diffuser-0717/datasets/LactMed/Flupenthixol.jpg,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Ibuprofen.jpg,,CC(C)Cc1ccc(C(C)C(=O)O)cc1
+../drug-diffuser-0717/datasets/LactMed/Halothane.jpg,,FC(F)C(Cl)C(F)(F)Br
+../drug-diffuser-0717/datasets/LactMed/agomelatine.jpg,,COc1cccc2ccc(CCNC(C)=O)cc12
+../drug-diffuser-0717/datasets/LactMed/sapropterin.jpg,,CC(O)C(O)C1CNc2nc(N)[nH]c(=O)c2N1
+../drug-diffuser-0717/datasets/LactMed/Hydroxyzine.jpg,,OCCOCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1
+../drug-diffuser-0717/datasets/LactMed/nitisinone.jpg,,O=C1CCCC(=O)C1C(=O)c1ccc(C(F)(F)F)cc1[N+](=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Ganciclovir.jpg,,Nc1nc2c(ncn2COC(CO)CO)c(=O)[nH]1
+../drug-diffuser-0717/datasets/LactMed/Doxorubicin.jpg,,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C1CC(O)C(N)C(CO)O1)C(O)CC3=O
+../drug-diffuser-0717/datasets/LactMed/Lecithin.jpg,,CCCCCCCCCCCCCCCC(=O)NC(CCOCCNC(=O)CCCCCCCCCCN)COP(O)NCCCC
+../drug-diffuser-0717/datasets/LactMed/Thioridazine.jpg,,CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2
+../drug-diffuser-0717/datasets/LactMed/Geranium.jpg,,C=C(C)CCCC(C)CCO
+../drug-diffuser-0717/datasets/LactMed/Cefpodoxime.jpg,,COCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOC)c3csc(N)n3)C2SC1
+../drug-diffuser-0717/datasets/LactMed/niclosamide.jpg,,O=C(Nc1ccc([N+](=O)[O-])cc1Cl)c1cc(Cl)ccc1O
+../drug-diffuser-0717/datasets/LactMed/Nifedipine.jpg,,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/dyclonine.jpg,,CCCCOc1ccc(C(=O)CCN2CCCCC2)cc1
+../drug-diffuser-0717/datasets/LactMed/Etonogestrel.jpg,,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(OC)CC21C
+../drug-diffuser-0717/datasets/LactMed/Hydrocodone.jpg,,COc1ccc2c3c1OC1C(=O)CCC4C(C2)N(C)CCC314
+../drug-diffuser-0717/datasets/LactMed/Liothyronine.jpg,,NC(Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Atovaquone and Proguanil.jpg,,CC(C)N=C(N)NC(=Nc1ccc(Cl)cc1)C1CCC(C2=C(O)C(c3ccccc3)CC(=O)c3ccc(F)cc3C2=O)CC1
+../drug-diffuser-0717/datasets/LactMed/cabotegravir.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Salicylic Acid.jpg,,O=C(O)c1ccccc1O
+../drug-diffuser-0717/datasets/LactMed/Glatiramer.jpg,,NCCCCC(NC(=O)C(N)CCC(N)C(=O)NC(Cc1ccc(O)cc1)C(=O)C(N)CCC(=O)O)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Propoxyphene.jpg,,CCC(=O)OC(Cc1ccccc1)(c1ccccc1)C(C)CN(C)C
+../drug-diffuser-0717/datasets/LactMed/Colestipol.jpg,,NCCNCCNCC(CCNCCN)C1CC1
+../drug-diffuser-0717/datasets/LactMed/Ethinyl Estradiol.jpg,,C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C
+../drug-diffuser-0717/datasets/LactMed/Levetiracetam.jpg,,CCC(C(N)=O)N1CCCC1=O
+../drug-diffuser-0717/datasets/LactMed/Homatropine.jpg,,CN1C2CCC1CC(OC(=O)C(O)c1ccccc1)C2
+../drug-diffuser-0717/datasets/LactMed/lefamulin.jpg,,C=CC1(C)CC(OC(=O)CSC2(C)CCC(O)CC2N)C2(C)CCC(=O)C2(C)C1O
+../drug-diffuser-0717/datasets/LactMed/ziconotide.jpg,,CC1C=C(O)N2CCCC2C(=O)NC(CO)C(O)C(c2cc3cc(c2C(=O)O)CCc2cc(ccc2O)C3)OC(=O)C(C)C(=O)C(N)C1
+../drug-diffuser-0717/datasets/LactMed/Almotriptan.jpg,,CN(C)CCc1c[nH]c2ccc(CS(=O)(=O)N3CCCC3)cc12
+../drug-diffuser-0717/datasets/LactMed/Magnesium Citrate.jpg,,O=C([O-])CC(O)(CC(=O)[O-])CC(CC(=O)[O-])(C(=O)[O-])C(O)(CC(=O)[O-])CC(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Perphenazine.jpg,,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Butabarbital.jpg,,CCC(C)C1(CC)C(=O)NC(=O)NC1=O
+../drug-diffuser-0717/datasets/LactMed/Octreotide.jpg,,CC(C)CC1NC(=O)C(Cc2ccccc2)NC(=O)C(CCCN)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(C)NC(=O)C1CO
+../drug-diffuser-0717/datasets/LactMed/Butalbital.jpg,,C=CCC1(CC(C)C)C(=O)NC(=O)NC1=O
+../drug-diffuser-0717/datasets/LactMed/cyclamate.jpg,,O=S(=O)(O)NC1CCCCC1
+../drug-diffuser-0717/datasets/LactMed/Dabigatran.jpg,,Cn1c(CNc2ccc(C(=N)N)cc2)nc2cc(C(=O)N(CCC(=O)O)c3ccccn3)ccc21
+../drug-diffuser-0717/datasets/LactMed/Water O 15.jpg,,CC1CCC=CC1CO
+../drug-diffuser-0717/datasets/LactMed/Dextromethorphan.jpg,,COc1ccc2c(c1)C1CCC2CCN(C)C1
+../drug-diffuser-0717/datasets/LactMed/Methicillin.jpg,,COc1cccc(OC)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Nicotine.jpg,,CN1CCCC1c1cccnc1
+../drug-diffuser-0717/datasets/LactMed/lenacapavir.jpg,,CC(C)(C)c1cc(C#Cc2cccc(C(F)(F)F)c2)nc(NC(=O)C2CC2c2cc(F)cc3c(CS(C)(=O)=O)nn(CC4CC4)c23)c1N
+../drug-diffuser-0717/datasets/LactMed/Methazolamide.jpg,,CC(=O)N=c1sc(S(N)(=O)=O)nn1C
+../drug-diffuser-0717/datasets/LactMed/Dacarbazine.jpg,,CN(C)N=Nc1nc[nH]c1C(N)=O
+../drug-diffuser-0717/datasets/LactMed/Basil.jpg,,CC(C)=CCCC(C)=CCO
+../drug-diffuser-0717/datasets/LactMed/Meclizine.jpg,,Cc1ccc(CN2CCN(C(c3ccccc3)c3ccc(Cl)cc3)CC2)cc1
+../drug-diffuser-0717/datasets/LactMed/Methenamine.jpg,,C1CN2CN3CN(C1)CN(C2)C3
+../drug-diffuser-0717/datasets/LactMed/Acitretin.jpg,,COc1cc(C)c(C)c(C=CC(C)=CC=CC(C)=CC(=O)O)c1C
+../drug-diffuser-0717/datasets/LactMed/Disopyramide.jpg,,CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ccccn1)C(C)C
+../drug-diffuser-0717/datasets/LactMed/Dantrolene.jpg,,O=C1CN(N=Cc2ccc(-c3ccc([N+](=O)[O-])cc3)o2)C(=O)N1
+../drug-diffuser-0717/datasets/LactMed/cidofovir.jpg,,Nc1ccn(CC(CO)OCP(=O)(O)O)c(=O)n1
+../drug-diffuser-0717/datasets/LactMed/tadalafil.jpg,,CN1CC(=O)N2C(Cc3c([nH]c4ccccc34)C2c2ccc3c(c2)OCO3)C1=O
+../drug-diffuser-0717/datasets/LactMed/Nortriptyline.jpg,,CNCCC=C1c2ccccc2CCc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Glycopyrrolate.jpg,,C[N+]1(C)CCC(OC(=O)C(O)(c2ccccc2)C2CCC(Br)C2)C1
+../drug-diffuser-0717/datasets/LactMed/Nitrogen-13.jpg,,CC([O-])=C1CCCC1
+../drug-diffuser-0717/datasets/LactMed/brotizolam.jpg,,Cc1nnc2n1-c1sc(-c3ccccc3Cl)cc1C(Br)=NC2
+../drug-diffuser-0717/datasets/LactMed/Imipenem and Cilastatin.jpg,,CC(C)C1C(=O)N2C(CC=CC(N)C(=O)O)=C(SCCCCC(NC(=O)C3=C(C(=O)O)CCN3)C(C)(C)C(=O)O)C12
+../drug-diffuser-0717/datasets/LactMed/Tetracycline.jpg,,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3CC12O
+../drug-diffuser-0717/datasets/LactMed/Enflurane.jpg,,FC(F)OC(F)(F)C(F)Cl
+../drug-diffuser-0717/datasets/LactMed/Protriptyline.jpg,,CNCCCC1c2ccccc2C=Cc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Sodium Iodide I 123.jpg,,[N-]=[N+]=C1CC2CCC1C2
+../drug-diffuser-0717/datasets/LactMed/venetoclax.jpg,,CC1(C)CCC(Nc2cc(N3CCOCC3)c(S(=O)(=O)Nc3ccc(-c4cc[nH]c4)c(NCc4ccc(F)cc4)c3)cc2[N+](=O)[O-])CC1
+../drug-diffuser-0717/datasets/LactMed/Ioxilan.jpg,,CC(=O)N(CC(O)CO)c1c(C)c(C(=O)NCC(O)CO)c(F)c(C(=O)NCCO)c1Cl
+../drug-diffuser-0717/datasets/LactMed/Valdecoxib.jpg,,Cc1onc(-c2ccccc2)c1-c1ccc(S(N)(=O)=O)cc1
+../drug-diffuser-0717/datasets/LactMed/Formoterol.jpg,,COc1ccc(CC(C)NCC(O)c2ccc(O)c(NC=O)c2)cc1
+../drug-diffuser-0717/datasets/LactMed/Brexpiprazole.jpg,,O=c1ccc(OCCCCN2CCN(c3cccc4sccc34)CC2)c2cc[nH]c2c1
+../drug-diffuser-0717/datasets/LactMed/Cyclosporine.jpg,,CC(C)CC1NC(=O)C(C(C)C)NC(=O)C(C(=O)NC(C)C(=O)C=CC2CC2C)CC(C(C)C)NC(=O)C(C(C)C)NC(=O)C(C)NC1=O
+../drug-diffuser-0717/datasets/LactMed/Prazosin.jpg,,COc1cc2nc(N3CCN(C(=O)c4ccco4)CC3)nc(N)c2cc1OC
+../drug-diffuser-0717/datasets/LactMed/Tobramycin.jpg,,NCC1CC(O)C(OC2C(N)CC(N)C(OC3OC(CN)C(O)CC3N)C2O)C(N)C1O
+../drug-diffuser-0717/datasets/LactMed/Phosphorus P 32.jpg,,CC(C)(C=O)C1CC1
+../drug-diffuser-0717/datasets/LactMed/Dihydrocodeine.jpg,,COc1ccc2c3c1OC1C(O)CCC4(O)C(C2)CC314
+../drug-diffuser-0717/datasets/LactMed/Yttrium Y 90.jpg,,CC(=O)OC1(C)CCC=C1C
+../drug-diffuser-0717/datasets/LactMed/Lanreotide.jpg,,CC(C)C1NC(=O)C(Cc2cnc[nH]2)NC(=O)C(CCCN)NC(=O)C(Cc2ccc3ccccc3c2)NC(=O)c2cc(ccc2O)NC1=O
+../drug-diffuser-0717/datasets/LactMed/Sparfloxacin.jpg,,CC1CN(c2c(F)c(N)c3c(=O)c(C(=O)O)cn(C4CC4)c3c2F)CC(C)N1
+../drug-diffuser-0717/datasets/LactMed/Bremelanotide.jpg,,CCCCC1NC(=O)C(Cc2cnc[nH]2)NC(=O)C(CCCN=C(N)N)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(C)NC1=O
+../drug-diffuser-0717/datasets/LactMed/rimantadine.jpg,,CC(N)C12CC3CC(CC(C3)C1)C2
+../drug-diffuser-0717/datasets/LactMed/Rhubarb.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Deferiprone.jpg,,Cc1c(O)c(=O)ccn1C
+../drug-diffuser-0717/datasets/LactMed/Antipyrine.jpg,,Cc1cc(=O)n(-c2ccccc2)n1C
+../drug-diffuser-0717/datasets/LactMed/Thiethylperazine.jpg,,CCSc1ccc2c(c1)N(CCCN1CCN(C)CC1)c1ccccc1S2
+../drug-diffuser-0717/datasets/LactMed/Somatrem.jpg,,CC(C)CC(NC(=O)C1CCCN1C(=O)C(CC(N)=O)NC(=O)CNC(=O)C1CCCN1C(=O)C(C)N)C(=O)NC(C=C(N)N)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Iocanlidic Acid I 123.jpg,,O=C(O)CCCCCCCCCCCCCCc1ccc(O)cc1
+../drug-diffuser-0717/datasets/LactMed/rimegepant.jpg,,O=C(OC1CCC(c2cccc(F)c2F)C(O)C1)N1CCC(c2ccccc2)C(n2c(=O)[nH]c3cccnc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Daptomycin.jpg,,CC1CC(CC(=O)O)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(CCC(=O)O)NC(=O)C2=CC(C1)C(N)NC(=O)C(CC(=O)O)NC2N
+../drug-diffuser-0717/datasets/LactMed/Flurazepam.jpg,,CCN(CC)CCN1C(=O)CN=C(c2ccccc2F)c2cc(Cl)ccc21
+../drug-diffuser-0717/datasets/LactMed/Droperidol.jpg,,O=C(CCCN1CC=C(n2c(=O)[nH]c3ccccc32)CC1)c1ccc(F)cc1
+../drug-diffuser-0717/datasets/LactMed/somapacitan.jpg,,CC(CO)CCCCNC(=O)CCCCCOC(C)(C)CCCN=C=O
+../drug-diffuser-0717/datasets/LactMed/Tranylcypromine.jpg,,NC1CC1c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Cromolyn.jpg,,O=C(O)c1cc(=O)c2c(OCC(O)COc3cccc4oc(C(=O)O)cc(=O)c34)cccc2o1
+../drug-diffuser-0717/datasets/LactMed/Desmopressin.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Estradiol Cypionate.jpg,,CC12CCC3c4ccc(O)cc4CCC3C1CCC2OC(=O)CCC1CCCC1
+../drug-diffuser-0717/datasets/LactMed/Gadoxetate.jpg,,CCOc1ccc(CC(CN(CC)CC(=O)O)CN(CCN(CC(=O)O)CC(=O)O)CC(CC(=O)O)C(=O)O)cc1
+../drug-diffuser-0717/datasets/LactMed/Prilocaine.jpg,,CCCNC(C)C(=O)Nc1ccccc1C
+../drug-diffuser-0717/datasets/LactMed/Carbinoxamine.jpg,,CN(C)CCOC(c1ccc(Cl)cc1)c1ccccn1
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Gluconate.jpg,,O=C(O)C(O)C(O)C(O)C(O)C(OC1OC(CO)C(O)C(O)C1O)C(O)C(O)C(O)C(O)C(O)C(O)C(O)C(O)CO
+../drug-diffuser-0717/datasets/LactMed/tepotinib.jpg,,CN1CCC(COc2cnc(-c3cccc(Cn4nc(-c5cccc(C#N)c5)ccc4=O)c3)nc2)CC1
+../drug-diffuser-0717/datasets/LactMed/disulfiram.jpg,,CCN(CC)C(=S)SSC(=S)N(CC)CC
+../drug-diffuser-0717/datasets/LactMed/Dexlansoprazole.jpg,,Cc1c(OCC(F)(F)F)ccnc1CS(=O)c1nc2ccccc2[nH]1
+../drug-diffuser-0717/datasets/LactMed/tamsulosin.jpg,,CCOc1ccccc1OCCNC(C)Cc1ccc(OC)c(S(N)(=O)=O)c1
+../drug-diffuser-0717/datasets/LactMed/Chlorthalidone.jpg,,NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl
+../drug-diffuser-0717/datasets/LactMed/Midostaurin.jpg,,COC1C(N(C)C(=O)c2ccccc2)CC2OC1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4
+../drug-diffuser-0717/datasets/LactMed/Cyproheptadine.jpg,,CN1CCC(=C2c3ccccc3C=Cc3ccccc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Carbimazole.jpg,,CCOC(=O)n1ccn(C)c1=S
+../drug-diffuser-0717/datasets/LactMed/Bendroflumethiazide.jpg,,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(=O)C(Cc1ccccc1)NS2=O
+../drug-diffuser-0717/datasets/LactMed/Flecainide.jpg,,O=C(NCC1CCCCN1)c1cc(OCC(F)(F)F)ccc1OCC(F)(F)F
+../drug-diffuser-0717/datasets/LactMed/Quinine.jpg,,C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12
+../drug-diffuser-0717/datasets/LactMed/Phenprocoumon.jpg,,CCC(c1ccccc1)c1c(O)c2ccccc2oc1=O
+../drug-diffuser-0717/datasets/LactMed/atogepant.jpg,,O=C(NC1CC(c2c(F)cccc2F)CN(CC(F)(F)F)C1=O)c1cnc2c(c1)CC1(C2)C(=O)Nc2ncccc21
+../drug-diffuser-0717/datasets/LactMed/Caspofungin.jpg,,CC1CCCC(=O)NC(C(O)CCCCCN)C(=O)Oc2cc(ccc2O)CC(C)C(O)C(=O)NC(c2ccc(O)cc2)C(=O)C(C)C1
+../drug-diffuser-0717/datasets/LactMed/palonosetron.jpg,,O=C1c2cccc3c2C(CCC3)CN1C1CN2CCC1CC2
+../drug-diffuser-0717/datasets/LactMed/Indacaterol.jpg,,CCc1cc(CC)c2c(c1)CC(NCC(O)c1ccc(O)c3cc(=O)[nH]cc13)C2
+../drug-diffuser-0717/datasets/LactMed/Buprenorphine.jpg,,CC12CCC3(O1)C1Cc4c(O)ccc5c4C3(CCN1CC1CC1)C(C)(C)C5CC2O
+../drug-diffuser-0717/datasets/LactMed/Butorphanol.jpg,,Oc1ccc2c(c1)CC1C(CC3(O)CCCCC13)N2CC1CCCC1
+../drug-diffuser-0717/datasets/LactMed/Cefoxitin.jpg,,COC1(NC(=O)Cc2cccs2)C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC21
+../drug-diffuser-0717/datasets/LactMed/ifosfamide.jpg,,O=P1(NCCCl)OCCCN1CCCl
+../drug-diffuser-0717/datasets/LactMed/Azilsartan.jpg,,CCOc1nc2cccc(C(=O)O)c2n1Cc1ccc(-c2ccccc2-c2noc(=O)[nH]2)cc1
+../drug-diffuser-0717/datasets/LactMed/Iloperidone.jpg,,COc1cc(C(C)=O)ccc1OCCCN1CCC(c2noc3cc(F)ccc23)CC1
+../drug-diffuser-0717/datasets/LactMed/dihydroergotamine.jpg,,CN1C(=O)C2CC(C(=O)NC3(C)CCCN4C(=O)C(Cc5ccccc5)NC43)CN(C)C2Cc2cccc3[nH]cc1c23
+../drug-diffuser-0717/datasets/LactMed/Rotigotine.jpg,,CCCN(CCc1cccs1)C1CCc2c(O)cccc2C1
+../drug-diffuser-0717/datasets/LactMed/Flavoxate.jpg,,Cc1c(-c2ccccc2)oc2c(C(=O)OCCN3CCCCC3)cccc2c1=O
+../drug-diffuser-0717/datasets/LactMed/Ferric Pyrophosphate Citrate.jpg,,C=C(CC(=O)OC(C)CS(=O)(=O)NC(CC(=O)O)(C(=O)O)[N+](=O)[O-])C(CC(=O)O)(C(=O)O)S(=O)(=O)C(N)=CC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Dextroamphetamine.jpg,,CC(N)Cc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Cholestyramine.jpg,,CCC(CC(C)c1ccc(CN(C)C)cc1)c1ccc(CC(C)[N+](C)(C)C)cc1
+../drug-diffuser-0717/datasets/LactMed/Dipyrone.jpg,,Cc1c(N(C)CS(=O)(=O)[O-])c(=O)n(-c2ccccc2)n1C
+../drug-diffuser-0717/datasets/LactMed/Leflunomide.jpg,,Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1
+../drug-diffuser-0717/datasets/LactMed/Vinblastine.jpg,,CCC1(C=O)C2CC=C(c3c(OC)ccc4[nH]c(C)cc34)C(CC3(C(=O)OC)c4ccccc4N(C)C3C(OC(C)=O)C3CC3)C1C(C)C2
+../drug-diffuser-0717/datasets/LactMed/Thiopental.jpg,,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O
+../drug-diffuser-0717/datasets/LactMed/Oritavancin.jpg,,CCC(O)C1NC(=O)C(C)=NC1c1cc2c3cc([nH]c3c1)C(C)NC(=O)c1cc(cc3c1O3)C(O)C(C(=O)NC)CC(N)c1cccc(c1)OC2=O
+../drug-diffuser-0717/datasets/LactMed/Clomiphene.jpg,,CCN(CC)CCOc1ccc(C(=C(Cl)c2ccccc2)c2ccccc2)cc1
+../drug-diffuser-0717/datasets/LactMed/d-Xylose C14.jpg,,O=CC(O)C(O)C(O)CO
+../drug-diffuser-0717/datasets/LactMed/acamprosate.jpg,,CC(=O)NCCCS(=O)(=O)O
+../drug-diffuser-0717/datasets/LactMed/polidocanol.jpg,,CCCCCCCCC=CCCCCCNCC(O)CCCCCCCNC(=O)CCCCCO
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Disofenin.jpg,,CC(C)c1cccc(C(C)C)c1NC(=O)CN(CC(=O)O)CC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Oxcarbazepine.jpg,,NC(=O)N1c2ccccc2CC(=O)c2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Brivaracetam.jpg,,CCCC1CC(=O)N(C(CC)C(N)=O)C1
+../drug-diffuser-0717/datasets/LactMed/Bupropion.jpg,,CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1
+../drug-diffuser-0717/datasets/LactMed/Trazodone.jpg,,O=c1n(CCCN2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12
+../drug-diffuser-0717/datasets/LactMed/Sufentanil.jpg,,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1
+../drug-diffuser-0717/datasets/LactMed/Dinoprostone.jpg,,CCCCCC(O)C=CC1C(O)CC(=O)C1CC=CCCCC(=O)O
+../drug-diffuser-0717/datasets/LactMed/berotralstat.jpg,,N#Cc1cc(C(Nc2cccc(C(=O)NCC3CC3)c2)c2cccc(CN)c2)n(-c2ccc(C(F)(F)F)cc2F)n1
+../drug-diffuser-0717/datasets/LactMed/Iodohippurate Sodium I 131.jpg,,O=[NH+]c1ccccc1C(=O)NCC(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Tramadol.jpg,,COc1cccc(C2(O)CCCCC2CN(C)C)c1
+../drug-diffuser-0717/datasets/LactMed/Gadofosveset.jpg,,CC(=O)CN(CC(CP(=O)(O)CN(CC(=O)O)c1ccccc1)OCCN1CCC(C(=O)[O-])(c2ccccc2)CC1)C(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Dasatinib.jpg,,Cc1ncc(Cl)c(Nc2ccc(C(=O)Nc3c(C)ccnc3N3CCN(CCO)CC3)s2)n1
+../drug-diffuser-0717/datasets/LactMed/Bosutinib.jpg,,COc1cc(Nc2c(C#N)cnc3cc(OC)c(OCCCN4CCN(C)CC4)cc23)c(Cl)cc1Cl
+../drug-diffuser-0717/datasets/LactMed/Delavirdine.jpg,,CC(C)Nc1ccc2[nH]c(C(=O)N3CCN(c4ncccc4NS(C)(=O)=O)CC3)cc2c1
+../drug-diffuser-0717/datasets/LactMed/tegaserod.jpg,,CCCCCN=C(N)NN=Cc1c[nH]c2ccc(OC)cc12
+../drug-diffuser-0717/datasets/LactMed/Oxymorphone.jpg,,CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5
+../drug-diffuser-0717/datasets/LactMed/Yttrium 90 Ibritumomab Tiuxetan.jpg,,CNC(=O)Nc1ccc(CC(CN2CC(=O)NC(C)C2)N(CC(=O)O)CC(=O)N(C)CC(=O)O)cc1
+../drug-diffuser-0717/datasets/LactMed/SAM-e.jpg,,C[S+](CCC(N)CC1OC(n2cnc3c(N)ncnc32)C(O)C1O)C(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Cyclophosphamide.jpg,,O=P1(N(CCCl)CCCl)NCCCO1
+../drug-diffuser-0717/datasets/LactMed/Iodine.jpg,,CC(I)I
+../drug-diffuser-0717/datasets/LactMed/diazoxide.jpg,,CC1=NS(=O)(=O)c2cc(Cl)ccc2N1
+../drug-diffuser-0717/datasets/LactMed/Epoetin Alfa.jpg,,CC1=CC(OC2CC(C)CCC(=O)OC3(C)C=CCC(C(OC4OC(CN(C)C)C(O)C(O)C4O)C2)C(C)C(O)C3C)COC1=O
+../drug-diffuser-0717/datasets/LactMed/Cocaine.jpg,,COC(=O)C1C2CCC(OC(=O)c3ccccc3)CC1N(C)C2
+../drug-diffuser-0717/datasets/LactMed/Phenindamine.jpg,,CN1CCC2=C(C1)c1ccccc1C2c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Indium In 111 Pentetate.jpg,,O=C([O-])CC(=O)CN(CCN(CCN(CC(=O)[O-])CC(=O)O)CC(=O)[O-])CC(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/elapegademase.jpg,,COCCOC(=O)NCCCCC(N)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/voclosporin.jpg,,C=CC1CC=CC(=O)NC(C)C(C)CNC(=O)C(CC(=O)N2CC(C(C)C)NC(=O)C2C)NC(=O)C(C(C)C)NC(=O)C(C(C)C)NC1=O
+../drug-diffuser-0717/datasets/LactMed/Binimetinib.jpg,,Cn1cnc2c(NCCO)c(C(=O)NO)cc(Oc3ccc(Br)cc3F)c21
+../drug-diffuser-0717/datasets/LactMed/Sulfadoxine and Pyrimethamine.jpg,,CCc1nc(N)nc(NS(=O)(=O)c2ccc(N)cc2-c2c(OC)nc(N)nc2-c2ccc(Cl)cc2)c1N
+../drug-diffuser-0717/datasets/LactMed/Tinzaparin.jpg,,CC(=O)C1OC(OC2C(O)C(O)C(OS(=O)(=O)O)C(O)C2OS(=O)(=O)O)OC1C1OC(C(=O)O)C(O)C(O)C1(O)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Sibutramine.jpg,,CC(C)CC(N(C)C)C1(c2ccc(Cl)cc2)CCC1
+../drug-diffuser-0717/datasets/LactMed/Pentobarbital.jpg,,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O
+../drug-diffuser-0717/datasets/LactMed/Acebutolol.jpg,,CCCC(=O)Nc1ccc(OCC(O)CNC(C)C)c(C(C)=O)c1
+../drug-diffuser-0717/datasets/LactMed/Fidaxomicin.jpg,,COC1CC(O)C(c2cccc(O)c2)OC(=O)CCC2(C)OC2CC(OC2C=C(C)C(=O)c3c2cc(C)oc3=O)C(C)C(O)C1O
+../drug-diffuser-0717/datasets/LactMed/Ketotifen.jpg,,CN1CCC(=C2c3ccccc3CC(=O)c3ccsc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Vitamin A.jpg,,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CCO
+../drug-diffuser-0717/datasets/LactMed/Losartan.jpg,,CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+../drug-diffuser-0717/datasets/LactMed/Divalproex.jpg,,CCCC(CCC)C(=O)C(CCC)C(CCC)C(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Molindone.jpg,,CCc1c(C)[nH]c2c1C(=O)C(CN1CCOCC1)CC2
+../drug-diffuser-0717/datasets/LactMed/Tripelennamine.jpg,,CN(C)CCN(Cc1ccccc1)c1ccccn1
+../drug-diffuser-0717/datasets/LactMed/Hydroxychloroquine.jpg,,CCN(CCCC(C)CCO)Nc1ccnc2cc(Cl)ccc12
+../drug-diffuser-0717/datasets/LactMed/Mesalamine.jpg,,Nc1ccc(O)c(C(=O)O)c1
+../drug-diffuser-0717/datasets/LactMed/Telbivudine.jpg,,Cc1cn(C2CC(O)C(CO)O2)c(=O)[nH]c1=O
+../drug-diffuser-0717/datasets/LactMed/Fenoprofen.jpg,,CC(C(=O)O)c1cccc(Oc2ccccc2)c1
+../drug-diffuser-0717/datasets/LactMed/Emtricitabine.jpg,,Nc1nc(=O)n(C2CSC(CO)O2)cc1F
+../drug-diffuser-0717/datasets/LactMed/Diphenhydramine.jpg,,CN(C)CCOC(c1ccccc1)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Ammonia N 13.jpg,,CC(CN)C1CCC=CCCC1
+../drug-diffuser-0717/datasets/LactMed/Epinephrine.jpg,,CNCC(O)c1ccc(O)c(O)c1
+../drug-diffuser-0717/datasets/LactMed/lumateperone.jpg,,CN1CCN2CC3CCN(CCCC(=O)c4ccc(F)cc4)CC3c3cccc1c32
+../drug-diffuser-0717/datasets/LactMed/Metipranolol.jpg,,CC(=O)Oc1c(C)cc(C)c(OCC(O)CNC(C)C)c1C
+../drug-diffuser-0717/datasets/LactMed/(14C)-Glycocholic Acid.jpg,,CC(CCC(=O)NCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C
+../drug-diffuser-0717/datasets/LactMed/Candesartan.jpg,,CCOc1nc2cccc(C(=O)O)c2n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+../drug-diffuser-0717/datasets/LactMed/Sodium Phosphate P 32.jpg,,N#[N+]C([O-])P(=O)([O-])[O-]
+../drug-diffuser-0717/datasets/LactMed/Saccharin.jpg,,O=C1NS(=O)(=O)c2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Deferoxamine.jpg,,CC(CCCN)C(=O)NCCCCC(O)CNC(=O)CCCCC(=O)NCCCCC(N)C(=O)CCCCO
+../drug-diffuser-0717/datasets/LactMed/Chlorhexidine.jpg,,NC(=NCCCCCCN=C(N)N=C(N)Nc1ccc(Cl)cc1)N=C(N)Nc1ccc(Cl)cc1
+../drug-diffuser-0717/datasets/LactMed/miglustat.jpg,,CCCCN1CC(O)C(O)C(O)C1CO
+../drug-diffuser-0717/datasets/LactMed/Fluocinonide.jpg,,CC(=O)OCC(=O)C12OC(C)(C)OC1CC1C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC12C
+../drug-diffuser-0717/datasets/LactMed/Furosemide.jpg,,NS(=O)(=O)c1cc(Cl)c(C(=O)O)cc1NCc1ccco1
+../drug-diffuser-0717/datasets/LactMed/Theophylline.jpg,,Cn1c(=O)c2[nH]cnc2n(C)c1=O
+../drug-diffuser-0717/datasets/LactMed/Varenicline.jpg,,c1cnc2cc3c(cc2c1)C1CNCC3C1
+../drug-diffuser-0717/datasets/LactMed/Trovafloxacin.jpg,,NC1C2CN(c3nc4c(cc3F)c(=O)c(C(=O)O)cn4-c3ccc(F)cc3F)CC12
+../drug-diffuser-0717/datasets/LactMed/Selegiline.jpg,,C#CCN(C)C(C)Cc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/(1-14C)-Triolein.jpg,,CCCCCCCCCCCCC(=O)NCCCCC(CNCCCCCCO)OC(=O)C1CCCCC1NCCCCCCN=C=O
+../drug-diffuser-0717/datasets/LactMed/Delafloxacin.jpg,,Nc1cc(-n2cc(C(=O)O)c(=O)c3cc(F)c(N4CC(O)C4)c(Cl)c32)c(F)cc1Cl
+../drug-diffuser-0717/datasets/LactMed/Amiloride.jpg,,NC(N)=NC(=O)c1nc(Cl)c(N)nc1N
+../drug-diffuser-0717/datasets/LactMed/Clotrimazole.jpg,,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1
+../drug-diffuser-0717/datasets/LactMed/fedratinib.jpg,,Cc1cnc(Nc2ccc(OCCN3CCCC3)cc2)nc1Nc1cccc(S(=O)(=O)NC(C)(C)C)c1
+../drug-diffuser-0717/datasets/LactMed/Desonide.jpg,,CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1
+../drug-diffuser-0717/datasets/LactMed/Dolutegravir.jpg,,CC1CCOC2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c(O)c3C(=O)N12
+../drug-diffuser-0717/datasets/LactMed/Exenatide.jpg,,CNC(=O)c1cc2[nH][nH]c(=O)c2cc1-c1c2c(C(=O)C3=CC(=O)C4=C3CCC=C4C3CCC3)nc3oc4c(cccc4c(=O)c13)C(C)N=C2N
+../drug-diffuser-0717/datasets/LactMed/Cefepime.jpg,,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(C[N+]3(C)CCCC3)CSC12)c1csc(N)n1
+../drug-diffuser-0717/datasets/LactMed/Loperamide.jpg,,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Maraviroc.jpg,,Cc1nnc(C(C)C)n1C1CC2CCC(C1)N2CCC(NC(=O)C1CCC(F)(F)CC1)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Ruxolitinib.jpg,,N#CCC(C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1
+../drug-diffuser-0717/datasets/LactMed/Iodohippurate Sodium I 123.jpg,,[NH3+]CC(=O)NCC(=O)c1ccccc1[O-]
+../drug-diffuser-0717/datasets/LactMed/Fluoxetine.jpg,,CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Glipizide.jpg,,Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc2)cn1
+../drug-diffuser-0717/datasets/LactMed/avapritinib.jpg,,Cn1cc(-c2cc3c(N4CCN(c5ncc(C(C)(N)c6ccc(F)cc6)cn5)CC4)ncnn3c2)cn1
+../drug-diffuser-0717/datasets/LactMed/Diethyltoluamide.jpg,,CCN(CC)C(=O)c1cccc(C)c1
+../drug-diffuser-0717/datasets/LactMed/Carboplatin.jpg,,CCCNC1CC(N)C(C(=O)O)(C(=O)O)C1
+../drug-diffuser-0717/datasets/LactMed/Flurbiprofen.jpg,,CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1
+../drug-diffuser-0717/datasets/LactMed/Benzocaine.jpg,,CCOC(=O)c1ccc(N)cc1
+../drug-diffuser-0717/datasets/LactMed/Flunisolide.jpg,,CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1
+../drug-diffuser-0717/datasets/LactMed/teduglutide.jpg,,C=C1C(O)CC2(C)C(C3=CC(=O)OC3O)CCC2(C)C2C(OC3OC(C)Cc4c3ccc(O)c4C(=O)O)CC3(C)C(O)CCC1C23O
+../drug-diffuser-0717/datasets/LactMed/Nebivolol.jpg,,OC(CNCC1CCc2cc(F)ccc2O1)C(O)C1CCc2cc(F)ccc2O1
+../drug-diffuser-0717/datasets/LactMed/Pimecrolimus.jpg,,CCC1CC(C)C(OC(=O)C2CCC(C)CN2)C(=O)OC(C(C)C=C(C)C2(O)CCCC2)CC2OC(=O)C(C)=CC(C)C(O2)C1OC
+../drug-diffuser-0717/datasets/LactMed/Propofol.jpg,,CC(C)c1cccc(C(C)C)c1O
+../drug-diffuser-0717/datasets/LactMed/Alcohol.jpg,,CCPO
+../drug-diffuser-0717/datasets/LactMed/Desirudin.jpg,,CC1C=CC(=O)NC(c2ccc3c(c2)OCO3)C(O)C=C2NCCCC3CC(OC(=O)c4cccc(c4)CC4(O)CCC(C)C14)C23O
+../drug-diffuser-0717/datasets/LactMed/Segesterone.jpg,,C=C1CC2C3CCC4=CC(=O)CCC4(C)C3CCC2(C)C1(O)C(C)=O
+../drug-diffuser-0717/datasets/LactMed/Ledipasvir.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Drospirenone.jpg,,CC12CCC(=O)C=C1C1CC1C1C2CCC2(C)C1C1CC1C21CCC(=O)O1
+../drug-diffuser-0717/datasets/LactMed/eltrombopag.jpg,,Cc1cc(-n2[nH]c(C)c(N=Nc3cccc(-c4ccccc4C(=O)O)c3)c2=O)c(C)cc1O
+../drug-diffuser-0717/datasets/LactMed/dolasetron.jpg,,O=C(OC1CC2CC3CC(=O)C(C1)C(C3)C2)c1c[nH]c2ccccc12
+../drug-diffuser-0717/datasets/LactMed/Imipramine.jpg,,CN(C)CCCN1c2ccccc2CCc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Omeprazole.jpg,,COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1
+../drug-diffuser-0717/datasets/LactMed/Levobunolol.jpg,,CC(C)(C)NCC(O)COc1cccc2c1CCCC2=O
+../drug-diffuser-0717/datasets/LactMed/Enalapril.jpg,,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1CCCC1C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Nefazodone.jpg,,CCc1nn(CCCN2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Azatadine.jpg,,CN1CCC(=C2c3ccccc3CCc3cccnc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Medroxyprogesterone Acetate.jpg,,CC(=O)OC1(C(C)=O)CCC2C3CC(C)C4=CC(=O)CCC4(C)C3CCC21C
+../drug-diffuser-0717/datasets/LactMed/Iobenguane I 131.jpg,,NC(N)=NCc1cccc(I)c1
+../drug-diffuser-0717/datasets/LactMed/suvorexant.jpg,,Cc1ccc2nc(N3CCC(C)N(C(=O)c4cc(Cl)ccc4-n4nccn4)CC3)nn2c1
+../drug-diffuser-0717/datasets/LactMed/Hydroflumethiazide.jpg,,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NCNS2(=O)=O
+../drug-diffuser-0717/datasets/LactMed/Enoxacin.jpg,,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)nc21
+../drug-diffuser-0717/datasets/LactMed/Chloramphenicol.jpg,,O=C(NC(CO)C(O)C(Cl)Cl)c1ccc([N+](=O)[O-])cc1
+../drug-diffuser-0717/datasets/LactMed/Gadodiamide.jpg,,CNC(=O)CN(CCN(CCN(CC(=O)NC)CC(=O)NC)CC(=O)O)CC(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Colchicine.jpg,,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1C(NC(C)=O)CC2
+../drug-diffuser-0717/datasets/LactMed/Tropicamide.jpg,,CCN(Cc1ccncc1)C(=O)C(CO)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/tirbanibulin.jpg,,O=C(Cc1ccc(-c2ccc(OCCN3CCOCC3)cc2)nc1)NCc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Procaine.jpg,,CCN(CC)CCOC(=O)c1ccc(N)cc1
+../drug-diffuser-0717/datasets/LactMed/Lenvatinib.jpg,,COc1cc2nccc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C(N)=O
+../drug-diffuser-0717/datasets/LactMed/Dimenhydrinate.jpg,,CN(C)CCOC(c1ccccc1Cl)c1cc(=O)n(C)c2c1[nH]c(=O)n2CCc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Propylthiouracil.jpg,,CCCc1cc(=O)[nH]c(=S)[nH]1
+../drug-diffuser-0717/datasets/LactMed/pimavanserin.jpg,,CC(C)COc1ccc(CNC(=O)N(Cc2ccc(F)cc2)C2CCN(C)CC2)cc1
+../drug-diffuser-0717/datasets/LactMed/Tretinoin.jpg,,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Gadopentetate.jpg,,O=C([O-])CC(=O)CN(CCN(CCN(CC(=O)O)CC(=O)O)CC(=O)[O-])CC(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Famotidine.jpg,,NC(N)=NCCSCc1csc(N=C(N)NS(N)(=O)=O)n1
+../drug-diffuser-0717/datasets/LactMed/aminolevulinic.jpg,,NCC(=O)CCC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Bimatoprost.jpg,,CCNC(=O)CCCC=CCC1C(O)CC(O)C1C=CC(O)CCc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Pregabalin.jpg,,CC(C)CC(CN)CC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Cyclizine.jpg,,CN1CCN(C(c2ccccc2)c2ccccc2)CC1
+../drug-diffuser-0717/datasets/LactMed/Ropivacaine.jpg,,CCCN1CCCCC1C(=O)Nc1c(C)cccc1C
+../drug-diffuser-0717/datasets/LactMed/cytarabine.jpg,,Nc1ccn(C2OC(CO)C(O)C2O)c(=O)n1
+../drug-diffuser-0717/datasets/LactMed/Desvenlafaxine.jpg,,CN(C)CC(c1ccc(O)cc1)C1(O)CCCCC1
+../drug-diffuser-0717/datasets/LactMed/Promethazine.jpg,,CC(CN1c2ccccc2Sc2ccccc21)N(C)C
+../drug-diffuser-0717/datasets/LactMed/Pyridostigmine.jpg,,CN(C)c1cccc(OC(=O)[O+])c1
+../drug-diffuser-0717/datasets/LactMed/Fluorouracil.jpg,,O=c1[nH]cc(F)c(=O)[nH]1
+../drug-diffuser-0717/datasets/LactMed/Vitamin K.jpg,,CC(=CCC1=C(C)C(=O)c2ccccc2C1=O)CCCC(C)CCCN(C)CCCC(C)C
+../drug-diffuser-0717/datasets/LactMed/Etomidate.jpg,,CCOC(=O)c1cncn1C(C)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Sotalol.jpg,,CC(C)NCC(O)c1ccc(NS(C)(=O)=O)cc1
+../drug-diffuser-0717/datasets/LactMed/daprodustat.jpg,,O=C(O)CNC(=O)C1C(=O)N(C2CCCCC2)C(=O)N(C2CCCCC2)C1=O
+../drug-diffuser-0717/datasets/LactMed/Prucalopride.jpg,,COCCCN1CCC(NC(=O)c2cc(Cl)c(N)c3c2OCC3)CC1
+../drug-diffuser-0717/datasets/LactMed/Iodixanol.jpg,,CC(=O)c1c(C(=O)NCC(O)C(O)C(O)CO)c(F)c(C(=O)NCC(O)CO)c(C)c1N(CC(O)CO)C(=O)NCC(O)C(O)CO
+../drug-diffuser-0717/datasets/LactMed/ubrogepant.jpg,,O=C(NC1CC(c2ccccc2)CN(CC(F)(F)F)C1=O)c1cnc2c(c1)CC1(C2)C(=O)Nc2ncccc2C1O
+../drug-diffuser-0717/datasets/LactMed/Brompheniramine.jpg,,CN(C)CCC(c1ccc(Br)cc1)c1ccccn1
+../drug-diffuser-0717/datasets/LactMed/Thallous Chloride Tl 201.jpg,,CC(Cl)OCCl
+../drug-diffuser-0717/datasets/LactMed/Triamcinolone.jpg,,CC12C=CC(=O)C=C1CCC1C2C(O)CC2(C)C1CC(O)C2(O)C(=O)CO
+../drug-diffuser-0717/datasets/LactMed/Trichlormethiazide.jpg,,NS(=O)(=O)C1NC(Cl)Nc2cc(Cl)c(S(=O)(=O)Cl)cc21
+../drug-diffuser-0717/datasets/LactMed/Gadobutrol.jpg,,O=C([O-])CN1CCN(CCO)CCN(CC(=O)O)CCN(CC(=O)O)CCN(CC(O)CO)CC1
+../drug-diffuser-0717/datasets/LactMed/Gallium Citrate Ga 67.jpg,,O=C([O-])CC(O)(CC(=O)[O-])CC(=O)C(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Lepirudin.jpg,,CC1=NC2(C1)Cc1ccc(O)c(c1)C(=O)OC1C3CCC4C(O)CC4(C)CC3OC(=O)c3ccc(cc3)CC1(O)CCC(C)C2
+../drug-diffuser-0717/datasets/LactMed/Glycolic Acid.jpg,,O=C([O-])CO
+../drug-diffuser-0717/datasets/LactMed/clascoterone.jpg,,CCC(=O)OC1(C(=O)CO)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C
+../drug-diffuser-0717/datasets/LactMed/Comfrey.jpg,,CC=C(C)C(=O)OC1CC[N+]2(CCC(O)(COC(=O)C(C)=C(C)[O-])C2C)C1C
+../drug-diffuser-0717/datasets/LactMed/Apremilast.jpg,,CCOc1cccc2c1C(=O)N(C(CS(C)(=O)=O)c1cccc(NC(C)=O)c1OC)C2=O
+../drug-diffuser-0717/datasets/LactMed/Lamotrigine.jpg,,Nc1nnc(-c2cccc(Cl)c2Cl)c(N)n1
+../drug-diffuser-0717/datasets/LactMed/Levalbuterol.jpg,,CC(C)(C)NCC(O)c1ccc(O)c(CO)c1
+../drug-diffuser-0717/datasets/LactMed/Vitamin C.jpg,,O=C1OC(C(O)CO)C(O)=C1O
+../drug-diffuser-0717/datasets/LactMed/Nevirapine.jpg,,Cc1cccc2c1NC(=O)c1cccnc1N2C1CC1
+../drug-diffuser-0717/datasets/LactMed/mirabegron.jpg,,Nc1nc(CC(=O)Nc2ccc(CCNCC(O)c3ccccc3)cc2)cs1
+../drug-diffuser-0717/datasets/LactMed/Pentazocine.jpg,,CC(C)=CCN1CCC2(C)c3cc(O)ccc3CC1C2C
+../drug-diffuser-0717/datasets/LactMed/levamisole.jpg,,c1ccc(C2CN3CCSC3=N2)cc1
+../drug-diffuser-0717/datasets/LactMed/Ciclesonide.jpg,,CC(C)C(=O)OCC1(O)C(C2CCCCC2)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4C(O)CC3(C)C(O)C21
+../drug-diffuser-0717/datasets/LactMed/Zuclopenthixol.jpg,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Naltrexone.jpg,,O=C1CCC2(O)C3Cc4c(O)ccc5c4C2(CCN3CC2CC2)C1O5
+../drug-diffuser-0717/datasets/LactMed/Zaleplon.jpg,,CCN(C(C)=O)c1cccc(-c2ccnc3c(C#N)cnn23)c1
+../drug-diffuser-0717/datasets/LactMed/Dimethyl Fumarate.jpg,,COC(=O)C=CC(=O)OC
+../drug-diffuser-0717/datasets/LactMed/Balsalazide.jpg,,O=C(O)CCNC(=O)c1ccc(N=Nc2ccc(O)c(C(=O)O)c2)cc1
+../drug-diffuser-0717/datasets/LactMed/pralsetinib.jpg,,COC1(C(=O)Nc2cc(C)cc(-n3ccc(C)n3)c2)CCC(c2nc(NC(C)c3ccc(F)nc3)n[nH]2)CC1
+../drug-diffuser-0717/datasets/LactMed/Benazepril.jpg,,CCOC(=O)C(CCc1ccccc1)NC1CCc2ccccc2N(CC(=O)O)C1=O
+../drug-diffuser-0717/datasets/LactMed/Rocuronium.jpg,,C=CC[N+]1(C2CCC3(C)C(CCC4C3CC(O)C3(C)C4CCC3N3CCOCC3)C2)CC(OC(C)=O)CC1C
+../drug-diffuser-0717/datasets/LactMed/Levocarnitine.jpg,,C[N+](C)(C)CC(O)CC(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Ketamine.jpg,,CNC1(c2ccccc2Cl)CCCCC1=O
+../drug-diffuser-0717/datasets/LactMed/Norepinephrine.jpg,,NCC(O)c1ccc(O)c(O)c1
+../drug-diffuser-0717/datasets/LactMed/Darunavir.jpg,,CC(C)CN(CC(O)C(Cc1ccccc1)NC(=O)OC1COC2OCCC12)S(=O)(=O)c1ccc(N)cc1
+../drug-diffuser-0717/datasets/LactMed/Treprostinil.jpg,,CCCCCC(O)CCC1C(O)CC2Cc3c(cccc3OCC(=O)O)CC21
+../drug-diffuser-0717/datasets/LactMed/Levomilnacipran.jpg,,CCN(CC)C(=O)C1(c2ccccc2)CC1CN
+../drug-diffuser-0717/datasets/LactMed/Heroin.jpg,,CC(=O)Oc1ccc2c3c1OC1C(OC(C)=O)C=CC4C(C2)N(C)CCC341
+../drug-diffuser-0717/datasets/LactMed/Salmeterol.jpg,,OCc1cc(C(O)CNCCCCCCOCCCCc2ccccc2)ccc1O
+../drug-diffuser-0717/datasets/LactMed/Vilazodone.jpg,,N#Cc1ccc2cc(CCCCN3CCN(c4ccc5[nH]c(C(N)=O)cc5c4)CC3)ccc2c1
+../drug-diffuser-0717/datasets/LactMed/Phenobarbital.jpg,,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O
+../drug-diffuser-0717/datasets/LactMed/Orlistat.jpg,,CCCCCCCCCCCC(CC1OC(=O)C1CC(C)C)OC(=O)C(CCCCC)NC(=O)CC
+../drug-diffuser-0717/datasets/LactMed/Hepatitis B Vaccine.jpg,,CNC(=O)c1c(C)c2c(c3c(=O)c4c(O)c5c(c(C)c4c(N)nc13)C(=O)N(C)C=5N)C13C(=CC(=O)C1c1cccc4[nH]cc3c14)CC=2
+../drug-diffuser-0717/datasets/LactMed/Brinzolamide.jpg,,CCNC1CN(CCCOC)S(=O)(=O)c2cc(S(N)(=O)=O)sc21
+../drug-diffuser-0717/datasets/LactMed/Neostigmine.jpg,,CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1
+../drug-diffuser-0717/datasets/LactMed/Roxithromycin.jpg,,COCC1OC(C)CC2OC(=O)C(C)C2C(OC2OC(C)CC(N(C)C)C2O)C(O)CC2(C)C(C)=CC(=O)C(C)C2C(O)C1OC
+../drug-diffuser-0717/datasets/LactMed/ozanimod.jpg,,CC(C)Oc1ccc(-c2nc(-c3cccc4c3CCC4NCCO)no2)cc1C#N
+../drug-diffuser-0717/datasets/LactMed/Pirbuterol.jpg,,CC(C)(C)NCC(O)c1ccc(O)c(CO)n1
+../drug-diffuser-0717/datasets/LactMed/Glecaprevir.jpg,,CC(C)(C)C1NC(=O)C2(CC(C(=O)NC3CC4CC4C3)N(S(=O)(=O)C3CCC3)CC1F)CC2C=CCOc1nc2ccccc2c(=O)[nH]1
+../drug-diffuser-0717/datasets/LactMed/Dopamine.jpg,,NCCc1ccc(O)c(O)c1
+../drug-diffuser-0717/datasets/LactMed/Agalsidase Beta.jpg,,CCCCCCC(=O)NC(CC1CCCN1C(=O)C(O)C1CCCCN1)C(O)CC(CCC(=O)O)c1ccc2c(c1)C1(CCC1)C(O)O2
+../drug-diffuser-0717/datasets/LactMed/Phencyclidine.jpg,,c1ccc(C2(N3CCCCC3)CCCCC2)cc1
+../drug-diffuser-0717/datasets/LactMed/Tafluprost.jpg,,CC(C)OC(=O)CCCC=CCC1C(O)CC(O)C1C=CC(F)(F)COc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Ceftaroline.jpg,,CCON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nc(-c4cc[n+](C)cc4)cs3)CSC12)c1nsc(NC(=O)O)n1
+../drug-diffuser-0717/datasets/LactMed/Amitriptyline.jpg,,CN(C)CCC=C1c2ccccc2CCc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Betamethasone.jpg,,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO
+../drug-diffuser-0717/datasets/LactMed/Dothiepin.jpg,,CN(C)CCC=C1c2ccccc2CSc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Chloral Hydrate.jpg,,OC(O)C(Cl)(Cl)Cl
+../drug-diffuser-0717/datasets/LactMed/trofinetide.jpg,,CC1(C(=O)NC(CCC(=O)O)C(=O)CN)CCCN1C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Mebendazole.jpg,,COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1
+../drug-diffuser-0717/datasets/LactMed/Aspartame.jpg,,COC(=O)C(Cc1ccccc1)NC(=O)C(N)CC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Methohexital.jpg,,C=CCC1(C(C)CC#CC)C(=O)NC(=O)N(C)C1=O
+../drug-diffuser-0717/datasets/LactMed/Fluphenazine.jpg,,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Esmolol.jpg,,COC(=O)CCc1ccc(OCC(O)CNC(C)C)cc1
+../drug-diffuser-0717/datasets/LactMed/Lormetazepam.jpg,,CN1C(=O)C(O)N=C(c2ccccc2Cl)c2cc(Cl)ccc21
+../drug-diffuser-0717/datasets/LactMed/Magnesium Sulfate.jpg,,CC(=O)C([O-])=S(=O)([O-])[O-]
+../drug-diffuser-0717/datasets/LactMed/Voxilaprevir.jpg,,CCC1Cc2nc(ccc2OC)NC(=O)C2CCC(C2)NC(=O)c2cc(cc(C(C)(C)C)n2)CC2OC2(C)C(=O)NS(=O)(=O)C2CC12
+../drug-diffuser-0717/datasets/LactMed/Lutetium Lu 177 Dotatate.jpg,,CC1CC(NC(=O)C2CCCN2)C(=O)NC(Cc2ccccc2)C(=O)NC(CC(=O)O)Cc2cc(ccc2O)NC(=O)C(C)C=C(C(=O)O)N1
+../drug-diffuser-0717/datasets/LactMed/Sugammadex.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Indium In 111 Pentetreotide.jpg,,CC(CO)C1NC(=O)C(Cc2ccccc2)NC(=O)C(CC(=O)O)NC(=O)c2cc(ccc2[O-])C(CC2CCC2)NC(=O)C(N)C(=O)NC1O
+../drug-diffuser-0717/datasets/LactMed/Penicillin V.jpg,,CC1(C)SC2C(NC(=O)COc3ccccc3)C(=O)N2C1C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Morphine.jpg,,CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5
+../drug-diffuser-0717/datasets/LactMed/maralixibat.jpg,,CCCCC1(CCCC)C(O)C(c2ccc(CN3CCN(C)CC3)cc2)c2cc(OCc3ccc(C[N+]4(C)CC4)cc3)ccc2S1(=O)=O
+../drug-diffuser-0717/datasets/LactMed/Trimethoprim.jpg,,COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC
+../drug-diffuser-0717/datasets/LactMed/Thioguanine.jpg,,Nc1nc(=S)[nH]c2nc[nH]c12
+../drug-diffuser-0717/datasets/LactMed/thiosulfate.jpg,,O=S([O-])C([O-])=S
+../drug-diffuser-0717/datasets/LactMed/Doravirine.jpg,,Cn1c(Cn2ccc(C(F)(F)F)c(Oc3cc(Cl)cc(C#N)c3)c2=O)n[nH]c1=O
+../drug-diffuser-0717/datasets/LactMed/Travoprost.jpg,,CC(C)OC(=O)CCCC=CCC1C(O)CC(O)C1C=CC(O)COc1cccc(C(F)(F)F)c1
+../drug-diffuser-0717/datasets/LactMed/icatibant.jpg,,CC(C)CC(NC(=O)C1CCC(=O)NC12CCCO2)C(=O)NC(CCCN=C(N)c1cc2c([nH]1)C(=O)NCC(C)(O)C=C2)C(N)=O
+../drug-diffuser-0717/datasets/LactMed/Sofosbuvir.jpg,,CC(C)OC(=O)C(C)NP(=O)(OCC1OC(n2ccc(=O)[nH]c2=O)C(C)C1O)Oc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Ergotamine.jpg,,CN1CC(C(=O)NC2(C)CCCN3C(=O)c4ccccc4CC32)C=C2C(Cc3c[nH]c4ccccc34)C(=O)N3CCCC213
+../drug-diffuser-0717/datasets/LactMed/Temsirolimus.jpg,,COC1CC(C)CC=CC(=O)C(C)(CC2CCCN2)OC(=O)C(C)CCC=CC(C)C(OC(=O)C2CC(C)CC(=O)N2)C(O)C1C(C)CO
+../drug-diffuser-0717/datasets/LactMed/Flunitrazepam.jpg,,CN1C(=O)CN=C(c2ccccc2F)c2cc([N+](=O)[O-])ccc21
+../drug-diffuser-0717/datasets/LactMed/Diclofenac.jpg,,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl
+../drug-diffuser-0717/datasets/LactMed/Argatroban.jpg,,CC1CNc2c(cccc2S(=O)(=O)NC(CCCN=C(N)N)C(=O)N2CCC(C)CC2CC(=O)O)C1
+../drug-diffuser-0717/datasets/LactMed/Bethanechol.jpg,,CC(C[N+](C)(C)C)OC(N)=O
+../drug-diffuser-0717/datasets/LactMed/Adapalene.jpg,,COc1ccc(-c2ccc3cc(C(=O)O)ccc3c2)cc1C12CC3CC(CC(C3)C1)C2
+../drug-diffuser-0717/datasets/LactMed/Senna.jpg,,O=C(O)c1c(O)cc(C2Oc3cccc(O)c3C(=O)C2C2OC(CO)C(O)C2O)c2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12
+../drug-diffuser-0717/datasets/LactMed/Saquinavir.jpg,,CC(C)(C)NC(=O)C1CC2CCCCC2CN1C(=O)C(Cc1ccccc1)NC(O)C(NC(=O)c1ccc2ccccc2n1)C(N)=O
+../drug-diffuser-0717/datasets/LactMed/Ursodiol.jpg,,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C
+../drug-diffuser-0717/datasets/LactMed/Florbetapir F 18.jpg,,CNc1ccc(C=Cc2ccc(OCCOCCOCCN)cc2)cc1
+../drug-diffuser-0717/datasets/LactMed/Modafinil.jpg,,NC(=O)CS(=O)C(c1ccccc1)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Apomorphine.jpg,,CN1CCc2c(ccc3c2-c2cccc(O)c2C3O)C1
+../drug-diffuser-0717/datasets/LactMed/inclisiran.jpg,,CC1CCCCC1(O)CCC1CC(=O)NCCCCCCOc2cc(ccc2O)C(CCC[N+]2(C)CCCC(C(=O)O)O2)CC1O
+../drug-diffuser-0717/datasets/LactMed/Esketamine.jpg,,CNC1(c2ccccc2Cl)CCCCC1=O
+../drug-diffuser-0717/datasets/LactMed/Docusate.jpg,,CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(=O)(=O)O
+../drug-diffuser-0717/datasets/LactMed/Sumatriptan.jpg,,CNS(=O)(=O)Cc1ccc2[nH]cc(CCN(C)C)c2c1
+../drug-diffuser-0717/datasets/LactMed/sotorasib.jpg,,C=CC(=O)N1CCN(c2nc(O)c3cn(-c4c(F)cccc4F)c(=O)c-3c(-c3c(C)ccnc3C(C)C)n2)C(C)C1
+../drug-diffuser-0717/datasets/LactMed/roflumilast.jpg,,O=C(Nc1c(Cl)cncc1Cl)c1ccc(OC(F)F)c(OCC2CC2)c1
+../drug-diffuser-0717/datasets/LactMed/Dichloralphenazone.jpg,,Cc1cc(=O)n(-c2ccc(N(O)C(O)(Cl)Cl)c(Cl)c2)n1C(O)C(Cl)(Cl)Cl
+../drug-diffuser-0717/datasets/LactMed/Sirolimus.jpg,,COC1CC(C)C(=O)C=CCC(C)CC(OC)C2C(=O)NC(C)C(O)C(C)=CCCC(C)=CC2OC(=O)C(CC2CCCC2)NC(=O)C1C
+../drug-diffuser-0717/datasets/LactMed/Tenofovir.jpg,,CC(Cn1cnc2c(N)ncnc21)OCP(=O)(O)O
+../drug-diffuser-0717/datasets/LactMed/phenylbutyrate.jpg,,O=C(O)CCCc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Guanfacine.jpg,,NC(N)=NC(=O)Cc1c(Cl)cccc1Cl
+../drug-diffuser-0717/datasets/LactMed/Acetazolamide.jpg,,CC(=O)Nc1nnc(S(N)(=O)=O)s1
+../drug-diffuser-0717/datasets/LactMed/Iopamidol.jpg,,Cc1c(F)c(C(=O)NC(CO)CO)c(Cl)c(C(=O)NC(CO)C(=O)NC(C)CO)c1F
+../drug-diffuser-0717/datasets/LactMed/Acrivastine.jpg,,Cc1ccc(C(=CCN2CCCC2)c2cccc(C=CC(=O)O)n2)cc1
+../drug-diffuser-0717/datasets/LactMed/Isoflurane.jpg,,FC(F)OC(Cl)C(F)(F)F
+../drug-diffuser-0717/datasets/LactMed/Valganciclovir.jpg,,CC(C)C(N)C(=O)OCC(CO)OCn1cnc2c(=O)[nH]c(N)nc21
+../drug-diffuser-0717/datasets/LactMed/capsaicin.jpg,,COc1ccc(C=CCCCCC(=O)NCC(C)C)cc1O
+../drug-diffuser-0717/datasets/LactMed/Fenoldopam.jpg,,Oc1ccc(C2CNCCc3cc(O)c(O)c(Cl)c32)cc1
+../drug-diffuser-0717/datasets/LactMed/cedazuridine.jpg,,O=C1NC(O)CCN1C1OC(CO)C(O)C1(F)F
+../drug-diffuser-0717/datasets/LactMed/Ferric Citrate.jpg,,O=C([O-])CC(O)(CC(=O)[O-])C(=O)C(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Fluocinolone.jpg,,CC12C=CC(=O)C=C1C(F)CC1C2C(O)CC2(C)C1CC(O)C2(O)C(=O)CO
+../drug-diffuser-0717/datasets/LactMed/Ketorolac.jpg,,O=C(O)C1CCc2c1ccn2C(=O)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Bivalirudin.jpg,,CC1C(O)CC2(C(=O)O)CCC(C)(O2)C1CC=CCC1OC(=O)c2cc(C(C)(C)O)c(O)cc2CCCC(=O)C1O
+../drug-diffuser-0717/datasets/LactMed/Tofacitinib.jpg,,CC1CCN(C(=O)CC#N)CC1N(C)c1ncnc2[nH]ccc12
+../drug-diffuser-0717/datasets/LactMed/Trichloroacetic Acid.jpg,,O=C(O)C(Cl)(Cl)Cl
+../drug-diffuser-0717/datasets/LactMed/Ferumoxytol.jpg,,O=CC(=O)CO
+../drug-diffuser-0717/datasets/LactMed/Gabapentin.jpg,,NCC1(CC(=O)O)CCCCC1
+../drug-diffuser-0717/datasets/LactMed/Malathion.jpg,,CCOC(=O)CC(SP(=O)(OC)OC)C(=O)OCC
+../drug-diffuser-0717/datasets/LactMed/Thiothixene.jpg,,CN1CCN(CCC=C2Sc3cc(N(C)C)ccc3S(=O)(=O)c3ccccc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Sildenafil.jpg,,CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12
+../drug-diffuser-0717/datasets/LactMed/Iopromide.jpg,,COCC(=O)Nc1c(C)c(C(=O)N(C)CC(O)COC)c(F)c(C(=O)NCC(O)CO)c1F
+../drug-diffuser-0717/datasets/LactMed/Meperidine.jpg,,CCOC(=O)C1(c2ccccc2)CCN(C)CC1
+../drug-diffuser-0717/datasets/LactMed/Itraconazole.jpg,,CCC(C)n1ncn(-c2ccc(N3CCOC(Cc4ccc(OCC5(n6cncn6)CC5c5ccc(F)cc5)cc4)CC3)cc2)c1=O
+../drug-diffuser-0717/datasets/LactMed/Etravirine.jpg,,Cc1cc(C#N)cc(C)c1Oc1nc(Nc2ccc(C#N)cc2)nc(N)c1Br
+../drug-diffuser-0717/datasets/LactMed/omaveloxolone.jpg,,CC1(C)CCC2(C(=O)NC(C)(C)C)CCC3(C)C(=CC(=O)C4C5(C)C=C(C#N)C(=O)C(C)(C)C5CCC43C)C2C1
+../drug-diffuser-0717/datasets/LactMed/Ivermectin.jpg,,CCC(C)C1OC(C)=CC2OC(=O)C(C)CC23CC(C)C(OC2OC(C)C(OC)C=C2C=CC2CC(C)C(O)C(C)O2)C3C(O)CC1=O
+../drug-diffuser-0717/datasets/LactMed/Clobazam.jpg,,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21
+../drug-diffuser-0717/datasets/LactMed/Sodium Iodide I 131.jpg,,[C-]#[N+]C1(C)CCCC1
+../drug-diffuser-0717/datasets/LactMed/Olanzapine.jpg,,Cc1cc2c(s1)Nc1ccccc1N=C2N1CCN(C)CC1
+../drug-diffuser-0717/datasets/LactMed/Colesevelam.jpg,,C=CC=CCC(CCCC[N+](C)(C)CCCC1CC1)NCC(CCCCCCC)C(O)C[N+](C)(C)CC=C
+../drug-diffuser-0717/datasets/LactMed/Stevia.jpg,,CC1C(OC2OC(CO)C(O)C(O)C2O)OC2C(OC3OC(CO)C(O)C(O)C3O)C3CC=C4CC(O)C(O)CC4(O)C3CCC12C
+../drug-diffuser-0717/datasets/LactMed/Doxylamine.jpg,,CN(C)CCOC(C)(c1ccccc1)c1ccccn1
+../drug-diffuser-0717/datasets/LactMed/Grazoprevir.jpg,,C=CC1CC1NC(=O)C1CC2CC2S(=O)(=O)NC(=O)Cc2ccc3cc(OC)c(nc3c2)C2(C1)OC2CCCCNC(=O)C(C)(C)C
+../drug-diffuser-0717/datasets/LactMed/Acenocoumarol.jpg,,CC(=O)CC(c1ccc([N+](=O)[O-])cc1)c1c(O)c2ccccc2oc1=O
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Mertiatide.jpg,,NC(=O)CNC(=O)CNC(=O)C(CS)NC(=O)C[N+](=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Penbutolol.jpg,,CC(C)(C)NCC(O)COc1ccccc1C1CCCC1
+../drug-diffuser-0717/datasets/LactMed/Pimozide.jpg,,O=c1[nH]c2ccccc2n1C1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1
+../drug-diffuser-0717/datasets/LactMed/osilodrostat.jpg,,N#Cc1ccc(C2CCc3cncn32)c(F)c1
+../drug-diffuser-0717/datasets/LactMed/Capecitabine.jpg,,CCCCCOC(=O)Nc1nc(=O)n(C2OC(C)C(O)C2O)cc1F
+../drug-diffuser-0717/datasets/LactMed/erdafitinib.jpg,,COc1cc(OC)cc(N(CCNC(C)C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1
+../drug-diffuser-0717/datasets/LactMed/Creatine.jpg,,CN(CC(=O)O)C(=N)N
+../drug-diffuser-0717/datasets/LactMed/Chlordiazepoxide.jpg,,CN=C1CN(O)C(c2ccccc2)=c2cc(Cl)ccc2=N1
+../drug-diffuser-0717/datasets/LactMed/Bupivacaine.jpg,,CCCCN1CCCCC1C(=O)Nc1c(C)cccc1C
+../drug-diffuser-0717/datasets/LactMed/Celecoxib.jpg,,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1
+../drug-diffuser-0717/datasets/LactMed/Hydrocortisone.jpg,,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO
+../drug-diffuser-0717/datasets/LactMed/Gentamicin.jpg,,CNC(C)C1CCC(N)C(OC2C(N)CC(N)C(OC3OCC(C)(N)C(NC)C3O)C2O)O1
+../drug-diffuser-0717/datasets/LactMed/Carbamide Peroxide.jpg,,NC(=O)C(N)O
+../drug-diffuser-0717/datasets/LactMed/Artesunate.jpg,,CC1CCC2C(C)C(OC(=O)CCC(=O)O)OC3OC4(C)CCC1C32O4
+../drug-diffuser-0717/datasets/LactMed/Brimonidine.jpg,,Brc1c(NC2=NCCN2)ccc2nccnc12
+../drug-diffuser-0717/datasets/LactMed/Estradiol Valerate.jpg,,CCCCC(=O)OC1CCC2C3CCc4cc(O)ccc4C3CCC12C
+../drug-diffuser-0717/datasets/LactMed/Zolpidem.jpg,,Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1
+../drug-diffuser-0717/datasets/LactMed/Piroxicam.jpg,,CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O
+../drug-diffuser-0717/datasets/LactMed/Alprazolam.jpg,,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2
+../drug-diffuser-0717/datasets/LactMed/gadopiclenol.jpg,,CC(=O)CC(NCC(=O)N1CCN(CC(=O)O)CC1)C(CCC(=O)NCC(O)CO)NCc1cccc(C(=O)NCC(O)CO)c1O
+../drug-diffuser-0717/datasets/LactMed/Fennel.jpg,,CC1CCCCC1=CC(CCCCOc1ccc2c(c1)N(CCCCCC(=O)NCCCCCC(=O)O)CC2)=C1C=CC=C(O)C1O
+../drug-diffuser-0717/datasets/LactMed/Gadobenate.jpg,,O=C([O-])CN(CCN(CCOCC(=O)O)CCN(CCN(CC(=O)O)CC(=O)O)c1ccccc1)CC(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Gentian Violet.jpg,,CN(C)c1ccc(C(=C2C=CC(=[N+](C)C)C=C2)c2ccc(N(C)C)cc2)cc1
+../drug-diffuser-0717/datasets/LactMed/Ezetimibe.jpg,,O=C1C(CCC(O)c2ccc(F)cc2)C(c2ccc(F)cc2)N1c1ccc(O)cc1
+../drug-diffuser-0717/datasets/LactMed/Piperacillin.jpg,,CCN1CCN(C(=O)NC(C(=O)NC2C(=O)N3C(=O)C(C(=O)O)C(C)(C)SC23)c2ccccc2)C1=O
+../drug-diffuser-0717/datasets/LactMed/Arformoterol.jpg,,COc1ccc(CC(C)NCC(O)c2ccc(O)c(NC=O)c2)cc1
+../drug-diffuser-0717/datasets/LactMed/Paroxetine.jpg,,Fc1ccc(C2CCNCC2COc2ccc3c(c2)OCO3)cc1
+../drug-diffuser-0717/datasets/LactMed/Abacavir.jpg,,Nc1nc(NC2CC2)c2ncn(C3C=CC(CO)C3)c2n1
+../drug-diffuser-0717/datasets/LactMed/daridorexant.jpg,,COc1ccc(-n2nccn2)c(C(=O)N2CCCC2(C)c2nc3c(C)ccc(Cl)c3[nH]2)c1
+../drug-diffuser-0717/datasets/LactMed/Halofantrine.jpg,,CCCCN(CCCC)CCC(O)c1cc2c(C(F)(F)F)cccc2c2cc(Cl)cc(O)c12
+../drug-diffuser-0717/datasets/LactMed/Dexmedetomidine.jpg,,Cc1ccccc1C(C)c1cnc[nH]1
+../drug-diffuser-0717/datasets/LactMed/Siponimod.jpg,,CCc1cc(CN2CC(C(=O)O)C2)cc(C)c1CON=C(C)c1ccc(C2CCCCC2)c(F)c1
+../drug-diffuser-0717/datasets/LactMed/Plecanatide.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Epinastine.jpg,,NC1=NCC2c3ccccc3Cc3ccccc3N12
+../drug-diffuser-0717/datasets/LactMed/Hydromorphone.jpg,,CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3C1C5
+../drug-diffuser-0717/datasets/LactMed/Nitrofurantoin.jpg,,O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1
+../drug-diffuser-0717/datasets/LactMed/Irbesartan.jpg,,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+../drug-diffuser-0717/datasets/LactMed/Beta-Carotene.jpg,,CC(C=CC=C(C)C=CC1=C(C)CCCC1(C)C)=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)O
+../drug-diffuser-0717/datasets/LactMed/Rubidium Chloride Rb 82.jpg,,CC(Cl)O[P+](=O)CCCl
+../drug-diffuser-0717/datasets/LactMed/Telavancin.jpg,,CCCC1CC=Cc2cc(ccc2O)C(=O)NC2CCCCC2=Nc2[nH]c(cc2-c2cc(C)c3c(c2)C(=O)NC3)C(=O)OC(C(C)O)CC(O)NC1O
+../drug-diffuser-0717/datasets/LactMed/Cyclopentolate.jpg,,CN(C)CCOC(=O)C(c1ccccc1)C1(O)CCCC1
+../drug-diffuser-0717/datasets/LactMed/Methyldopa.jpg,,CC(N)(Cc1ccc(O)c(O)c1)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Amiodarone.jpg,,CCCCc1oc2ccccc2c1C(=O)c1cc(Cl)c(OCCN(CC)CC)c(Cl)c1
+../drug-diffuser-0717/datasets/LactMed/romiplostim.jpg,,Cc1cc(C)c(C=C2C(=O)Nc3ccccc32)[nH]1
+../drug-diffuser-0717/datasets/LactMed/Thyroid.jpg,,NC(Cc1cc(F)c(Oc2cc(F)c(O)c(I)c2)c(I)c1)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/voxelotor.jpg,,CC(C)n1nccc1-c1ccccc1OCc1cccnc1C=O
+../drug-diffuser-0717/datasets/LactMed/Nutmeg.jpg,,C=C1CCC2(C(C)C)CC12
+../drug-diffuser-0717/datasets/LactMed/tirzepatide.jpg,,CC(=O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(OC3CCCCO3)C2(C)C1C=CC(=O)NCCCCCO
+../drug-diffuser-0717/datasets/LactMed/ganaxolone.jpg,,CC(=O)C1CCC2(C)C1CCC1C2CCC2CC(C)(O)CCC21C
+../drug-diffuser-0717/datasets/LactMed/voriconazole.jpg,,CC(c1ncncn1)C(O)(Cn1cncn1)c1ccc(F)cc1F
+../drug-diffuser-0717/datasets/LactMed/Nitrazepam.jpg,,O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1
+../drug-diffuser-0717/datasets/LactMed/Pegvaliase.jpg,,COCCOCCCCCC(=O)NCCCCC(N)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Cimetidine.jpg,,CN=C(NC#N)NCCSCc1nc[nH]c1C
+../drug-diffuser-0717/datasets/LactMed/Letrozole.jpg,,N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1
+../drug-diffuser-0717/datasets/LactMed/Eflornithine.jpg,,NCCCC(N)(C(=O)O)C(F)F
+../drug-diffuser-0717/datasets/LactMed/Naloxone.jpg,,C=CCN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5
+../drug-diffuser-0717/datasets/LactMed/Olmesartan.jpg,,CCCc1nc(C(C)(C)O)c(C(=O)O)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+../drug-diffuser-0717/datasets/LactMed/Peony.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Penicillamine.jpg,,CC(C)(S)C(N)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/zanubrutinib.jpg,,C=CC(=O)N1CCC(C2CCNc3c(C(N)=O)c(-c4ccc(Oc5ccccc5)cc4)nn32)CC1
+../drug-diffuser-0717/datasets/LactMed/Atovaquone.jpg,,O=C1C(Cl)=C(C2CCC(c3ccc(Cl)cc3)CC2)C(=O)c2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Teicoplanin.jpg,,CCCC1CC=CC(=O)Nc2cc(ccn2)C(C)OC(=O)c2cc3c(c(=O)[nH]2)C(c2ccc(O)c4c2CCCC4)NC(C)=CC1C(O)C(O)C3=O
+../drug-diffuser-0717/datasets/LactMed/Ondansetron.jpg,,Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O
+../drug-diffuser-0717/datasets/LactMed/Coriander.jpg,,C=C(C)C(CCC(C)=CCC1C(C)CC2C3CC=C4CC(O)CCC4(C)C3CCC2(C)C1C1(C)C=CC(=O)C=C1O)OC(C)C
+../drug-diffuser-0717/datasets/LactMed/Methenamine Hippurate.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Ceftazidime and Avibactam.jpg,,CC(C)(ON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(CS(=O)(=O)O)CSC12)c1cccc(N=C(N)[N+](=O)[O-])c1)C(=O)N1CCCC1
+../drug-diffuser-0717/datasets/LactMed/Secnidazole.jpg,,Cc1ncc([N+](=O)[O-])n1CC(C)O
+../drug-diffuser-0717/datasets/LactMed/Clozapine.jpg,,CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Doxepin.jpg,,CN(C)CCC=C1c2ccccc2COc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Eletriptan.jpg,,CN1CCCC1Cc1c[nH]c2ccc(CCS(=O)(=O)c3ccccc3)cc12
+../drug-diffuser-0717/datasets/LactMed/Ezogabine.jpg,,CCOC(=O)Nc1ccc(NCc2ccc(F)cc2)cc1N
+../drug-diffuser-0717/datasets/LactMed/Dobutamine.jpg,,CC(CCc1ccc(O)cc1)NCCc1ccc(O)c(O)c1
+../drug-diffuser-0717/datasets/LactMed/Methotrexate.jpg,,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1
+../drug-diffuser-0717/datasets/LactMed/Misoprostol.jpg,,CCCCC(C)(O)CC=CC1C(O)CC(=O)C1CCCCCCC(=O)OC
+../drug-diffuser-0717/datasets/LactMed/Propranolol.jpg,,CC(C)NCC(O)COc1cccc2ccccc12
+../drug-diffuser-0717/datasets/LactMed/Mipomersen.jpg,,COC1C(O)CC2C=CC(C)C3(O2)C2=CC(=O)c4c(OC5CC6CCC5(C)C6C)cc5c(c4C(O)CC2(C)CCC13)C(C)=CC(O)C5=O
+../drug-diffuser-0717/datasets/LactMed/Norfloxacin.jpg,,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)cc21
+../drug-diffuser-0717/datasets/LactMed/Oxazepam.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Pravastatin.jpg,,CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C21
+../drug-diffuser-0717/datasets/LactMed/Dienogest.jpg,,CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2(O)CC#N
+../drug-diffuser-0717/datasets/LactMed/Succinylcholine.jpg,,C[S+](C)(C)CCOC(=O)CCC(=O)OCC[S+](C)(C)C
+../drug-diffuser-0717/datasets/LactMed/Secobarbital.jpg,,C=CCC1(C(C)CCC)C(=O)NC(=O)NC1=O
+../drug-diffuser-0717/datasets/LactMed/Procaine Penicillin G.jpg,,CCc1ccc(C(=O)OCCN(CC)CC)cc1NC(=O)C1C(C(=O)O)N2C(=O)C(Cc3ccccc3)C2SC1(C)C
+../drug-diffuser-0717/datasets/LactMed/Irinotecan.jpg,,CCc1c2c(nc3ccc(OC(=O)N4CCCCC4)cc13)-c1cc3c(c(=O)n1C2)CCC(N1CCC(O)(CO)CC1)C3
+../drug-diffuser-0717/datasets/LactMed/Midazolam.jpg,,Cc1ncc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2
+../drug-diffuser-0717/datasets/LactMed/Isoetharine.jpg,,CCC(NC(C)C)C(O)c1ccc(O)c(O)c1
+../drug-diffuser-0717/datasets/LactMed/Tranexamic Acid.jpg,,NCC1CCC(C(=O)O)CC1
+../drug-diffuser-0717/datasets/LactMed/Oxybutinyn.jpg,,CCN(CC)CC#CCOC(=O)C(O)(c1ccccc1)C1CCCCC1
+../drug-diffuser-0717/datasets/LactMed/Pyrethrins.jpg,,C=CC=CCC1=C(C)C(C=CC2C(=O)C2(C)C)C(OC(=O)C2C(C=C(C)C=CCC(=O)OC)C2(C)C)C2C(C)=C(C)C(=O)C12C
+../drug-diffuser-0717/datasets/LactMed/Ulipristal.jpg,,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4=C3C(c3ccc(N(C)C)cc3)CC21C
+../drug-diffuser-0717/datasets/LactMed/Sulpiride.jpg,,CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC
+../drug-diffuser-0717/datasets/LactMed/Escitalopram.jpg,,CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21
+../drug-diffuser-0717/datasets/LactMed/Trimethoprim-Sulfamethoxazole.jpg,,COc1cc(Cc2cnc(N)nc2Cc2cc(N)nc(S(=O)(=O)Nc3ccc(N)nc3)c2)cc(OC)c1OC
+../drug-diffuser-0717/datasets/LactMed/Meprobamate.jpg,,CCCC(C)(COC(N)=O)COC(N)=O
+../drug-diffuser-0717/datasets/LactMed/Desflurane.jpg,,FC(F)OC(F)C(F)(F)F
+../drug-diffuser-0717/datasets/LactMed/Technegas.jpg,,C#C[C](C)OC(=O)CC
+../drug-diffuser-0717/datasets/LactMed/Oxycodone.jpg,,COc1ccc2c3c1OC1C(=O)CCC4(O)C(C2)N(C)CCC314
+../drug-diffuser-0717/datasets/LactMed/vonoprazan.jpg,,CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
+../drug-diffuser-0717/datasets/LactMed/Ioversol.jpg,,O=C(NCCO)c1c(F)c(N(CCO)CC(O)CO)c(I)c(C(=O)NCC(O)CO)c1CO
+../drug-diffuser-0717/datasets/LactMed/Rosuvastatin.jpg,,CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1C=CC(O)CC(O)CC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Reboxetine.jpg,,CCOc1ccccc1OC(c1ccccc1)C1CNCCO1
+../drug-diffuser-0717/datasets/LactMed/Lomefloxacin.jpg,,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21
+../drug-diffuser-0717/datasets/LactMed/Gemifloxacin.jpg,,CON=C1CN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC1CN
+../drug-diffuser-0717/datasets/LactMed/Ferric Carboxymaltose.jpg,,OCC(O)C(O)C(OC1OC(CO)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1OC1OC(CO)C(O)C(O)C1O)C(O)CO
+../drug-diffuser-0717/datasets/LactMed/Azithromycin.jpg,,CCC1OC(C)CC(O)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)CC(C)C(C)C(O)C1(C)O
+../drug-diffuser-0717/datasets/LactMed/Simeprevir.jpg,,COc1cccc2c1=NC(=O)C1=C(C)C(c3nc(C(=O)N(C)C)cs3)=CC=2OC1CC(=O)N(C)C1CC1C=CCCC(=O)NC1CC1
+../drug-diffuser-0717/datasets/LactMed/zinc.jpg,,CC1C=[S+]CC1
+../drug-diffuser-0717/datasets/LactMed/Cefadroxil.jpg,,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccc(O)cc3)C2SC1
+../drug-diffuser-0717/datasets/LactMed/Trihexyphenidyl.jpg,,OC(CCN1CCCCC1)(c1ccccc1)C1CCCCC1
+../drug-diffuser-0717/datasets/LactMed/Solifenacin.jpg,,O=C(OC1CN2CCC1CC2)N1CCc2ccccc2C1c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Sodium Fluoride F 18.jpg,,CC(C)(C=O)C1CCC[N+]1=O
+../drug-diffuser-0717/datasets/LactMed/Fosamprenavir.jpg,,CC(C)CN(CC(OC(=O)NC1CCOC1)C(Cc1ccccc1)NC(=O)OCc1ccc(O)cc1)S(=O)(=O)O
+../drug-diffuser-0717/datasets/LactMed/Sulfasalazine.jpg,,O=C(O)c1cccc(N=Nc2ccc(S(=O)(=O)Nc3ccc(O)cc3)cc2)c1
+../drug-diffuser-0717/datasets/LactMed/Alendronate.jpg,,NCCCC(O)(P(=O)(O)O)P(=O)(O)O
+../drug-diffuser-0717/datasets/LactMed/Clemastine.jpg,,CN1CCCC1CCOC(C)(c1ccccc1)c1ccc(Cl)cc1
+../drug-diffuser-0717/datasets/LactMed/Cycloserine.jpg,,NC1CONC1=O
+../drug-diffuser-0717/datasets/LactMed/Carfilzomib.jpg,,CC(C)CC(NC(=O)C(Cc1ccccc1)NC(=O)C(CC(C)C)NC(=O)C(Cc1ccccc1)NC(=O)C1(C)CC1)C(=O)NO
+../drug-diffuser-0717/datasets/LactMed/Lansoprazole.jpg,,Cc1c(OCC(F)(F)F)ccnc1CS(=O)c1nc2ccccc2[nH]1
+../drug-diffuser-0717/datasets/LactMed/pacritinib.jpg,,C1=CCc2ccc(OCCN3CCCC3)c(c2)Nc2cccc(c2)COCc2cccc(n2)C=C1
+../drug-diffuser-0717/datasets/LactMed/tapinarof.jpg,,CC(C)c1c(O)cc(C=Cc2ccccc2)cc1O
+../drug-diffuser-0717/datasets/LactMed/Norethindrone.jpg,,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C
+../drug-diffuser-0717/datasets/LactMed/Primaquine.jpg,,COc1cc(NC(C)CCCN)c2ncccc2c1
+../drug-diffuser-0717/datasets/LactMed/Busulfan.jpg,,CS(=O)(=O)OCCCCOS(C)(=O)=O
+../drug-diffuser-0717/datasets/LactMed/Bictegravir.jpg,,O=C(NCc1c(F)cc(F)cc1F)c1cn2c(c(O)c1=O)C(=O)N1C3CCC(C3)C1CO2
+../drug-diffuser-0717/datasets/LactMed/Afatinib.jpg,,CN(C)CC=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC1CCOC1
+../drug-diffuser-0717/datasets/LactMed/lemborexant.jpg,,Cc1ncc(OCC2(c3cccc(F)c3)CC2C(=O)Nc2ccc(F)cn2)c(C)n1
+../drug-diffuser-0717/datasets/LactMed/Dexmethylphenidate.jpg,,COC(=O)C(c1ccccc1)C1CCCCN1
+../drug-diffuser-0717/datasets/LactMed/Flurandrenolide.jpg,,CC1(C)OC2CC3C(CCC4=CC(=O)CCC43C)C3(C)CC(O)CC3(C)C2(C(=O)CO)O1
+../drug-diffuser-0717/datasets/LactMed/Naratriptan.jpg,,CNS(=O)(=O)CCc1ccc2c(C3CCN(C)CC3)c[nH]c2c1
+../drug-diffuser-0717/datasets/LactMed/Primidone.jpg,,CCC1(c2ccccc2)C(=O)NCNC1=O
+../drug-diffuser-0717/datasets/LactMed/anthralin.jpg,,O=C1c2cccc(O)c2Cc2cccc(O)c21
+../drug-diffuser-0717/datasets/LactMed/pretomanid.jpg,,O=[N+]([O-])c1ccc(OC2COc3nc(OC(F)(F)F)cn3C2)cc1
+../drug-diffuser-0717/datasets/LactMed/glucagon.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Elvitegravir.jpg,,COc1cc2c(cc1C(CO)C(C)C)c(=O)c(C(=O)O)cn2Cc1cccc(Cl)c1F
+../drug-diffuser-0717/datasets/LactMed/Vancomycin.jpg,,CC1Oc2cc(NC(=O)C3CC(O)C3)cc(c2)-c2cc(cc(O)c2C(N)=O)C(=O)NC(O)C(C)C(=O)CC(c2ccc[nH]2)NC(=O)c2cc1ccc2O
+../drug-diffuser-0717/datasets/LactMed/Calcitonin.jpg,,C=C1C(=O)C2=CC3C(C)=CC(O)(C4=C2C(=O)OC(C)CCc2ccc(O)c(c2)CC2(C4)C(C=C1C)OC(=O)C2C)C1(CC(O)C(C)N1)C3O
+../drug-diffuser-0717/datasets/LactMed/Sevelamer.jpg,,C=CCC(CN)C1CO1
+../drug-diffuser-0717/datasets/LactMed/Lubiprostone.jpg,,CCCCCC(C)(O)C1CCC2C(CC(=O)C2CCCCCCC(=O)O)O1
+../drug-diffuser-0717/datasets/LactMed/phentermine.jpg,,CC(C)(N)Cc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Fludeoxyglucose F18.jpg,,OCC1OC(O)C(O)C(O)C1O
+../drug-diffuser-0717/datasets/LactMed/Ampicillin and Sulbactam.jpg,,CC1(C)C(=O)C1C(=O)NC1C(NC(=O)C2SC(C)(C)C3(C)OC23)C(=O)N1C(=O)C(N)c1ccc(C(=O)O)cc1
+../drug-diffuser-0717/datasets/LactMed/Bromocriptine.jpg,,CC(C)CC1C(=O)NC2CN(C(=O)C3(CC(C)C)CC4=C(c5c[nH]c6cccc(O)c56)C(=O)N5CCCC45N3C)CCC21
+../drug-diffuser-0717/datasets/LactMed/Ethacrynic Acid.jpg,,C=C(CC)C(=O)c1ccc(OCC(=O)O)c(Cl)c1Cl
+../drug-diffuser-0717/datasets/LactMed/Iodofiltic Acid I 123.jpg,,CC(CCCCCCCCCCCCCc1ccc(F)cc1)CC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Lumacaftor and Ivacaftor.jpg,,Cc1cc(C(=O)O)cc(-c2cccc(NC(=O)c3ccccc3C(C)(C)C)c2)c1NC(=O)c1cc2c(C3(C)CO3)c(O)ccc2[nH]c1=O
+../drug-diffuser-0717/datasets/LactMed/Telaprevir.jpg,,CCCC(NC(=O)C1C2CCCN2C(=O)C(NC(=O)C(NC(=O)c2ccccn2)C2CCCC2)C1(C)C)C(=O)C(=O)NC1CC1
+../drug-diffuser-0717/datasets/LactMed/Betaxolol.jpg,,CC(C)NCC(O)COc1ccc(CCOCC2CC2)cc1
+../drug-diffuser-0717/datasets/LactMed/Ivosidenib.jpg,,N#Cc1ccnc(N(C(=O)C2CCC(=O)N2)C(C(=O)NC2CC(F)(F)C2)c2cc(C#N)ccc2-c2ccccc2)c1
+../drug-diffuser-0717/datasets/LactMed/molnupiravir.jpg,,CC(C)C(=O)OCC1OC(n2ccc(NO)nc2=O)C(O)C1O
+../drug-diffuser-0717/datasets/LactMed/cenobamate.jpg,,NC(=O)OC(Cn1ncnn1)c1ccccc1Cl
+../drug-diffuser-0717/datasets/LactMed/Docetaxel.jpg,,CC(=O)C12C(O)CC(OC(=O)c3ccccc3)C(C)C1(O)C(OC(=O)C1=CCC3C(=O)OC(C)(C)C13)C(NC(=O)c1ccccc1)C2C
+../drug-diffuser-0717/datasets/LactMed/Oxytocin.jpg,,CCC(C)C1NC(=O)C(CCC(N)=O)NC(=O)C(Cc2ccc(O)cc2)NC(=O)C(CC(N)=O)NC(=O)C2CCCN2C(=O)C(C)NC1=O
+../drug-diffuser-0717/datasets/LactMed/Clocortolone Pivalate.jpg,,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3C(O)CC2(C)C1C(=O)COC(=O)C(C)(C)C
+../drug-diffuser-0717/datasets/LactMed/Bepotastine.jpg,,O=C(O)CCCN1CCC(OC(c2ccc(Cl)cc2)c2ccccn2)CC1
+../drug-diffuser-0717/datasets/LactMed/Emedastine.jpg,,CCOCCn1c(N2CCCN(C)CC2)nc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/ecallantide.jpg,,CC1=Cc2cccc3c2C(=O)OC(C2CCC2)C(CC2c4c(cc5c(c4O)NC(=O)C(CC5C)OC(=O)C2C)CC3(N)C(=O)O)OC1=O
+../drug-diffuser-0717/datasets/LactMed/Oxygen-15.jpg,,CC(=O)C1CCC=CS1
+../drug-diffuser-0717/datasets/LactMed/avatrombopag.jpg,,O=C(Nc1nc(-c2cnc(N3CCCCC3)s2)c(C(=O)O)s1)c1cc(F)c(N2CCN(C3CCCC3)CC2)c(Cl)c1
+../drug-diffuser-0717/datasets/LactMed/Cannabidiol.jpg,,CCCCCc1cc(O)c(C2C=C(C)CCC2C(C)C)c(O)c1
+../drug-diffuser-0717/datasets/LactMed/Mitoxantrone.jpg,,O=C1c2c(O)ccc(O)c2C(NCCO)c2c(NCCNCCO)ccc(NCCO)c21
+../drug-diffuser-0717/datasets/LactMed/Apazone.jpg,,CCCC1C(=O)N(C)C2=NC(C)N(c3ccc(C)cc3)N2C1=O
+../drug-diffuser-0717/datasets/LactMed/Sucralfate.jpg,,C=C1C(O)CC(OS(=O)(=O)OC)C2C(OP(=O)(O)OCCC)C3(C=CC(=O)O3)C(C)=C(C(=O)OC)C1(O)C2OC(=O)C(C)C
+../drug-diffuser-0717/datasets/LactMed/Mianserin.jpg,,CN1CCN2c3ccccc3Cc3ccccc3C2C1
+../drug-diffuser-0717/datasets/LactMed/Retapamulin.jpg,,C=CC12CCC(=O)CC1(C)C(OC(=O)CSC1CC3CCC1(C)C31CCC(=O)O1)C2(C)C
+../drug-diffuser-0717/datasets/LactMed/Clindamycin.jpg,,CCCC1CC(C(=O)NC(C(C)O)C2OC(SC)C(O)C(O)C2O)N(C)C1
+../drug-diffuser-0717/datasets/LactMed/Diazepam.jpg,,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21
+../drug-diffuser-0717/datasets/LactMed/Estradiol.jpg,,CC12CCC3c4ccc(O)cc4CCC3C1CCC2O
+../drug-diffuser-0717/datasets/LactMed/Physostigmine.jpg,,CNC(=O)Oc1ccc2c(c1)C1(C)CCN(C)C1N2C
+../drug-diffuser-0717/datasets/LactMed/Acetylcholine.jpg,,CC(=O)OCC[N+](C)(C)C
+../drug-diffuser-0717/datasets/LactMed/Benzathine Penicillin G.jpg,,CC1(C)SC(C(=O)NC2C(Cc3ccccc3)NC(=O)C2NCC(=O)O)C2C(Cc3ccccc3)NC(=O)C(NCc3ccccc3)C21C=O
+../drug-diffuser-0717/datasets/LactMed/Ramelteon.jpg,,CCC(=O)NCCC1CCc2cccc3c2C1OCC3
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Bicisate.jpg,,CCOC(=O)C(CS)NCCNC(CC=O)C(=O)OCC
+../drug-diffuser-0717/datasets/LactMed/clotiazepam.jpg,,CCc1cc2c(s1)C(c1ccccc1Cl)=NCC(=O)N2C
+../drug-diffuser-0717/datasets/LactMed/Iohexol.jpg,,CC(=O)N(CC(O)CO)c1c(F)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I
+../drug-diffuser-0717/datasets/LactMed/finerenone.jpg,,CCOc1ncc(C)c2c1C(c1ccc(OC)cc1C#N)C(C(N)=O)=C(C)N2
+../drug-diffuser-0717/datasets/LactMed/mechlorethamine.jpg,,CN(CCCl)CCCl
+../drug-diffuser-0717/datasets/LactMed/Codeine.jpg,,COc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341
+../drug-diffuser-0717/datasets/LactMed/Osimertinib.jpg,,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C
+../drug-diffuser-0717/datasets/LactMed/Dalteparin.jpg,,CC(=O)C1OC(OC2C(O)C(O)C(OS(=O)(=O)O)C(O)C2OS(=O)(=O)O)OC1C1OC(C(=O)O)C(O)C(O)C1(O)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Glucomannan.jpg,,OCC1OC(OC2C(CO)OC(OC3C(O)C(CO)OC(OC4OC(CO)C(O)C(O)C4O)C3O)C(O)C2O)C(O)C1O
+../drug-diffuser-0717/datasets/LactMed/Ziprasidone.jpg,,O=C1Cc2cc(CCN3CCN(c4nsc5ccccc45)CC3)c(Cl)cc2N1
+../drug-diffuser-0717/datasets/LactMed/Linaclotide.jpg,,C=C(O)C1CC(=O)NC2CCC(O2)C(=O)C2C(Cc3ccc(O)cc3)NC(=O)C23NC(=O)C(C(=O)O)C3c2ccc(C)c(c2)C(=O)NC1O
+../drug-diffuser-0717/datasets/LactMed/Isoniazid.jpg,,NNC(=O)c1ccncc1
+../drug-diffuser-0717/datasets/LactMed/Oxymetazoline.jpg,,Cc1cc(C(C)(C)C)c(C)c(O)c1CC1=NCCN1
+../drug-diffuser-0717/datasets/LactMed/Felbamate.jpg,,NC(=O)OCC(COC(N)=O)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Desogestrel.jpg,,C#CC1(O)CCC2C3CCC4=CCCCC4(C)C3C(=C)CC21C
+../drug-diffuser-0717/datasets/LactMed/Pseudoephedrine.jpg,,CNC(C)C(O)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Prednicarbate.jpg,,CCC(=O)C(C)OC(=O)C1(OC(C)=O)CCC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C
+../drug-diffuser-0717/datasets/LactMed/Solriamfetol.jpg,,NC(=O)OCC(N)Cc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/asparaginase.jpg,,NC(=O)CC(N)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Sulfur Colloid.jpg,,C#CS1(SS)SSSSS1
+../drug-diffuser-0717/datasets/LactMed/Clofazimine.jpg,,CC(C)N=c1cc2n(-c3ccccc3)c3ccc(Cl)cc3nc-2cc1Nc1ccc(Cl)cc1
+../drug-diffuser-0717/datasets/LactMed/trifarotene.jpg,,CC(C)(C)c1ccc(-c2cc(OCCO)cc(-c3ccc(C(=O)O)cc3)c2N2CCCC2)cc1
+../drug-diffuser-0717/datasets/LactMed/Raltegravir.jpg,,Cc1nnc(C(=O)NC(C)(C)c2nc(C(=O)NCc3ccc(F)cc3)c(O)c(=O)n2C)o1
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Tetrofosmin.jpg,,CCOCCN(CCOCC)CCP(CCOCC)CCOCC
+../drug-diffuser-0717/datasets/LactMed/Vincristine.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Temazepam.jpg,,CN1C(=O)C(O)N=C(c2ccccc2)c2cc(Cl)ccc21
+../drug-diffuser-0717/datasets/LactMed/pemigatinib.jpg,,CCN1C(=O)N(c2c(OC)cc(OC)c(F)c2F)Cc2cnc3[nH]c(CN4CCOCC4)cc3c21
+../drug-diffuser-0717/datasets/LactMed/Rifabutin.jpg,,COc1cc2c(cc1O)C1CC(=O)c3c(C)cc4nc(C)c(cc4c3OC1=O)NC1=CC(C)C(C)C(CC(C)=C1)NC(=O)C(C)CC2
+../drug-diffuser-0717/datasets/LactMed/Zonisamide.jpg,,NS(=O)(=O)Cc1noc2ccccc12
+../drug-diffuser-0717/datasets/LactMed/tenapanor.jpg,,CC(CO)CCCCCC(=O)NCCCCCCOCCCCCCNC(=O)C=CC1CCC(O)CC1
+../drug-diffuser-0717/datasets/LactMed/Temozolamide.jpg,,Cn1nnc2c(C(N)=O)ncn2c1=O
+../drug-diffuser-0717/datasets/LactMed/Cabergoline.jpg,,C=CCN1CC(C(=O)N(CCCN(C)C)C(=O)NCC)CC2c3cccc4[nH]cc(c34)CC21
+../drug-diffuser-0717/datasets/LactMed/Fesoterodine.jpg,,CC(C)C(=O)OC(c1ccccc1)c1ccc(CO)c(CCN(C(C)C)C(C)C)c1
+../drug-diffuser-0717/datasets/LactMed/Albuterol.jpg,,CC(C)(C)NCC(O)c1ccc(O)c(CO)c1
+../drug-diffuser-0717/datasets/LactMed/Metronidazole.jpg,,Cc1ncc([N+](=O)[O-])n1CCO
+../drug-diffuser-0717/datasets/LactMed/anidulafungin.jpg,,
+../drug-diffuser-0717/datasets/LactMed/Methadone.jpg,,CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Baricitinib.jpg,,CCS(=O)(=O)N1CC(C#N)(Cn2cc(-c3ncnc4[nH]ccc34)cn2)C1
+../drug-diffuser-0717/datasets/LactMed/Doxazosin.jpg,,COc1cc2nc(N3CCN(C(=O)C4COc5ccccc5O4)CC3)nc(N)c2cc1OC
+../drug-diffuser-0717/datasets/LactMed/Mepenzolate.jpg,,C[N+]1(C)CCCC(OC(=O)C(O)(c2ccccc2)c2ccccc2)C1
+../drug-diffuser-0717/datasets/LactMed/Methimazole.jpg,,Cn1cc[nH]c1=S
+../drug-diffuser-0717/datasets/LactMed/Pyrilamine.jpg,,COc1ccc(CN(CCN(C)C)c2ccccn2)cc1
+../drug-diffuser-0717/datasets/LactMed/Iomeprol.jpg,,CN(C(=O)CO)c1c(F)c(C(=O)NCC(O)CO)c(F)c(C(=O)NCC(O)CO)c1F
+../drug-diffuser-0717/datasets/LactMed/olutasidenib.jpg,,CC(Nc1ccc(C#N)c(=O)n1C)c1cc2cc(Cl)ccc2[nH]c1=O
+../drug-diffuser-0717/datasets/LactMed/Fenofibrate.jpg,,CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1
+../drug-diffuser-0717/datasets/LactMed/Rizatriptan.jpg,,CN(C)CCc1c[nH]c2ccc(Cn3cncn3)cc12
+../drug-diffuser-0717/datasets/LactMed/Oxytetracycline.jpg,,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3C(O)C12O
+../drug-diffuser-0717/datasets/LactMed/Risperidone.jpg,,Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2
+../drug-diffuser-0717/datasets/LactMed/Flunarizine.jpg,,Fc1ccc(C(c2ccc(F)cc2)N2CCN(CC=Cc3ccccc3)CC2)cc1
+../drug-diffuser-0717/datasets/LactMed/granisetron.jpg,,CN1C2CCCC1CC(NC(=O)c1nn(C)c3ccccc13)C2
+../drug-diffuser-0717/datasets/LactMed/Pyrantel.jpg,,CN1CCCN=C1C=Cc1cccs1
+../drug-diffuser-0717/datasets/LactMed/Povidone-Iodine.jpg,,C=CN1CCCC1=CI
+../drug-diffuser-0717/datasets/LactMed/Atomoxetine.jpg,,CNCCC(Oc1ccccc1C)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Rifapentine.jpg,,COC1=C2C(C)=CC(=O)c3c(cc4c(c(C)nn4CC4CCCC4)c3O)C(O)C(OC(C)=O)CC(C)=C3C=CC(C)C(NC1=O)C3C2O
+../drug-diffuser-0717/datasets/LactMed/Tinidazole.jpg,,CCS(=O)(=O)CCn1c([N+](=O)[O-])cnc1C
+../drug-diffuser-0717/datasets/LactMed/Benznidazole.jpg,,O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Permethrin.jpg,,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1
+../drug-diffuser-0717/datasets/LactMed/Triprolidine.jpg,,Cc1ccc(C(=CCN2CCCC2)c2ccccn2)cc1
+../drug-diffuser-0717/datasets/LactMed/Bitolterol.jpg,,Cc1ccc(C(=O)Oc2ccc(C(O)CNC(C)(C)C)cc2OC(=O)c2ccc(C)cc2)cc1
+../drug-diffuser-0717/datasets/LactMed/Fluorescein.jpg,,O=C1OC2(c3ccc(O)cc3Oc3cc(O)ccc32)c2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Trimipramine.jpg,,CC(CN(C)C)CN1c2ccccc2CCc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Metaproterenol.jpg,,CC(C)NCC(O)c1cc(O)cc(O)c1
+../drug-diffuser-0717/datasets/LactMed/Efavirenz.jpg,,O=C1Nc2ccc(Cl)cc2C(C#CC2CC2)(C(F)(F)F)O1
+../drug-diffuser-0717/datasets/LactMed/Vitamin E.jpg,,Cc1c(C)c2c(c(C)c1O)CCCC(C)(CCCC(C)CCCC(C)CCC(C)C)O2
+../drug-diffuser-0717/datasets/LactMed/Metoclopramide.jpg,,CCN(CC)CCNC(=O)c1cc(Cl)c(N)cc1OC
+../drug-diffuser-0717/datasets/LactMed/Fosphenytoin.jpg,,O=C1NC(c2ccccc2)(c2ccccc2)C(=O)N1COP(=O)(O)O
+../drug-diffuser-0717/datasets/LactMed/Eprosartan.jpg,,CCCCc1ncc(C=C(Cc2cccs2)C(=O)O)n1Cc1ccc(C(=O)O)cc1
+../drug-diffuser-0717/datasets/LactMed/Chloroquine.jpg,,CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12
+../drug-diffuser-0717/datasets/LactMed/nirmatrelvir.jpg,,CC(C)(C)C(NC(=O)C1C2C(CN1C(=O)C(F)(F)F)C2(C)C)C(=O)NC(C#N)CC1CCNC1=O
+../drug-diffuser-0717/datasets/LactMed/Acetaminophen.jpg,,CC(=O)Nc1ccc(O)cc1
+../drug-diffuser-0717/datasets/LactMed/Propantheline.jpg,,CC(C)[N+](C)(CCOC(=O)C1c2ccccc2Oc2ccccc21)C(C)C
+../drug-diffuser-0717/datasets/LactMed/Spironolactone.jpg,,CC(=O)SC1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)C12
+../drug-diffuser-0717/datasets/LactMed/Fosfomycin.jpg,,CC1OC1P(=O)(O)O
+../drug-diffuser-0717/datasets/LactMed/Ivacaftor.jpg,,CC(C)(C)c1cc(C(C)(C)C)c(NC(=O)c2c[nH]c3ccccc3c2=O)cc1O
+../drug-diffuser-0717/datasets/LactMed/Ceftriaxone.jpg,,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nc(=O)c(=O)[nH]n3C)CSC12)c1csc(N)n1
+../drug-diffuser-0717/datasets/LactMed/Cyclobenzaprine.jpg,,CN(C)CCC=C1c2ccccc2C=Cc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Doxycycline.jpg,,CC1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C21C
+../drug-diffuser-0717/datasets/LactMed/pirtobrutinib.jpg,,COc1c(C(N)=O)cc(-c2ccc(CNC(=O)c3cc(F)ccc3C(F)F)cc2)n(N)c1=O
+../drug-diffuser-0717/datasets/LactMed/Resveratrol.jpg,,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1
+../drug-diffuser-0717/datasets/LactMed/Atracurium.jpg,,COc1cc2c(cc1OC)CC(OC(=O)CC[N+]1(C)CCc3cc(OC)c(OC)cc3C(=O)OC1Cc1ccc(OC)c(C)c1OC)CC2
+../drug-diffuser-0717/datasets/LactMed/Etoposide.jpg,,COc1cc(C2c3cc4c(cc3C(OC3OC(COC(C)=O)C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O
+../drug-diffuser-0717/datasets/LactMed/Mercaptopurine.jpg,,S=c1nc[nH]c2nc[nH]c12
+../drug-diffuser-0717/datasets/LactMed/Chondroitin.jpg,,CC(=O)NC1C(OC2OC(CO)C(O)C2O)OC(C(=O)O)=CC(O)C1O
+../drug-diffuser-0717/datasets/LactMed/Levofloxacin.jpg,,CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23
+../drug-diffuser-0717/datasets/LactMed/Simethicone.jpg,,CO[S+](C)(C)(C)O[S+](C)(C)(C)=O
+../drug-diffuser-0717/datasets/LactMed/Cisatracurium.jpg,,COc1cc2c(cc1OC)CC[N+](CC(=O)NCCCc1cc(OC)c(OC)cc1CCC1C(=O)OCC1c1ccc(OC)c(C)c1OC)=C2
+../drug-diffuser-0717/datasets/LactMed/crisaborole.jpg,,N#Cc1ccc(Oc2ccc3c(c2)COC3O)cc1
+../drug-diffuser-0717/datasets/LactMed/Perflutren.jpg,,FC(F)(F)C(F)(F)C(F)(F)F
+../drug-diffuser-0717/datasets/LactMed/Coenzyme Q10.jpg,,CC(C)CCCC(=O)NCCCCCCNCC(O)CCCCCCCCNC(=O)C=CC1CCC(O)C(C)C1
+../drug-diffuser-0717/datasets/LactMed/Minoxidil.jpg,,N=c1nc(N2CCCCC2)cc(N)n1O
+../drug-diffuser-0717/datasets/LactMed/Atorvastatin.jpg,,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Montelukast.jpg,,CC(C)(O)Cc1ccccc1CC(SCC1(CC(=O)O)CC1)c1cccc(C=Cc2ccc3ccc(Cl)cc3n2)c1
+../drug-diffuser-0717/datasets/LactMed/Alclometasone.jpg,,CC1CC2C3CC(O)C4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(O)C(=O)CF
+../drug-diffuser-0717/datasets/LactMed/Baloxavir.jpg,,O=C1c2c(O)ccc(=O)n2C(C2c3ccccc3CSc3ccc(F)c(F)c32)CN1C1CCOC1
+../drug-diffuser-0717/datasets/LactMed/Streptomycin.jpg,,CNC1C(O)C(CO)OC(OC2C(N)C(O)C(OC3OC(CO)C(O)C(N)C3O)C(N=C(N)N)C2O)C1(C)O
+../drug-diffuser-0717/datasets/LactMed/Sodium Picosulfate.jpg,,NS(=O)(=O)Oc1ccc(C(c2ccc(O[N+](=O)[O-])cc2)c2cccc(OS(=O)O)c2)cc1
+../drug-diffuser-0717/datasets/LactMed/Oral Levonorgestrel.jpg,,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21CC
+../drug-diffuser-0717/datasets/LactMed/Cloxacillin.jpg,,Cc1onc(-c2ccccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Xenon.jpg,,CC(C)(C)[CH]O
+../drug-diffuser-0717/datasets/LactMed/Levocabastine.jpg,,CC1CN(c2ccc(F)cc2)CCN(C2CCC(C#N)(c3ccccc3)CC2)CC1C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Gadoterate.jpg,,O=C([O-])CN1CCN(CC(=O)O)CCN(CC(=O)O)CCN(CC(=O)O)CC[N+](=O)CC1
+../drug-diffuser-0717/datasets/LactMed/Remifentanil.jpg,,CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(CCC(=O)OC)CC1
+../drug-diffuser-0717/datasets/LactMed/pegaptanib.jpg,,COCCOC(=O)NCCCCC(NC(=O)OCCOC)C(=O)NCCCCCCCP(=O)(O)O
+../drug-diffuser-0717/datasets/LactMed/Eslicarbazepine.jpg,,NC(=O)N1c2ccccc2CC(O)c2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Didanosine.jpg,,O=c1[nH]cnc2c1ncn2C1CCC(CO)O1
+../drug-diffuser-0717/datasets/LactMed/Lisdexamfetamine.jpg,,CC(Cc1ccccc1)NC(=O)C(N)CCCCN
+../drug-diffuser-0717/datasets/LactMed/Floxacillin.jpg,,Cc1onc(-c2c(F)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Meropenem.jpg,,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)N(C)C)C3)C(C)C12
+../drug-diffuser-0717/datasets/LactMed/Indomethacin.jpg,,COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1
+../drug-diffuser-0717/datasets/LactMed/Latanoprostene Bunod.jpg,,CC(CCCC=CCC1C(O)CC(O)C1CCCCOC(=O)OCc1ccccc1)CCCCC(=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Amoxicillin.jpg,,CC1(C)SC2C(NC(=O)C(N)C(O)c3ccc(O)cc3)C(=O)N2C1C(=O)O
+../drug-diffuser-0717/datasets/LactMed/micafungin.jpg,,CCCCc1ccc(C2=NC(=O)c3cc(ccc3O)CC(NC(=O)C(C)c3ccc4[nH]c(C)cc4c3)C(=O)OC(C3CC3)C(O)C2)nc1
+../drug-diffuser-0717/datasets/LactMed/Indapamide.jpg,,CC1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1
+../drug-diffuser-0717/datasets/LactMed/Lidocaine.jpg,,CCN(CC)CC(=O)Nc1c(C)cccc1C
+../drug-diffuser-0717/datasets/LactMed/Corticotropin.jpg,,C=[C-]C(=O)C1=Cc2ccccc2C2C(=O)c3c([nH]c4cc5c(cc34)C3C5=CC(=O)C3=C3N=C(O)C(N)=CC3O)C=C12
+../drug-diffuser-0717/datasets/LactMed/Sulfisoxazole.jpg,,Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C
+../drug-diffuser-0717/datasets/LactMed/Desipramine.jpg,,CNCCCN1c2ccccc2CCc2ccccc21
+../drug-diffuser-0717/datasets/LactMed/Meloxicam.jpg,,Cc1cnc(NC(=O)C2=C(O)c3ccccc3S(=O)(=O)N2C)s1
+../drug-diffuser-0717/datasets/LactMed/Ethosuximide.jpg,,CCC1(C)CC(=O)NC1=O
+../drug-diffuser-0717/datasets/LactMed/Piritramide.jpg,,N#CC(CCN1CCC(C(N)=O)(N2CCCCC2)CC1)(c1ccccc1)c1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Nitrous Oxide.jpg,,N=[N+]=O
+../drug-diffuser-0717/datasets/LactMed/Esomeprazole.jpg,,COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1
+../drug-diffuser-0717/datasets/LactMed/Atenolol.jpg,,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1
+../drug-diffuser-0717/datasets/LactMed/Nelfinavir.jpg,,Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C
+../drug-diffuser-0717/datasets/LactMed/Dexrazoxane.jpg,,CC(CN1CC(=O)NC(=O)C1)N1CC(=O)NC(=O)C1
+../drug-diffuser-0717/datasets/LactMed/Sodium Phosphate.jpg,,N#[N+]C([O-])([O-])P(=O)([O-])[O-]
+../drug-diffuser-0717/datasets/LactMed/Deferasirox.jpg,,O=C(O)c1ccc(-n2nc(-c3ccccc3O)nc2-c2ccccc2O)cc1
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Sestamibi.jpg,,[C-]#[N+]C(C)(C)OC(C)(C#C)CC(OC)C(C)(C)OC(C)(C#C)COC(C)(C#C)OCC(C)(C#C)[N+](C)(C#C)CC(C)(C)OC
+../drug-diffuser-0717/datasets/LactMed/riociguat.jpg,,COC(=O)N(C)c1c(N)nc(-c2nn(Cc3ccccc3F)c3ncccc23)nc1N
+../drug-diffuser-0717/datasets/LactMed/Ombitasvir.jpg,,COC(=O)NC(C(=O)Nc1ccc(C2CCN2C(=O)c2ccc(-c3cc(NC(=O)C(C)C)ccc3C(OC)C(F)F)cc2)cc1)C(C)C
+../drug-diffuser-0717/datasets/LactMed/Pentoxifylline.jpg,,CC(=O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Mebrofenin.jpg,,Cc1cc(C)c(NC(=O)CN(CC(=O)O)CC(=O)O)c(C)c1Br
+../drug-diffuser-0717/datasets/LactMed/Frovatriptan.jpg,,CNC1CCc2[nH]c3ccc(C(N)=O)cc3c2C1
+../drug-diffuser-0717/datasets/LactMed/Rivaroxaban.jpg,,O=C(NCC1CN(c2ccc(N3CCOCC3=O)cc2)C(=O)O1)c1ccc(Cl)s1
+../drug-diffuser-0717/datasets/LactMed/Nitazoxanide.jpg,,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1
+../drug-diffuser-0717/datasets/LactMed/Velpatasvir.jpg,,COC(=O)C(CC(=O)N1c2ccccc2CC1c1nc2ccc3cc(-c4cnc5[nH]c(C(=O)NC(C)C)cc5c4)ccc3c2[nH]1)OC
+../drug-diffuser-0717/datasets/LactMed/Fusidic Acid.jpg,,CC(=O)OC1CCC2(C)C(=CCC3C2C(O)CC2(C)C(C(C)CCC=C(C)C)C(O)CC32C)C1C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Timolol.jpg,,CC(C)(C)NCC(O)COc1nsnc1N1CCOCC1
+../drug-diffuser-0717/datasets/LactMed/Methenamine Mandelate.jpg,,O=C(O)C(O)N1CN2CN(Cc3ccccc3)CN(C2)C1
+../drug-diffuser-0717/datasets/LactMed/decitabine.jpg,,Nc1ncn(C2CC(O)C(CO)O2)c(=O)n1
+../drug-diffuser-0717/datasets/LactMed/Psyllium.jpg,,CCCCCCCCCCCCCCCCNCCCCCC(O)CCCCCCCNCC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Gallium Ga 68 Dotatate.jpg,,CC1CNC(C(=O)O)C(=O)Nc2ccc(O)c(c2)C(C)NC(CC(=O)O)C(=O)NCC(=O)NC(Cc2ccccc2)C(=O)N2CCCC2C(=O)C1
+../drug-diffuser-0717/datasets/LactMed/Amphotericin B.jpg,,CC(O)CCc1c(O)cc2cc1C(=O)OC1C#CC=CCCC(O)CC(C=CCC(O)CC(C)C3C(=O)NC2OC(CO)C(O)C3O)C1
+../drug-diffuser-0717/datasets/LactMed/Choline Magnesium Salicylate.jpg,,C[N+](C)(CCO)c1ccccc1C(=O)c1ccc(OCCO)c(C(=O)O)c1CC(c1ccccc1Cl)[N+](=O)[O-]
+../drug-diffuser-0717/datasets/LactMed/Chromium Cr 51 Edetate.jpg,,O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Vinorelbine.jpg,,CCC1=C2C=CCN3CCC4(c5ccccc5N(C)C)CC4(C(=O)OC)Cc4c([nH]c5ccc(C(C)=O)cc45)C(C(=O)OC)(C2)C3C=C1
+../drug-diffuser-0717/datasets/LactMed/Iodipamide.jpg,,O=C(CCCCC(=O)Nc1c(Cl)cc(F)c(C(=O)O)c1Cl)Nc1c(Cl)cc(C(=O)O)c(Cl)c1F
+../drug-diffuser-0717/datasets/LactMed/Green Tea.jpg,,O=C1CCCN1CC#CCN1CCCC1
+../drug-diffuser-0717/datasets/LactMed/ebastine.jpg,,CC(C)(C)c1ccc(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1
+../drug-diffuser-0717/datasets/LactMed/Haloperidol.jpg,,O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1
+../drug-diffuser-0717/datasets/LactMed/Clarithromycin.jpg,,COC1CC(O)C(C)C(OC2OC(C)C(=O)C(C)C2O)CC(C)C(OC2OC(C)CC(C)C2O)C(C)CC(C)C(=O)C(C)C1OC
+../drug-diffuser-0717/datasets/LactMed/Enasidenib.jpg,,CC(C)(O)CNc1nc(Nc2ccnc(C(F)(F)F)c2)nc(-c2cccc(C(F)(F)F)n2)n1
+../drug-diffuser-0717/datasets/LactMed/Buspirone.jpg,,O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1
+../drug-diffuser-0717/datasets/LactMed/Paclitaxel.jpg,,CC(=O)C12C(O)CC(OC(=O)c3ccccc3)C(C)C1(OC(=O)C1=C(O)c3ccccc3C1(C)C)C(OC(=O)c1ccccc1)C(=O)C2C
+../drug-diffuser-0717/datasets/LactMed/Dexchlorpheniramine.jpg,,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1
+../drug-diffuser-0717/datasets/LactMed/selpercatinib.jpg,,COc1ccc(CN2CC(c3ccc(-n4cnc(C5CC(OCC(C)(C)O)C5)c4)c4c(C#N)cnn34)C2)cn1
+../drug-diffuser-0717/datasets/LactMed/Carmustine.jpg,,O=NN(CCCl)C(=O)NCCCl
+../drug-diffuser-0717/datasets/LactMed/Eszopiclone.jpg,,CN1CCN(C(=O)OC2c3ncccc3C(=O)N2c2ncc(Cl)cn2)CC1
+../drug-diffuser-0717/datasets/LactMed/Fentanyl.jpg,,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1
+../drug-diffuser-0717/datasets/LactMed/Vortioxetine.jpg,,Cc1ccc(Sc2ccccc2N2CCNCC2)c(C)c1
+../drug-diffuser-0717/datasets/LactMed/Pantoprazole.jpg,,COc1ccc(CS(=O)c2nc3ccc(OC(F)F)cc3[nH]2)c(OC)c1
+../drug-diffuser-0717/datasets/LactMed/upadacitinib.jpg,,CCC1CN(C(=O)NCC(F)(F)F)CC1c1cnc2cnc3[nH]ccc3n12
+../drug-diffuser-0717/datasets/LactMed/Omadacycline.jpg,,CN(C)Cc1cc(NCC(C)(C)C)c2c(c1O)C(O)=C1C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3CC1C2
+../drug-diffuser-0717/datasets/LactMed/Gadoversetamide.jpg,,COCCNC(=O)CN(CCN(CCN(CC(=O)O)CC(=O)NCCOC)CC(=O)OC)CC(=O)O
+../drug-diffuser-0717/datasets/LactMed/Methylphenidate.jpg,,COC(=O)C(c1ccccc1)C1CCCCN1
+../drug-diffuser-0717/datasets/LactMed/Domperidone.jpg,,O=c1[nH]c2cc(Cl)ccc2n1CCCN1CCC(n2c(=O)[nH]c3ccccc32)CC1
+../drug-diffuser-0717/datasets/LactMed/Ketoconazole.jpg,,CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4F)O3)cc2)CC1
+../drug-diffuser-0717/datasets/LactMed/Hydralazine.jpg,,NNc1nncc2ccccc12
+../drug-diffuser-0717/datasets/LactMed/Iodohippurate Sodium I 125.jpg,,O=C([O-])CNC(=O)c1ccccc1[S-]
+../drug-diffuser-0717/datasets/LactMed/Lacosamide.jpg,,COCC(NC(C)=O)C(=O)NCc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Moxifloxacin.jpg,,COc1c(N2CC3CCCNC3C2)c(F)cc2c(=O)c(C3CC3)cn(C(=O)O)c12
+../drug-diffuser-0717/datasets/LactMed/Ofloxacin.jpg,,CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23
+../drug-diffuser-0717/datasets/LactMed/Sitagliptin.jpg,,NC(CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F
+../drug-diffuser-0717/datasets/LactMed/Iron Sucrose.jpg,,OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O
+../drug-diffuser-0717/datasets/LactMed/Fingolimod.jpg,,CCCCCCCCc1ccc(CCC(N)(CO)CO)cc1
+../drug-diffuser-0717/datasets/LactMed/Labetalol.jpg,,CC(CCc1ccccc1)NCC(O)c1ccc(O)c(C(N)=O)c1
+../drug-diffuser-0717/datasets/LactMed/Luliconazole.jpg,,N#CC(=C1SCC(c2ccc(Cl)cc2Cl)S1)n1ccnc1
+../drug-diffuser-0717/datasets/LactMed/Levocetirizine.jpg,,O=C(O)COCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1
+../drug-diffuser-0717/datasets/LactMed/Chlorpromazine.jpg,,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21
+../drug-diffuser-0717/datasets/LactMed/Aminosalicylic Acid.jpg,,Nc1ccc(C(=O)O)c(O)c1
+../drug-diffuser-0717/datasets/LactMed/Venlafaxine.jpg,,COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1
+../drug-diffuser-0717/datasets/LactMed/Calendula.jpg,,C=C(C)C1CCC2(C)C(O)CCC3(C)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C12
+../drug-diffuser-0717/datasets/LactMed/Plazomicin.jpg,,CNC1C(N)CC(OC2C(NC(=O)CCN)CC(N)C(OC3OC(CNCCO)C(O)C(N)C3O)C2O)OCC1OC
+../drug-diffuser-0717/datasets/LactMed/Methamphetamine.jpg,,CNC(C)Cc1ccccc1
+../drug-diffuser-0717/datasets/LactMed/Gadoteridol.jpg,,CC(O)CN1CCN(C)CCN(CC(=O)[O-])CCN(CC(=O)O)CCN(CC(=O)O)CC1
+../drug-diffuser-0717/datasets/LactMed/brincidofovir.jpg,,CCCCCCCCCCCCCCCCCCOCP(=O)(O)OC(CO)Cn1ccc(N)nc1=O
+../drug-diffuser-0717/datasets/LactMed/Technetium Tc 99m Dimercaptosuccinic Acid.jpg,,CC(S)C(C(=O)O)C(F)C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Mefloquine.jpg,,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1
+../drug-diffuser-0717/datasets/LactMed/Dorzolamide.jpg,,CCNC1CC(C)S(=O)(=O)c2sc(S(N)(=O)=O)cc21
+../drug-diffuser-0717/datasets/LactMed/Triamterene.jpg,,Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1
+../drug-diffuser-0717/datasets/LactMed/eribulin.jpg,,C=C1CC2OC3CC2(O)CCC2C(OC4CC5=C(C)C(=O)OC5C4)OC4CC5OC(=O)C(C)=C5CC(CC1OC32)C(OC)C4O
+../drug-diffuser-0717/datasets/LactMed/febuxostat.jpg,,Cc1nc(-c2ccc(OCC(C)C)c(C#N)c2)sc1C(=O)O
+../drug-diffuser-0717/datasets/LactMed/Hydroxyurea.jpg,,NC(=O)NO

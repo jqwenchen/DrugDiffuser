@@ -30,6 +30,7 @@ from diffusers.optimization import get_scheduler
 from diffusers.utils import check_min_version, is_wandb_available
 from diffusers.utils.import_utils import is_xformers_available
 from PIL import Image
+from pytorch_msssim import ssim
 
 check_min_version("0.18.0.dev0")
 
@@ -355,6 +356,7 @@ def main():
         if not is_wandb_available():
             raise ImportError("Make sure to install wandb if you want to use it for logging during training.")
         import wandb
+        wandb.init(project="drug-diffusers")
 
     # Make one log on every process with the configuration for debugging.
     logging.basicConfig(
@@ -678,7 +680,9 @@ def main():
     for epoch in range(first_epoch, args.num_train_epochs):
         unet.train()
         train_loss = 0.0
+        avg_ssim_val = 0.0
         cur_train_loss = []
+        cur_ssim_val = []
         for step, batch in enumerate(train_dataloader):
             # Skip steps until we reach the resumed step
             if args.resume_from_checkpoint and epoch == first_epoch and step < resume_step:
@@ -743,11 +747,14 @@ def main():
                     loss = F.mse_loss(model_pred.float(), target.float(), reduction="none")
                     loss = loss.mean(dim=list(range(1, len(loss.shape)))) * mse_loss_weights
                     loss = loss.mean()
-
+                ssim_val = ssim(target, model_pred)
                 # Gather the losses across all processes for logging (if we use distributed training).
                 avg_loss = accelerator.gather(loss.repeat(args.train_batch_size)).mean()
+                tmp_avg_ssim_val = accelerator.gather(ssim_val.repeat(args.train_batch_size)).mean()
                 train_loss += avg_loss.item() / args.gradient_accumulation_steps
+                avg_ssim_val += tmp_avg_ssim_val.item() / args.gradient_accumulation_steps
                 cur_train_loss.append(train_loss)
+                cur_ssim_val.append(avg_ssim_val)
 
                 # Backpropagate
                 accelerator.backward(loss)
@@ -762,7 +769,8 @@ def main():
             if accelerator.sync_gradients:
                 progress_bar.update(1)
                 global_step += 1
-                accelerator.log({"train_loss": train_loss}, step=global_step)
+                accelerator.log({"condition_train_loss": train_loss}, step=global_step)
+                accelerator.log({"condition_ssim_val": avg_ssim_val}, step=global_step)
                 train_loss = 0.0
 
                 if global_step % args.checkpointing_steps == 0:
@@ -797,6 +805,9 @@ def main():
             if global_step >= args.max_train_steps:
                 break
         train_loss_all = np.mean(cur_train_loss)
+        ssim_val_all = np.mean(cur_ssim_val)
+        accelerator.log({"condition_avg_train_loss": train_loss_all}, step=epoch)
+        accelerator.log({"condition_avg_ssim_val": ssim_val_all}, step=epoch)
         train_loss_list.append(train_loss_all)
     import matplotlib.pyplot as plt
     plt.plot(train_loss_list)
@@ -804,7 +815,7 @@ def main():
     plt.xlabel('epochs')
     plt.ylabel('loss')
     plt.savefig("loss.jpg")
-    plt.show()
+    # plt.show()
     # plt.savefig("loss.jpg")
     # Save the lora layers
     accelerator.wait_for_everyone()
